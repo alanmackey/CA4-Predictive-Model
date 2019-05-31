@@ -1,0 +1,2366 @@
+Year,MthAndYrCode,Trust,New_Hospital,Type,FourAndUnder_sum,FiveToTwelve_sum,OverTwelve_sum,Total_sum
+2008/09,8-Apr,Belfast,Belfast City,Type 1,"3,391.00",473,1,3865.00
+2008/09,8-Apr,Belfast,Mater,Type 1,"3,142.00",486,0,3628.00
+2008/09,8-Apr,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,224.00",862,0,6086.00
+2008/09,8-Apr,Belfast,RBHSC,Type 1,"2,480.00",398,0,2878.00
+2008/09,8-Apr,Northern,Antrim Area,Type 1,"4,728.00",667,10,5405.00
+2008/09,8-Apr,Northern,Causeway,Type 1,"3,186.00",172,0,3358.00
+2008/09,8-Apr,Northern,Mid-Ulster,Type 2,"1,346.00",141,0,1487.00
+2008/09,8-Apr,Northern,Whiteabbey,Type 2,"1,813.00",4,0,1817.00
+2008/09,8-Apr,South Eastern,Ards MIU,Type 3,943,0,0,943.00
+2008/09,8-Apr,South Eastern,Bangor MIU,Type 3,832,0,0,832.00
+2008/09,8-Apr,South Eastern,Downe,Type 2,"1,974.00",88,0,2062.00
+2008/09,8-Apr,South Eastern,Lagan Valley,Type 2,"2,410.00",244,7,2661.00
+2008/09,8-Apr,South Eastern,Ulster,Type 1,"5,370.00",605,3,5978.00
+2008/09,8-Apr,Southern,Armagh Community,Type 3,790,0,0,790.00
+2008/09,8-Apr,Southern,Craigavon Area,Type 1,"5,567.00",388,0,5955.00
+2008/09,8-Apr,Southern,Daisy Hill,Type 1,"2,773.00",113,0,2886.00
+2008/09,8-Apr,Southern,South Tyrone,Type 3,"1,332.00",0,0,1332.00
+2008/09,8-Apr,Western,Altnagelvin Area,Type 1,"3,571.00",459,0,4030.00
+2008/09,8-Apr,Western,South West Acute,Type 1,"1,922.00",26,0,1948.00
+2008/09,8-Apr,Western,Tyrone County,Type 2,"1,780.00",4,0,1784.00
+2008/09,8-May,Belfast,Belfast City,Type 1,"3,554.00",323,0,3877.00
+2008/09,8-May,Belfast,Mater,Type 1,"3,363.00",412,0,3775.00
+2008/09,8-May,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,067.00",896,0,5963.00
+2008/09,8-May,Belfast,RBHSC,Type 1,"2,674.00",260,0,2934.00
+2008/09,8-May,Northern,Antrim Area,Type 1,"5,239.00",630,0,5869.00
+2008/09,8-May,Northern,Causeway,Type 1,"3,688.00",155,0,3843.00
+2008/09,8-May,Northern,Mid-Ulster,Type 2,"1,563.00",85,0,1648.00
+2008/09,8-May,Northern,Whiteabbey,Type 2,"1,895.00",6,0,1901.00
+2008/09,8-May,South Eastern,Ards MIU,Type 3,924,0,0,924.00
+2008/09,8-May,South Eastern,Bangor MIU,Type 3,"1,019.00",0,0,1019.00
+2008/09,8-May,South Eastern,Downe,Type 2,"2,010.00",158,0,2168.00
+2008/09,8-May,South Eastern,Lagan Valley,Type 2,"2,725.00",164,4,2893.00
+2008/09,8-May,South Eastern,Ulster,Type 1,"5,808.00",446,5,6259.00
+2008/09,8-May,Southern,Armagh Community,Type 3,771,0,0,771.00
+2008/09,8-May,Southern,Craigavon Area,Type 1,"5,713.00",635,0,6348.00
+2008/09,8-May,Southern,Daisy Hill,Type 1,"3,085.00",104,0,3189.00
+2008/09,8-May,Southern,South Tyrone,Type 3,"1,572.00",0,0,1572.00
+2008/09,8-May,Western,Altnagelvin Area,Type 1,"3,927.00",609,2,4538.00
+2008/09,8-May,Western,South West Acute,Type 1,"2,078.00",42,1,2121.00
+2008/09,8-May,Western,Tyrone County,Type 2,"2,105.00",3,0,2108.00
+2008/09,8-Jun,Belfast,Belfast City,Type 1,"3,436.00",327,0,3763.00
+2008/09,8-Jun,Belfast,Mater,Type 1,"3,065.00",485,0,3550.00
+2008/09,8-Jun,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,662.00",955,1,5618.00
+2008/09,8-Jun,Belfast,RBHSC,Type 1,"2,465.00",239,0,2704.00
+2008/09,8-Jun,Northern,Antrim Area,Type 1,"4,785.00",807,1,5593.00
+2008/09,8-Jun,Northern,Causeway,Type 1,"3,249.00",276,1,3526.00
+2008/09,8-Jun,Northern,Mid-Ulster,Type 2,"1,508.00",31,0,1539.00
+2008/09,8-Jun,Northern,Whiteabbey,Type 2,"1,786.00",8,0,1794.00
+2008/09,8-Jun,South Eastern,Ards MIU,Type 3,850,0,0,850.00
+2008/09,8-Jun,South Eastern,Bangor MIU,Type 3,881,0,0,881.00
+2008/09,8-Jun,South Eastern,Downe,Type 2,"1,940.00",96,0,2036.00
+2008/09,8-Jun,South Eastern,Lagan Valley,Type 2,"2,591.00",95,0,2686.00
+2008/09,8-Jun,South Eastern,Ulster,Type 1,"5,656.00",430,1,6087.00
+2008/09,8-Jun,Southern,Armagh Community,Type 3,759,0,0,759.00
+2008/09,8-Jun,Southern,Craigavon Area,Type 1,"5,604.00",432,0,6036.00
+2008/09,8-Jun,Southern,Daisy Hill,Type 1,"2,899.00",102,0,3001.00
+2008/09,8-Jun,Southern,South Tyrone,Type 3,"1,521.00",0,0,1521.00
+2008/09,8-Jun,Western,Altnagelvin Area,Type 1,"3,489.00",733,0,4222.00
+2008/09,8-Jun,Western,South West Acute,Type 1,"2,000.00",18,0,2018.00
+2008/09,8-Jun,Western,Tyrone County,Type 2,"1,953.00",2,0,1955.00
+2008/09,8-Jul,Belfast,Belfast City,Type 1,"3,403.00",328,1,3732.00
+2008/09,8-Jul,Belfast,Mater,Type 1,"2,966.00",390,0,3356.00
+2008/09,8-Jul,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,305.00",574,0,5879.00
+2008/09,8-Jul,Belfast,RBHSC,Type 1,"2,199.00",101,0,2300.00
+2008/09,8-Jul,Northern,Antrim Area,Type 1,"4,553.00",802,5,5360.00
+2008/09,8-Jul,Northern,Causeway,Type 1,"3,279.00",330,0,3609.00
+2008/09,8-Jul,Northern,Mid-Ulster,Type 2,"1,440.00",18,0,1458.00
+2008/09,8-Jul,Northern,Whiteabbey,Type 2,"1,581.00",6,0,1587.00
+2008/09,8-Jul,South Eastern,Ards MIU,Type 3,835,0,0,835.00
+2008/09,8-Jul,South Eastern,Bangor MIU,Type 3,862,0,0,862.00
+2008/09,8-Jul,South Eastern,Downe,Type 2,"1,885.00",83,0,1968.00
+2008/09,8-Jul,South Eastern,Lagan Valley,Type 2,"2,408.00",127,0,2535.00
+2008/09,8-Jul,South Eastern,Ulster,Type 1,"5,163.00",589,2,5754.00
+2008/09,8-Jul,Southern,Armagh Community,Type 3,664,0,0,664.00
+2008/09,8-Jul,Southern,Craigavon Area,Type 1,"5,351.00",389,0,5740.00
+2008/09,8-Jul,Southern,Daisy Hill,Type 1,"2,804.00",138,0,2942.00
+2008/09,8-Jul,Southern,South Tyrone,Type 3,"1,314.00",0,0,1314.00
+2008/09,8-Jul,Western,Altnagelvin Area,Type 1,"3,619.00",526,0,4145.00
+2008/09,8-Jul,Western,South West Acute,Type 1,"2,048.00",35,0,2083.00
+2008/09,8-Jul,Western,Tyrone County,Type 2,"1,668.00",7,0,1675.00
+2008/09,8-Aug,Belfast,Belfast City,Type 1,"3,087.00",355,0,3442.00
+2008/09,8-Aug,Belfast,Mater,Type 1,"3,155.00",282,0,3437.00
+2008/09,8-Aug,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,707.00",415,0,5122.00
+2008/09,8-Aug,Belfast,RBHSC,Type 1,"1,959.00",140,0,2099.00
+2008/09,8-Aug,Northern,Antrim Area,Type 1,"4,286.00","1,032.00",0,5318.00
+2008/09,8-Aug,Northern,Causeway,Type 1,"3,388.00",324,0,3712.00
+2008/09,8-Aug,Northern,Mid-Ulster,Type 2,"1,485.00",11,0,1496.00
+2008/09,8-Aug,Northern,Whiteabbey,Type 2,"1,715.00",18,0,1733.00
+2008/09,8-Aug,South Eastern,Ards MIU,Type 3,756,0,0,756.00
+2008/09,8-Aug,South Eastern,Bangor MIU,Type 3,890,0,0,890.00
+2008/09,8-Aug,South Eastern,Downe,Type 2,"1,879.00",92,0,1971.00
+2008/09,8-Aug,South Eastern,Lagan Valley,Type 2,"2,494.00",110,0,2604.00
+2008/09,8-Aug,South Eastern,Ulster,Type 1,"5,317.00",512,3,5832.00
+2008/09,8-Aug,Southern,Armagh Community,Type 3,632,0,0,632.00
+2008/09,8-Aug,Southern,Craigavon Area,Type 1,"5,254.00",326,0,5580.00
+2008/09,8-Aug,Southern,Daisy Hill,Type 1,"2,785.00",52,0,2837.00
+2008/09,8-Aug,Southern,South Tyrone,Type 3,"1,288.00",0,0,1288.00
+2008/09,8-Aug,Western,Altnagelvin Area,Type 1,"3,765.00",408,0,4173.00
+2008/09,8-Aug,Western,South West Acute,Type 1,"1,979.00",35,0,2014.00
+2008/09,8-Aug,Western,Tyrone County,Type 2,"1,794.00",3,0,1797.00
+2008/09,8-Sep,Belfast,Belfast City,Type 1,"3,376.00",335,0,3711.00
+2008/09,8-Sep,Belfast,Mater,Type 1,"2,996.00",536,0,3532.00
+2008/09,8-Sep,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,112.00",830,1,5943.00
+2008/09,8-Sep,Belfast,RBHSC,Type 1,"2,436.00",210,0,2646.00
+2008/09,8-Sep,Northern,Antrim Area,Type 1,"4,514.00",822,0,5336.00
+2008/09,8-Sep,Northern,Causeway,Type 1,"3,029.00",235,0,3264.00
+2008/09,8-Sep,Northern,Mid-Ulster,Type 2,"1,447.00",10,0,1457.00
+2008/09,8-Sep,Northern,Whiteabbey,Type 2,"1,840.00",10,0,1850.00
+2008/09,8-Sep,South Eastern,Ards MIU,Type 3,830,0,0,830.00
+2008/09,8-Sep,South Eastern,Bangor MIU,Type 3,973,0,0,973.00
+2008/09,8-Sep,South Eastern,Downe,Type 2,"1,755.00",82,0,1837.00
+2008/09,8-Sep,South Eastern,Lagan Valley,Type 2,"2,532.00",74,0,2606.00
+2008/09,8-Sep,South Eastern,Ulster,Type 1,"5,290.00",616,0,5906.00
+2008/09,8-Sep,Southern,Armagh Community,Type 3,686,0,0,686.00
+2008/09,8-Sep,Southern,Craigavon Area,Type 1,"5,373.00",454,0,5827.00
+2008/09,8-Sep,Southern,Daisy Hill,Type 1,"2,705.00",100,0,2805.00
+2008/09,8-Sep,Southern,South Tyrone,Type 3,"1,308.00",0,0,1308.00
+2008/09,8-Sep,Western,Altnagelvin Area,Type 1,"3,819.00",571,0,4390.00
+2008/09,8-Sep,Western,South West Acute,Type 1,"1,849.00",30,0,1879.00
+2008/09,8-Sep,Western,Tyrone County,Type 2,"1,742.00",8,0,1750.00
+2008/09,8-Oct,Belfast,Belfast City,Type 1,"3,325.00",662,0,3987.00
+2008/09,8-Oct,Belfast,Mater,Type 1,"2,894.00",602,0,3496.00
+2008/09,8-Oct,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,975.00",800,0,5775.00
+2008/09,8-Oct,Belfast,RBHSC,Type 1,"2,172.00",345,0,2517.00
+2008/09,8-Oct,Northern,Antrim Area,Type 1,"4,472.00",908,0,5380.00
+2008/09,8-Oct,Northern,Causeway,Type 1,"2,858.00",272,0,3130.00
+2008/09,8-Oct,Northern,Mid-Ulster,Type 2,"1,484.00",25,0,1509.00
+2008/09,8-Oct,Northern,Whiteabbey,Type 2,"1,718.00",20,0,1738.00
+2008/09,8-Oct,South Eastern,Ards MIU,Type 3,785,0,0,785.00
+2008/09,8-Oct,South Eastern,Bangor MIU,Type 3,986,0,0,986.00
+2008/09,8-Oct,South Eastern,Downe,Type 2,"1,827.00",97,0,1924.00
+2008/09,8-Oct,South Eastern,Lagan Valley,Type 2,"2,624.00",94,0,2718.00
+2008/09,8-Oct,South Eastern,Ulster,Type 1,"5,089.00",896,38,6023.00
+2008/09,8-Oct,Southern,Armagh Community,Type 3,696,0,0,696.00
+2008/09,8-Oct,Southern,Craigavon Area,Type 1,"5,335.00",361,0,5696.00
+2008/09,8-Oct,Southern,Daisy Hill,Type 1,"2,605.00",101,0,2706.00
+2008/09,8-Oct,Southern,South Tyrone,Type 3,"1,152.00",0,0,1152.00
+2008/09,8-Oct,Western,Altnagelvin Area,Type 1,"3,653.00",435,0,4088.00
+2008/09,8-Oct,Western,South West Acute,Type 1,"1,871.00",59,0,1930.00
+2008/09,8-Oct,Western,Tyrone County,Type 2,"1,668.00",2,0,1670.00
+2008/09,8-Nov,Belfast,Belfast City,Type 1,"2,888.00",838,5,3731.00
+2008/09,8-Nov,Belfast,Mater,Type 1,"2,563.00",715,0,3278.00
+2008/09,8-Nov,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,527.00","1,021.00",1,5549.00
+2008/09,8-Nov,Belfast,RBHSC,Type 1,"2,342.00",15,0,2357.00
+2008/09,8-Nov,Northern,Antrim Area,Type 1,"4,095.00","1,056.00",19,5170.00
+2008/09,8-Nov,Northern,Causeway,Type 1,"2,841.00",287,1,3129.00
+2008/09,8-Nov,Northern,Mid-Ulster,Type 2,"1,391.00",53,0,1444.00
+2008/09,8-Nov,Northern,Whiteabbey,Type 2,"1,647.00",43,0,1690.00
+2008/09,8-Nov,South Eastern,Ards MIU,Type 3,758,0,0,758.00
+2008/09,8-Nov,South Eastern,Bangor MIU,Type 3,863,0,0,863.00
+2008/09,8-Nov,South Eastern,Downe,Type 2,"1,736.00",74,0,1810.00
+2008/09,8-Nov,South Eastern,Lagan Valley,Type 2,"2,524.00",77,0,2601.00
+2008/09,8-Nov,South Eastern,Ulster,Type 1,"4,703.00","1,139.00",95,5937.00
+2008/09,8-Nov,Southern,Armagh Community,Type 3,613,0,0,613.00
+2008/09,8-Nov,Southern,Craigavon Area,Type 1,"5,254.00",427,0,5681.00
+2008/09,8-Nov,Southern,Daisy Hill,Type 1,"2,420.00",75,0,2495.00
+2008/09,8-Nov,Southern,South Tyrone,Type 3,"1,109.00",0,0,1109.00
+2008/09,8-Nov,Western,Altnagelvin Area,Type 1,"3,564.00",657,1,4222.00
+2008/09,8-Nov,Western,South West Acute,Type 1,"1,826.00",79,0,1905.00
+2008/09,8-Nov,Western,Tyrone County,Type 2,"1,628.00",8,0,1636.00
+2008/09,8-Dec,Belfast,Belfast City,Type 1,"2,808.00",942,33,3783.00
+2008/09,8-Dec,Belfast,Mater,Type 1,"2,568.00",835,2,3405.00
+2008/09,8-Dec,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,020.00","1,459.00",8,5487.00
+2008/09,8-Dec,Belfast,RBHSC,Type 1,"2,364.00",743,0,3107.00
+2008/09,8-Dec,Northern,Antrim Area,Type 1,"3,976.00","1,460.00",78,5514.00
+2008/09,8-Dec,Northern,Causeway,Type 1,"2,834.00",375,1,3210.00
+2008/09,8-Dec,Northern,Mid-Ulster,Type 2,"1,325.00",52,0,1377.00
+2008/09,8-Dec,Northern,Whiteabbey,Type 2,"1,773.00",48,0,1821.00
+2008/09,8-Dec,South Eastern,Ards MIU,Type 3,680,0,0,680.00
+2008/09,8-Dec,South Eastern,Bangor MIU,Type 3,715,0,0,715.00
+2008/09,8-Dec,South Eastern,Downe,Type 2,"1,706.00",120,0,1826.00
+2008/09,8-Dec,South Eastern,Lagan Valley,Type 2,"2,500.00",193,2,2695.00
+2008/09,8-Dec,South Eastern,Ulster,Type 1,"4,528.00","1,434.00",126,6088.00
+2008/09,8-Dec,Southern,Armagh Community,Type 3,564,0,0,564.00
+2008/09,8-Dec,Southern,Craigavon Area,Type 1,"5,061.00",864,0,5925.00
+2008/09,8-Dec,Southern,Daisy Hill,Type 1,"2,541.00",107,0,2648.00
+2008/09,8-Dec,Southern,South Tyrone,Type 3,903,0,0,903.00
+2008/09,8-Dec,Western,Altnagelvin Area,Type 1,"3,374.00",766,2,4142.00
+2008/09,8-Dec,Western,South West Acute,Type 1,"1,795.00",102,0,1897.00
+2008/09,8-Dec,Western,Tyrone County,Type 2,"1,610.00",14,1,1625.00
+2008/09,9-Jan,Belfast,Belfast City,Type 1,"2,443.00",882,50,3375.00
+2008/09,9-Jan,Belfast,Mater,Type 1,"2,372.00",619,107,3098.00
+2008/09,9-Jan,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,067.00","1,252.00",174,5493.00
+2008/09,9-Jan,Belfast,RBHSC,Type 1,"1,906.00",386,2,2294.00
+2008/09,9-Jan,Northern,Antrim Area,Type 1,"3,718.00","1,191.00",125,5034.00
+2008/09,9-Jan,Northern,Causeway,Type 1,"2,491.00",403,52,2946.00
+2008/09,9-Jan,Northern,Mid-Ulster,Type 2,"1,274.00",77,0,1351.00
+2008/09,9-Jan,Northern,Whiteabbey,Type 2,"1,570.00",22,0,1592.00
+2008/09,9-Jan,South Eastern,Ards MIU,Type 3,625,0,0,625.00
+2008/09,9-Jan,South Eastern,Bangor MIU,Type 3,792,0,0,792.00
+2008/09,9-Jan,South Eastern,Downe,Type 2,"1,685.00",198,5,1888.00
+2008/09,9-Jan,South Eastern,Lagan Valley,Type 2,"2,270.00",124,1,2395.00
+2008/09,9-Jan,South Eastern,Ulster,Type 1,"4,151.00","1,116.00",217,5484.00
+2008/09,9-Jan,Southern,Armagh Community,Type 3,584,0,0,584.00
+2008/09,9-Jan,Southern,Craigavon Area,Type 1,"4,848.00",678,1,5527.00
+2008/09,9-Jan,Southern,Daisy Hill,Type 1,"2,392.00",67,0,2459.00
+2008/09,9-Jan,Southern,South Tyrone,Type 3,"1,014.00",0,0,1014.00
+2008/09,9-Jan,Western,Altnagelvin Area,Type 1,"3,359.00",657,0,4016.00
+2008/09,9-Jan,Western,South West Acute,Type 1,"1,622.00",140,0,1762.00
+2008/09,9-Jan,Western,Tyrone County,Type 2,"1,562.00",22,0,1584.00
+2008/09,9-Feb,Belfast,Belfast City,Type 1,"2,393.00",994,66,3453.00
+2008/09,9-Feb,Belfast,Mater,Type 1,"2,272.00",719,76,3067.00
+2008/09,9-Feb,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"3,970.00","1,387.00",74,5431.00
+2008/09,9-Feb,Belfast,RBHSC,Type 1,"2,007.00",460,0,2467.00
+2008/09,9-Feb,Northern,Antrim Area,Type 1,"3,561.00","1,214.00",100,4875.00
+2008/09,9-Feb,Northern,Causeway,Type 1,"2,561.00",399,25,2985.00
+2008/09,9-Feb,Northern,Mid-Ulster,Type 2,"1,331.00",61,0,1392.00
+2008/09,9-Feb,Northern,Whiteabbey,Type 2,"1,556.00",24,0,1580.00
+2008/09,9-Feb,South Eastern,Ards MIU,Type 3,686,0,0,686.00
+2008/09,9-Feb,South Eastern,Bangor MIU,Type 3,772,0,0,772.00
+2008/09,9-Feb,South Eastern,Downe,Type 2,"1,495.00",172,2,1669.00
+2008/09,9-Feb,South Eastern,Lagan Valley,Type 2,"2,352.00",150,3,2505.00
+2008/09,9-Feb,South Eastern,Ulster,Type 1,"4,404.00",935,112,5451.00
+2008/09,9-Feb,Southern,Armagh Community,Type 3,582,0,0,582.00
+2008/09,9-Feb,Southern,Craigavon Area,Type 1,"4,854.00",523,0,5377.00
+2008/09,9-Feb,Southern,Daisy Hill,Type 1,"2,370.00",73,0,2443.00
+2008/09,9-Feb,Southern,South Tyrone,Type 3,"1,086.00",0,0,1086.00
+2008/09,9-Feb,Western,Altnagelvin Area,Type 1,"3,290.00",697,3,3990.00
+2008/09,9-Feb,Western,South West Acute,Type 1,"1,563.00",152,0,1715.00
+2008/09,9-Feb,Western,Tyrone County,Type 2,"1,350.00",13,0,1363.00
+2008/09,9-Mar,Belfast,Belfast City,Type 1,"2,776.00","1,114.00",160,4050.00
+2008/09,9-Mar,Belfast,Mater,Type 1,"2,646.00",898,54,3598.00
+2008/09,9-Mar,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,425.00","1,580.00",77,6082.00
+2008/09,9-Mar,Belfast,RBHSC,Type 1,"2,328.00",739,2,3069.00
+2008/09,9-Mar,Northern,Antrim Area,Type 1,"4,131.00","1,548.00",79,5758.00
+2008/09,9-Mar,Northern,Causeway,Type 1,"2,889.00",616,15,3520.00
+2008/09,9-Mar,Northern,Mid-Ulster,Type 2,"1,502.00",40,0,1542.00
+2008/09,9-Mar,Northern,Whiteabbey,Type 2,"1,835.00",17,0,1852.00
+2008/09,9-Mar,South Eastern,Ards MIU,Type 3,873,0,0,873.00
+2008/09,9-Mar,South Eastern,Bangor MIU,Type 3,965,0,0,965.00
+2008/09,9-Mar,South Eastern,Downe,Type 2,"1,943.00",107,0,2050.00
+2008/09,9-Mar,South Eastern,Lagan Valley,Type 2,"2,597.00",229,50,2876.00
+2008/09,9-Mar,South Eastern,Ulster,Type 1,"5,300.00","1,026.00",176,6502.00
+2008/09,9-Mar,Southern,Armagh Community,Type 3,745,0,0,745.00
+2008/09,9-Mar,Southern,Craigavon Area,Type 1,"5,892.00",509,0,6401.00
+2008/09,9-Mar,Southern,Daisy Hill,Type 1,"2,948.00",52,0,3000.00
+2008/09,9-Mar,Southern,South Tyrone,Type 3,"1,347.00",0,0,1347.00
+2008/09,9-Mar,Western,Altnagelvin Area,Type 1,"3,775.00","1,010.00",7,4792.00
+2008/09,9-Mar,Western,South West Acute,Type 1,"2,001.00",271,3,2275.00
+2008/09,9-Mar,Western,Tyrone County,Type 3,"1,042.00",3,0,1045.00
+2009/10,9-Apr,Belfast,Belfast City,Type 1,"2,660.00","1,159.00",5,3824.00
+2009/10,9-Apr,Belfast,Mater,Type 1,"2,502.00",828,35,3365.00
+2009/10,9-Apr,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,542.00","1,622.00",47,6211.00
+2009/10,9-Apr,Belfast,RBHSC,Type 1,"2,178.00",704,1,2883.00
+2009/10,9-Apr,Northern,Antrim Area,Type 1,"4,223.00","1,111.00",17,5351.00
+2009/10,9-Apr,Northern,Causeway,Type 1,"3,041.00",494,1,3536.00
+2009/10,9-Apr,Northern,Mid-Ulster,Type 2,"1,521.00",30,0,1551.00
+2009/10,9-Apr,Northern,Whiteabbey,Type 2,"1,619.00",20,0,1639.00
+2009/10,9-Apr,South Eastern,Ards MIU,Type 3,832,0,0,832.00
+2009/10,9-Apr,South Eastern,Bangor MIU,Type 3,877,0,0,877.00
+2009/10,9-Apr,South Eastern,Downe,Type 2,"1,967.00",137,2,2106.00
+2009/10,9-Apr,South Eastern,Lagan Valley,Type 2,"2,458.00",301,30,2789.00
+2009/10,9-Apr,South Eastern,Ulster,Type 1,"4,809.00","1,203.00",163,6175.00
+2009/10,9-Apr,Southern,Armagh Community,Type 3,652,0,0,652.00
+2009/10,9-Apr,Southern,Craigavon Area,Type 1,"5,582.00",567,1,6150.00
+2009/10,9-Apr,Southern,Daisy Hill,Type 1,"2,740.00",275,0,3015.00
+2009/10,9-Apr,Southern,South Tyrone,Type 3,"1,393.00",0,0,1393.00
+2009/10,9-Apr,Western,Altnagelvin Area,Type 1,"3,608.00",963,7,4578.00
+2009/10,9-Apr,Western,South West Acute,Type 1,"2,173.00",143,0,2316.00
+2009/10,9-Apr,Western,Tyrone County,Type 3,"1,115.00",1,0,1116.00
+2009/10,9-May,Belfast,Belfast City,Type 1,"2,826.00","1,068.00",0,3894.00
+2009/10,9-May,Belfast,Mater,Type 1,"2,900.00",582,15,3497.00
+2009/10,9-May,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,050.00","1,585.00",13,5648.00
+2009/10,9-May,Belfast,RBHSC,Type 1,"2,357.00",466,0,2823.00
+2009/10,9-May,Northern,Antrim Area,Type 1,"4,627.00","1,136.00",0,5763.00
+2009/10,9-May,Northern,Causeway,Type 1,"3,172.00",429,1,3602.00
+2009/10,9-May,Northern,Mid-Ulster,Type 2,"1,607.00",39,0,1646.00
+2009/10,9-May,Northern,Whiteabbey,Type 2,"1,784.00",29,0,1813.00
+2009/10,9-May,South Eastern,Ards MIU,Type 3,847,0,0,847.00
+2009/10,9-May,South Eastern,Bangor MIU,Type 3,944,0,0,944.00
+2009/10,9-May,South Eastern,Downe,Type 2,"2,026.00",85,0,2111.00
+2009/10,9-May,South Eastern,Lagan Valley,Type 2,"2,550.00",232,5,2787.00
+2009/10,9-May,South Eastern,Ulster,Type 1,"4,963.00","1,154.00",127,6244.00
+2009/10,9-May,Southern,Armagh Community,Type 3,740,0,0,740.00
+2009/10,9-May,Southern,Craigavon Area,Type 1,"5,671.00",606,2,6279.00
+2009/10,9-May,Southern,Daisy Hill,Type 1,"2,748.00",162,0,2910.00
+2009/10,9-May,Southern,South Tyrone,Type 3,"1,419.00",0,0,1419.00
+2009/10,9-May,Western,Altnagelvin Area,Type 1,"3,615.00","1,009.00",4,4628.00
+2009/10,9-May,Western,South West Acute,Type 1,"2,105.00",225,2,2332.00
+2009/10,9-May,Western,Tyrone County,Type 3,"1,137.00",8,0,1145.00
+2009/10,9-Jun,Belfast,Belfast City,Type 1,"3,031.00",710,5,3746.00
+2009/10,9-Jun,Belfast,Mater,Type 1,"2,964.00",553,3,3520.00
+2009/10,9-Jun,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,013.00","1,185.00",6,5204.00
+2009/10,9-Jun,Belfast,RBHSC,Type 1,"2,161.00",250,0,2411.00
+2009/10,9-Jun,Northern,Antrim Area,Type 1,"4,640.00",982,1,5623.00
+2009/10,9-Jun,Northern,Causeway,Type 1,"3,256.00",329,0,3585.00
+2009/10,9-Jun,Northern,Mid-Ulster,Type 2,"1,686.00",38,0,1724.00
+2009/10,9-Jun,Northern,Whiteabbey,Type 2,"1,767.00",14,0,1781.00
+2009/10,9-Jun,South Eastern,Ards MIU,Type 3,969,0,0,969.00
+2009/10,9-Jun,South Eastern,Bangor MIU,Type 3,"1,080.00",0,0,1080.00
+2009/10,9-Jun,South Eastern,Downe,Type 2,"2,083.00",96,0,2179.00
+2009/10,9-Jun,South Eastern,Lagan Valley,Type 2,"2,775.00",170,1,2946.00
+2009/10,9-Jun,South Eastern,Ulster,Type 1,"5,290.00",988,9,6287.00
+2009/10,9-Jun,Southern,Armagh Community,Type 3,766,0,0,766.00
+2009/10,9-Jun,Southern,Craigavon Area,Type 1,"5,969.00",266,0,6235.00
+2009/10,9-Jun,Southern,Daisy Hill,Type 1,"2,924.00",186,0,3110.00
+2009/10,9-Jun,Southern,South Tyrone,Type 3,"1,575.00",0,0,1575.00
+2009/10,9-Jun,Western,Altnagelvin Area,Type 1,"3,865.00",988,6,4859.00
+2009/10,9-Jun,Western,South West Acute,Type 1,"2,310.00",186,0,2496.00
+2009/10,9-Jun,Western,Tyrone County,Type 3,"1,254.00",0,0,1254.00
+2009/10,9-Jul,Belfast,Belfast City,Type 1,"3,049.00",491,0,3540.00
+2009/10,9-Jul,Belfast,Mater,Type 1,"2,757.00",540,0,3297.00
+2009/10,9-Jul,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,136.00","1,196.00",1,5333.00
+2009/10,9-Jul,Belfast,RBHSC,Type 1,"2,119.00",176,0,2295.00
+2009/10,9-Jul,Northern,Antrim Area,Type 1,"4,440.00","1,058.00",0,5498.00
+2009/10,9-Jul,Northern,Causeway,Type 1,"3,449.00",462,0,3911.00
+2009/10,9-Jul,Northern,Mid-Ulster,Type 2,"1,575.00",22,0,1597.00
+2009/10,9-Jul,Northern,Whiteabbey,Type 2,"1,641.00",11,0,1652.00
+2009/10,9-Jul,South Eastern,Ards MIU,Type 3,841,0,0,841.00
+2009/10,9-Jul,South Eastern,Bangor MIU,Type 3,970,0,0,970.00
+2009/10,9-Jul,South Eastern,Downe,Type 2,"1,957.00",134,0,2091.00
+2009/10,9-Jul,South Eastern,Lagan Valley,Type 2,"2,622.00",138,1,2761.00
+2009/10,9-Jul,South Eastern,Ulster,Type 1,"4,986.00",981,20,5987.00
+2009/10,9-Jul,Southern,Armagh Community,Type 3,664,1,0,665.00
+2009/10,9-Jul,Southern,Craigavon Area,Type 1,"5,584.00",262,0,5846.00
+2009/10,9-Jul,Southern,Daisy Hill,Type 1,"2,705.00",196,0,2901.00
+2009/10,9-Jul,Southern,South Tyrone,Type 3,"1,346.00",0,0,1346.00
+2009/10,9-Jul,Western,Altnagelvin Area,Type 1,"3,839.00",724,1,4564.00
+2009/10,9-Jul,Western,South West Acute,Type 1,"2,203.00",110,0,2313.00
+2009/10,9-Jul,Western,Tyrone County,Type 3,"1,095.00",2,0,1097.00
+2009/10,9-Aug,Belfast,Belfast City,Type 1,"2,540.00",748,0,3288.00
+2009/10,9-Aug,Belfast,Mater,Type 1,"2,693.00",676,4,3373.00
+2009/10,9-Aug,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,195.00",766,0,4961.00
+2009/10,9-Aug,Belfast,RBHSC,Type 1,"1,863.00",130,0,1993.00
+2009/10,9-Aug,Northern,Antrim Area,Type 1,"4,073.00","1,110.00",0,5183.00
+2009/10,9-Aug,Northern,Causeway,Type 1,"3,350.00",420,0,3770.00
+2009/10,9-Aug,Northern,Mid-Ulster,Type 2,"1,471.00",20,0,1491.00
+2009/10,9-Aug,Northern,Whiteabbey,Type 2,"1,652.00",14,0,1666.00
+2009/10,9-Aug,South Eastern,Ards MIU,Type 3,821,0,0,821.00
+2009/10,9-Aug,South Eastern,Bangor MIU,Type 3,958,0,0,958.00
+2009/10,9-Aug,South Eastern,Downe,Type 2,"1,969.00",138,0,2107.00
+2009/10,9-Aug,South Eastern,Lagan Valley,Type 2,"2,397.00",194,0,2591.00
+2009/10,9-Aug,South Eastern,Ulster,Type 1,"4,938.00","1,029.00",14,5981.00
+2009/10,9-Aug,Southern,Armagh Community,Type 3,620,0,0,620.00
+2009/10,9-Aug,Southern,Craigavon Area,Type 1,"5,535.00",363,0,5898.00
+2009/10,9-Aug,Southern,Daisy Hill,Type 1,"2,703.00",73,0,2776.00
+2009/10,9-Aug,Southern,South Tyrone,Type 3,"1,325.00",0,0,1325.00
+2009/10,9-Aug,Western,Altnagelvin Area,Type 1,"3,553.00","1,013.00",2,4568.00
+2009/10,9-Aug,Western,South West Acute,Type 1,"2,204.00",143,0,2347.00
+2009/10,9-Aug,Western,Tyrone County,Type 3,986,1,0,987.00
+2009/10,9-Sep,Belfast,Belfast City,Type 1,"2,466.00","1,019.00",14,3499.00
+2009/10,9-Sep,Belfast,Mater,Type 1,"2,675.00",581,3,3259.00
+2009/10,9-Sep,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,977.00",921,0,5898.00
+2009/10,9-Sep,Belfast,RBHSC,Type 1,"2,154.00",329,0,2483.00
+2009/10,9-Sep,Northern,Antrim Area,Type 1,"4,456.00","1,163.00",0,5619.00
+2009/10,9-Sep,Northern,Causeway,Type 1,"3,053.00",272,0,3325.00
+2009/10,9-Sep,Northern,Mid-Ulster,Type 2,"1,457.00",58,0,1515.00
+2009/10,9-Sep,Northern,Whiteabbey,Type 2,"1,624.00",20,0,1644.00
+2009/10,9-Sep,South Eastern,Ards MIU,Type 3,829,0,0,829.00
+2009/10,9-Sep,South Eastern,Bangor MIU,Type 3,"1,103.00",0,0,1103.00
+2009/10,9-Sep,South Eastern,Downe,Type 2,"1,890.00",65,0,1955.00
+2009/10,9-Sep,South Eastern,Lagan Valley,Type 2,"2,416.00",294,3,2713.00
+2009/10,9-Sep,South Eastern,Ulster,Type 1,"5,017.00","1,049.00",20,6086.00
+2009/10,9-Sep,Southern,Armagh Community,Type 3,660,0,0,660.00
+2009/10,9-Sep,Southern,Craigavon Area,Type 1,"5,568.00",440,0,6008.00
+2009/10,9-Sep,Southern,Daisy Hill,Type 1,"2,752.00",76,0,2828.00
+2009/10,9-Sep,Southern,South Tyrone,Type 3,"1,378.00",0,0,1378.00
+2009/10,9-Sep,Western,Altnagelvin Area,Type 1,"3,359.00","1,056.00",8,4423.00
+2009/10,9-Sep,Western,South West Acute,Type 1,"1,951.00",163,0,2114.00
+2009/10,9-Sep,Western,Tyrone County,Type 3,"1,075.00",0,0,1075.00
+2009/10,9-Oct,Belfast,Belfast City,Type 1,"2,733.00",933,0,3666.00
+2009/10,9-Oct,Belfast,Mater,Type 1,"2,724.00",622,3,3349.00
+2009/10,9-Oct,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,721.00",764,4,5489.00
+2009/10,9-Oct,Belfast,RBHSC,Type 1,"2,324.00",190,0,2514.00
+2009/10,9-Oct,Northern,Antrim Area,Type 1,"4,092.00","1,595.00",0,5687.00
+2009/10,9-Oct,Northern,Causeway,Type 1,"3,189.00",258,3,3450.00
+2009/10,9-Oct,Northern,Mid-Ulster,Type 2,"1,404.00",22,0,1426.00
+2009/10,9-Oct,Northern,Whiteabbey,Type 2,"1,549.00",21,0,1570.00
+2009/10,9-Oct,South Eastern,Ards MIU,Type 3,714,0,0,714.00
+2009/10,9-Oct,South Eastern,Bangor MIU,Type 3,989,1,0,990.00
+2009/10,9-Oct,South Eastern,Downe,Type 2,"1,811.00",109,0,1920.00
+2009/10,9-Oct,South Eastern,Lagan Valley,Type 2,"2,462.00",284,5,2751.00
+2009/10,9-Oct,South Eastern,Ulster,Type 1,"4,674.00","1,471.00",23,6168.00
+2009/10,9-Oct,Southern,Armagh Community,Type 3,661,0,0,661.00
+2009/10,9-Oct,Southern,Craigavon Area,Type 1,"5,294.00",707,0,6001.00
+2009/10,9-Oct,Southern,Daisy Hill,Type 1,"2,655.00",146,0,2801.00
+2009/10,9-Oct,Southern,South Tyrone,Type 3,"1,239.00",0,0,1239.00
+2009/10,9-Oct,Western,Altnagelvin Area,Type 1,"3,269.00","1,285.00",8,4562.00
+2009/10,9-Oct,Western,South West Acute,Type 1,"1,980.00",195,0,2175.00
+2009/10,9-Oct,Western,Tyrone County,Type 3,"1,049.00",0,0,1049.00
+2009/10,9-Nov,Belfast,Belfast City,Type 1,"2,601.00",970,9,3580.00
+2009/10,9-Nov,Belfast,Mater,Type 1,"2,565.00",612,10,3187.00
+2009/10,9-Nov,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,521.00","1,172.00",17,5710.00
+2009/10,9-Nov,Belfast,RBHSC,Type 1,"2,116.00",485,1,2602.00
+2009/10,9-Nov,Northern,Antrim Area,Type 1,"3,419.00","1,813.00",44,5276.00
+2009/10,9-Nov,Northern,Causeway,Type 1,"2,881.00",268,9,3158.00
+2009/10,9-Nov,Northern,Mid-Ulster,Type 2,"1,258.00",27,0,1285.00
+2009/10,9-Nov,Northern,Whiteabbey,Type 2,"1,411.00",14,0,1425.00
+2009/10,9-Nov,South Eastern,Ards MIU,Type 3,655,0,0,655.00
+2009/10,9-Nov,South Eastern,Bangor MIU,Type 3,910,0,0,910.00
+2009/10,9-Nov,South Eastern,Downe,Type 2,"1,725.00",96,0,1821.00
+2009/10,9-Nov,South Eastern,Lagan Valley,Type 2,"2,258.00",294,7,2559.00
+2009/10,9-Nov,South Eastern,Ulster,Type 1,"4,459.00","1,279.00",117,5855.00
+2009/10,9-Nov,Southern,Armagh Community,Type 3,514,0,0,514.00
+2009/10,9-Nov,Southern,Craigavon Area,Type 1,"5,093.00",618,0,5711.00
+2009/10,9-Nov,Southern,Daisy Hill,Type 1,"2,564.00",84,0,2648.00
+2009/10,9-Nov,Southern,South Tyrone,Type 3,"1,141.00",0,0,1141.00
+2009/10,9-Nov,Western,Altnagelvin Area,Type 1,"3,132.00","1,028.00",22,4182.00
+2009/10,9-Nov,Western,South West Acute,Type 1,"1,888.00",152,0,2040.00
+2009/10,9-Nov,Western,Tyrone County,Type 3,"1,033.00",0,0,1033.00
+2009/10,9-Dec,Belfast,Belfast City,Type 1,"2,165.00","1,320.00",12,3497.00
+2009/10,9-Dec,Belfast,Mater,Type 1,"2,398.00",872,46,3316.00
+2009/10,9-Dec,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,419.00","1,235.00",10,5664.00
+2009/10,9-Dec,Belfast,RBHSC,Type 1,"2,329.00",635,0,2964.00
+2009/10,9-Dec,Northern,Antrim Area,Type 1,"3,696.00","1,744.00",55,5495.00
+2009/10,9-Dec,Northern,Causeway,Type 1,"2,834.00",488,16,3338.00
+2009/10,9-Dec,Northern,Mid-Ulster,Type 2,"1,158.00",28,0,1186.00
+2009/10,9-Dec,Northern,Whiteabbey,Type 2,"1,375.00",27,0,1402.00
+2009/10,9-Dec,South Eastern,Ards MIU,Type 3,593,0,0,593.00
+2009/10,9-Dec,South Eastern,Bangor MIU,Type 3,837,0,0,837.00
+2009/10,9-Dec,South Eastern,Downe,Type 2,"1,609.00",116,1,1726.00
+2009/10,9-Dec,South Eastern,Lagan Valley,Type 2,"2,205.00",320,23,2548.00
+2009/10,9-Dec,South Eastern,Ulster,Type 1,"4,158.00","1,555.00",230,5943.00
+2009/10,9-Dec,Southern,Armagh Community,Type 3,530,0,0,530.00
+2009/10,9-Dec,Southern,Craigavon Area,Type 1,"4,986.00",762,0,5748.00
+2009/10,9-Dec,Southern,Daisy Hill,Type 1,"2,645.00",137,0,2782.00
+2009/10,9-Dec,Southern,South Tyrone,Type 3,"1,061.00",0,0,1061.00
+2009/10,9-Dec,Western,Altnagelvin Area,Type 1,"3,222.00",954,6,4182.00
+2009/10,9-Dec,Western,South West Acute,Type 1,"1,893.00",191,0,2084.00
+2009/10,9-Dec,Western,Tyrone County,Type 3,983,3,0,986.00
+2009/10,10-Jan,Belfast,Belfast City,Type 1,"2,127.00","1,252.00",77,3456.00
+2009/10,10-Jan,Belfast,Mater,Type 1,"2,385.00",676,87,3148.00
+2009/10,10-Jan,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,117.00","1,383.00",146,5646.00
+2009/10,10-Jan,Belfast,RBHSC,Type 1,"1,816.00",476,0,2292.00
+2009/10,10-Jan,Northern,Antrim Area,Type 1,"3,642.00","1,654.00",132,5428.00
+2009/10,10-Jan,Northern,Causeway,Type 1,"2,818.00",445,35,3298.00
+2009/10,10-Jan,Northern,Mid-Ulster,Type 2,"1,142.00",36,0,1178.00
+2009/10,10-Jan,Northern,Whiteabbey,Type 2,"1,421.00",29,0,1450.00
+2009/10,10-Jan,South Eastern,Ards MIU,Type 3,597,0,0,597.00
+2009/10,10-Jan,South Eastern,Bangor MIU,Type 3,844,0,0,844.00
+2009/10,10-Jan,South Eastern,Downe,Type 2,"1,632.00",157,18,1807.00
+2009/10,10-Jan,South Eastern,Lagan Valley,Type 2,"2,094.00",387,59,2540.00
+2009/10,10-Jan,South Eastern,Ulster,Type 1,"4,219.00","1,344.00",265,5828.00
+2009/10,10-Jan,Southern,Armagh Community,Type 3,540,0,0,540.00
+2009/10,10-Jan,Southern,Craigavon Area,Type 1,"4,811.00",808,0,5619.00
+2009/10,10-Jan,Southern,Daisy Hill,Type 1,"2,709.00",131,0,2840.00
+2009/10,10-Jan,Southern,South Tyrone,Type 3,"1,124.00",0,0,1124.00
+2009/10,10-Jan,Western,Altnagelvin Area,Type 1,"3,293.00","1,007.00",4,4304.00
+2009/10,10-Jan,Western,South West Acute,Type 1,"1,952.00",164,0,2116.00
+2009/10,10-Jan,Western,Tyrone County,Type 3,976,0,0,976.00
+2009/10,10-Feb,Belfast,Belfast City,Type 1,"2,163.00",989,58,3210.00
+2009/10,10-Feb,Belfast,Mater,Type 1,"2,132.00",611,97,2840.00
+2009/10,10-Feb,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,024.00","1,312.00",98,5434.00
+2009/10,10-Feb,Belfast,RBHSC,Type 1,"1,996.00",394,0,2390.00
+2009/10,10-Feb,Northern,Antrim Area,Type 1,"3,474.00","1,266.00",129,4869.00
+2009/10,10-Feb,Northern,Causeway,Type 1,"2,638.00",300,4,2942.00
+2009/10,10-Feb,Northern,Mid-Ulster,Type 2,"1,146.00",41,0,1187.00
+2009/10,10-Feb,Northern,Whiteabbey,Type 2,"1,351.00",24,0,1375.00
+2009/10,10-Feb,South Eastern,Ards MIU,Type 3,649,0,0,649.00
+2009/10,10-Feb,South Eastern,Bangor MIU,Type 3,859,0,0,859.00
+2009/10,10-Feb,South Eastern,Downe,Type 2,"1,458.00",119,6,1583.00
+2009/10,10-Feb,South Eastern,Lagan Valley,Type 2,"1,860.00",424,46,2330.00
+2009/10,10-Feb,South Eastern,Ulster,Type 1,"3,907.00","1,387.00",99,5393.00
+2009/10,10-Feb,Southern,Armagh Community,Type 3,563,0,0,563.00
+2009/10,10-Feb,Southern,Craigavon Area,Type 1,"4,601.00",670,0,5271.00
+2009/10,10-Feb,Southern,Daisy Hill,Type 1,"2,350.00",201,0,2551.00
+2009/10,10-Feb,Southern,South Tyrone,Type 3,"1,090.00",0,0,1090.00
+2009/10,10-Feb,Western,Altnagelvin Area,Type 1,"3,216.00",723,1,3940.00
+2009/10,10-Feb,Western,South West Acute,Type 1,"1,616.00",134,0,1750.00
+2009/10,10-Feb,Western,Tyrone County,Type 3,906,0,0,906.00
+2009/10,10-Mar,Belfast,Belfast City,Type 1,"2,218.00","1,309.00",113,3640.00
+2009/10,10-Mar,Belfast,Mater,Type 1,"2,554.00",609,143,3306.00
+2009/10,10-Mar,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,796.00","1,204.00",259,6259.00
+2009/10,10-Mar,Belfast,RBHSC,Type 1,"2,388.00",688,1,3077.00
+2009/10,10-Mar,Northern,Antrim Area,Type 1,"3,509.00","1,951.00",342,5802.00
+2009/10,10-Mar,Northern,Causeway,Type 1,"3,019.00",403,30,3452.00
+2009/10,10-Mar,Northern,Mid-Ulster,Type 2,"1,422.00",43,0,1465.00
+2009/10,10-Mar,Northern,Whiteabbey,Type 2,"1,566.00",23,0,1589.00
+2009/10,10-Mar,South Eastern,Ards MIU,Type 3,797,0,0,797.00
+2009/10,10-Mar,South Eastern,Bangor MIU,Type 3,"1,012.00",0,0,1012.00
+2009/10,10-Mar,South Eastern,Downe,Type 2,"1,802.00",187,3,1992.00
+2009/10,10-Mar,South Eastern,Lagan Valley,Type 2,"2,043.00",680,90,2813.00
+2009/10,10-Mar,South Eastern,Ulster,Type 1,"4,489.00","1,424.00",250,6163.00
+2009/10,10-Mar,Southern,Armagh Community,Type 3,663,0,0,663.00
+2009/10,10-Mar,Southern,Craigavon Area,Type 1,"5,485.00","1,029.00",1,6515.00
+2009/10,10-Mar,Southern,Daisy Hill,Type 1,"2,878.00",229,0,3107.00
+2009/10,10-Mar,Southern,South Tyrone,Type 3,"1,400.00",0,0,1400.00
+2009/10,10-Mar,Western,Altnagelvin Area,Type 1,"3,509.00","1,149.00",7,4665.00
+2009/10,10-Mar,Western,South West Acute,Type 1,"2,072.00",141,0,2213.00
+2009/10,10-Mar,Western,Tyrone County,Type 3,"1,107.00",1,0,1108.00
+2010/11,10-Apr,Belfast,Belfast City,Type 1,"2,587.00","1,074.00",36,3697.00
+2010/11,10-Apr,Belfast,Mater,Type 1,"2,542.00",752,98,3392.00
+2010/11,10-Apr,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,996.00","1,301.00",89,6386.00
+2010/11,10-Apr,Belfast,RBHSC,Type 1,"2,360.00",542,0,2902.00
+2010/11,10-Apr,Northern,Antrim Area,Type 1,"3,386.00","1,867.00",301,5554.00
+2010/11,10-Apr,Northern,Causeway,Type 1,"3,286.00",409,34,3729.00
+2010/11,10-Apr,Northern,Mid-Ulster,Type 2,"1,385.00",55,0,1440.00
+2010/11,10-Apr,Northern,Whiteabbey,Type 2,"1,617.00",34,0,1651.00
+2010/11,10-Apr,South Eastern,Ards MIU,Type 3,835,0,0,835.00
+2010/11,10-Apr,South Eastern,Bangor MIU,Type 3,"1,051.00",0,0,1051.00
+2010/11,10-Apr,South Eastern,Downe,Type 2,"1,876.00",135,0,2011.00
+2010/11,10-Apr,South Eastern,Lagan Valley,Type 2,"2,368.00",340,33,2741.00
+2010/11,10-Apr,South Eastern,Ulster,Type 1,"5,024.00","1,128.00",39,6191.00
+2010/11,10-Apr,Southern,Armagh Community,Type 3,717,0,0,717.00
+2010/11,10-Apr,Southern,Craigavon Area,Type 1,"5,334.00",920,0,6254.00
+2010/11,10-Apr,Southern,Daisy Hill,Type 1,"2,896.00",236,0,3132.00
+2010/11,10-Apr,Southern,South Tyrone,Type 3,"1,534.00",0,0,1534.00
+2010/11,10-Apr,Western,Altnagelvin Area,Type 1,"3,519.00","1,167.00",5,4691.00
+2010/11,10-Apr,Western,South West Acute,Type 1,"2,177.00",145,0,2322.00
+2010/11,10-Apr,Western,Tyrone County,Type 3,"1,237.00",4,0,1241.00
+2010/11,10-May,Belfast,Belfast City,Type 1,"2,620.00","1,054.00",72,3746.00
+2010/11,10-May,Belfast,Mater,Type 1,"2,623.00",950,115,3688.00
+2010/11,10-May,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,928.00","1,220.00",176,6324.00
+2010/11,10-May,Belfast,RBHSC,Type 1,"2,495.00",360,0,2855.00
+2010/11,10-May,Northern,Antrim Area,Type 1,"3,743.00","2,069.00",240,6052.00
+2010/11,10-May,Northern,Causeway,Type 1,"3,516.00",363,13,3892.00
+2010/11,10-May,Northern,Mid-Ulster,Type 2,986,43,0,1029.00
+2010/11,10-May,Northern,Mid-Ulster,Type 3,105,0,0,105.00
+2010/11,10-May,Northern,Whiteabbey,Type 2,"1,079.00",18,0,1097.00
+2010/11,10-May,Northern,Whiteabbey,Type 3,159,0,0,159.00
+2010/11,10-May,South Eastern,Ards MIU,Type 3,849,0,0,849.00
+2010/11,10-May,South Eastern,Bangor MIU,Type 3,"1,135.00",0,0,1135.00
+2010/11,10-May,South Eastern,Downe,Type 2,"1,999.00",130,0,2129.00
+2010/11,10-May,South Eastern,Lagan Valley,Type 2,"2,520.00",382,4,2906.00
+2010/11,10-May,South Eastern,Ulster,Type 1,"5,212.00","1,398.00",37,6647.00
+2010/11,10-May,Southern,Armagh Community,Type 3,736,0,0,736.00
+2010/11,10-May,Southern,Craigavon Area,Type 1,"5,528.00",898,1,6427.00
+2010/11,10-May,Southern,Daisy Hill,Type 1,"3,206.00",185,0,3391.00
+2010/11,10-May,Southern,South Tyrone,Type 3,"1,675.00",0,0,1675.00
+2010/11,10-May,Western,Altnagelvin Area,Type 1,"3,883.00",953,3,4839.00
+2010/11,10-May,Western,South West Acute,Type 1,"2,205.00",251,0,2456.00
+2010/11,10-May,Western,Tyrone County,Type 3,"1,341.00",0,0,1341.00
+2010/11,10-Jun,Belfast,Belfast City,Type 1,"2,783.00",880,33,3696.00
+2010/11,10-Jun,Belfast,Mater,Type 1,"2,517.00","1,019.00",113,3649.00
+2010/11,10-Jun,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,843.00","1,316.00",52,6211.00
+2010/11,10-Jun,Belfast,RBHSC,Type 1,"2,425.00",226,0,2651.00
+2010/11,10-Jun,Northern,Antrim Area,Type 1,"5,153.00","1,075.00",0,6228.00
+2010/11,10-Jun,Northern,Causeway,Type 1,"3,589.00",292,1,3882.00
+2010/11,10-Jun,Northern,Mid-Ulster,Type 3,552,0,0,552.00
+2010/11,10-Jun,Northern,Whiteabbey,Type 3,743,0,0,743.00
+2010/11,10-Jun,South Eastern,Ards MIU,Type 3,848,0,0,848.00
+2010/11,10-Jun,South Eastern,Bangor MIU,Type 3,"1,099.00",0,0,1099.00
+2010/11,10-Jun,South Eastern,Downe,Type 2,"1,904.00",92,0,1996.00
+2010/11,10-Jun,South Eastern,Lagan Valley,Type 2,"2,628.00",234,4,2866.00
+2010/11,10-Jun,South Eastern,Ulster,Type 1,"5,267.00","1,029.00",1,6297.00
+2010/11,10-Jun,Southern,Armagh Community,Type 3,773,0,0,773.00
+2010/11,10-Jun,Southern,Craigavon Area,Type 1,"5,391.00",857,0,6248.00
+2010/11,10-Jun,Southern,Daisy Hill,Type 1,"3,142.00",110,0,3252.00
+2010/11,10-Jun,Southern,South Tyrone,Type 3,"1,638.00",0,0,1638.00
+2010/11,10-Jun,Western,Altnagelvin Area,Type 1,"3,553.00","1,173.00",5,4731.00
+2010/11,10-Jun,Western,South West Acute,Type 1,"2,034.00",251,0,2285.00
+2010/11,10-Jun,Western,Tyrone County,Type 3,"1,312.00",0,0,1312.00
+2010/11,10-Jul,Belfast,Belfast City,Type 1,"2,839.00",734,5,3578.00
+2010/11,10-Jul,Belfast,Mater,Type 1,"2,503.00","1,107.00",35,3645.00
+2010/11,10-Jul,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,987.00","1,040.00",41,6068.00
+2010/11,10-Jul,Belfast,RBHSC,Type 1,"1,985.00",136,0,2121.00
+2010/11,10-Jul,Northern,Antrim Area,Type 1,"4,643.00","1,518.00",24,6185.00
+2010/11,10-Jul,Northern,Causeway,Type 1,"3,641.00",400,2,4043.00
+2010/11,10-Jul,Northern,Mid-Ulster,Type 3,514,0,0,514.00
+2010/11,10-Jul,Northern,Whiteabbey,Type 3,591,0,0,591.00
+2010/11,10-Jul,South Eastern,Ards MIU,Type 3,730,0,0,730.00
+2010/11,10-Jul,South Eastern,Bangor MIU,Type 3,994,0,0,994.00
+2010/11,10-Jul,South Eastern,Downe,Type 2,"1,859.00",88,9,1956.00
+2010/11,10-Jul,South Eastern,Lagan Valley,Type 2,"2,510.00",194,3,2707.00
+2010/11,10-Jul,South Eastern,Ulster,Type 1,"5,119.00",840,0,5959.00
+2010/11,10-Jul,Southern,Armagh Community,Type 3,622,0,0,622.00
+2010/11,10-Jul,Southern,Craigavon Area,Type 1,"5,079.00",649,0,5728.00
+2010/11,10-Jul,Southern,Daisy Hill,Type 1,"3,082.00",173,0,3255.00
+2010/11,10-Jul,Southern,South Tyrone,Type 3,"1,499.00",0,0,1499.00
+2010/11,10-Jul,Western,Altnagelvin Area,Type 1,"3,681.00",923,5,4609.00
+2010/11,10-Jul,Western,South West Acute,Type 1,"2,117.00",211,0,2328.00
+2010/11,10-Jul,Western,Tyrone County,Type 3,"1,231.00",4,0,1235.00
+2010/11,10-Aug,Belfast,Belfast City,Type 1,"2,908.00",776,0,3684.00
+2010/11,10-Aug,Belfast,Mater,Type 1,"2,652.00",884,95,3631.00
+2010/11,10-Aug,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,054.00","1,217.00",9,6280.00
+2010/11,10-Aug,Belfast,RBHSC,Type 1,"1,943.00",361,1,2305.00
+2010/11,10-Aug,Northern,Antrim Area,Type 1,"4,650.00","1,505.00",12,6167.00
+2010/11,10-Aug,Northern,Causeway,Type 1,"3,596.00",499,14,4109.00
+2010/11,10-Aug,Northern,Mid-Ulster,Type 3,496,0,0,496.00
+2010/11,10-Aug,Northern,Whiteabbey,Type 3,676,0,0,676.00
+2010/11,10-Aug,South Eastern,Ards MIU,Type 3,848,0,0,848.00
+2010/11,10-Aug,South Eastern,Bangor MIU,Type 3,"1,124.00",0,0,1124.00
+2010/11,10-Aug,South Eastern,Downe,Type 2,"1,968.00",81,0,2049.00
+2010/11,10-Aug,South Eastern,Lagan Valley,Type 2,"2,604.00",200,0,2804.00
+2010/11,10-Aug,South Eastern,Ulster,Type 1,"4,973.00","1,255.00",14,6242.00
+2010/11,10-Aug,Southern,Armagh Community,Type 3,685,0,0,685.00
+2010/11,10-Aug,Southern,Craigavon Area,Type 1,"5,196.00",811,0,6007.00
+2010/11,10-Aug,Southern,Daisy Hill,Type 1,"3,027.00",161,0,3188.00
+2010/11,10-Aug,Southern,South Tyrone,Type 3,"1,558.00",0,0,1558.00
+2010/11,10-Aug,Western,Altnagelvin Area,Type 1,"3,548.00","1,109.00",1,4658.00
+2010/11,10-Aug,Western,South West Acute,Type 1,"2,308.00",205,1,2514.00
+2010/11,10-Aug,Western,Tyrone County,Type 3,"1,254.00",0,0,1254.00
+2010/11,10-Sep,Belfast,Belfast City,Type 1,"2,746.00",805,24,3575.00
+2010/11,10-Sep,Belfast,Mater,Type 1,"2,411.00",889,124,3424.00
+2010/11,10-Sep,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,166.00","1,223.00",20,6409.00
+2010/11,10-Sep,Belfast,RBHSC,Type 1,"2,009.00",423,0,2432.00
+2010/11,10-Sep,Northern,Antrim Area,Type 1,"4,216.00","1,832.00",56,6104.00
+2010/11,10-Sep,Northern,Causeway,Type 1,"3,145.00",457,10,3612.00
+2010/11,10-Sep,Northern,Mid-Ulster,Type 3,554,0,0,554.00
+2010/11,10-Sep,Northern,Whiteabbey,Type 3,772,1,0,773.00
+2010/11,10-Sep,South Eastern,Ards MIU,Type 3,778,0,0,778.00
+2010/11,10-Sep,South Eastern,Bangor MIU,Type 3,"1,151.00",0,0,1151.00
+2010/11,10-Sep,South Eastern,Downe,Type 2,"1,635.00",166,25,1826.00
+2010/11,10-Sep,South Eastern,Lagan Valley,Type 2,"2,451.00",224,6,2681.00
+2010/11,10-Sep,South Eastern,Ulster,Type 1,"4,896.00","1,225.00",48,6169.00
+2010/11,10-Sep,Southern,Armagh Community,Type 3,688,0,0,688.00
+2010/11,10-Sep,Southern,Craigavon Area,Type 1,"4,994.00",904,0,5898.00
+2010/11,10-Sep,Southern,Daisy Hill,Type 1,"2,788.00",137,0,2925.00
+2010/11,10-Sep,Southern,South Tyrone,Type 3,"1,445.00",0,0,1445.00
+2010/11,10-Sep,Western,Altnagelvin Area,Type 1,"3,272.00","1,133.00",6,4411.00
+2010/11,10-Sep,Western,South West Acute,Type 1,"2,040.00",84,1,2125.00
+2010/11,10-Sep,Western,Tyrone County,Type 3,"1,246.00",0,0,1246.00
+2010/11,10-Oct,Belfast,Belfast City,Type 1,"2,693.00","1,122.00",44,3859.00
+2010/11,10-Oct,Belfast,Mater,Type 1,"2,594.00",874,83,3551.00
+2010/11,10-Oct,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,620.00","1,322.00",62,6004.00
+2010/11,10-Oct,Belfast,RBHSC,Type 1,"2,085.00",369,0,2454.00
+2010/11,10-Oct,Northern,Antrim Area,Type 1,"4,108.00","1,960.00",92,6160.00
+2010/11,10-Oct,Northern,Causeway,Type 1,"3,098.00",465,24,3587.00
+2010/11,10-Oct,Northern,Mid-Ulster,Type 3,506,0,0,506.00
+2010/11,10-Oct,Northern,Whiteabbey,Type 3,707,0,0,707.00
+2010/11,10-Oct,South Eastern,Ards MIU,Type 3,679,0,0,679.00
+2010/11,10-Oct,South Eastern,Bangor MIU,Type 3,997,0,0,997.00
+2010/11,10-Oct,South Eastern,Downe,Type 2,"1,639.00",120,5,1764.00
+2010/11,10-Oct,South Eastern,Lagan Valley,Type 2,"2,500.00",302,3,2805.00
+2010/11,10-Oct,South Eastern,Ulster,Type 1,"4,895.00","1,216.00",69,6180.00
+2010/11,10-Oct,Southern,Armagh Community,Type 3,613,0,0,613.00
+2010/11,10-Oct,Southern,Craigavon Area,Type 1,"5,000.00",949,0,5949.00
+2010/11,10-Oct,Southern,Daisy Hill,Type 1,"2,883.00",86,0,2969.00
+2010/11,10-Oct,Southern,South Tyrone,Type 3,"1,387.00",0,0,1387.00
+2010/11,10-Oct,Western,Altnagelvin Area,Type 1,"3,472.00","1,001.00",3,4476.00
+2010/11,10-Oct,Western,South West Acute,Type 1,"2,113.00",90,0,2203.00
+2010/11,10-Oct,Western,Tyrone County,Type 3,"1,150.00",0,0,1150.00
+2010/11,10-Nov,Belfast,Belfast City,Type 1,"2,414.00","1,032.00",91,3537.00
+2010/11,10-Nov,Belfast,Mater,Type 1,"2,249.00",864,160,3273.00
+2010/11,10-Nov,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,591.00","1,073.00",147,5811.00
+2010/11,10-Nov,Belfast,RBHSC,Type 1,"1,957.00",384,0,2341.00
+2010/11,10-Nov,Northern,Antrim Area,Type 1,"4,012.00","1,484.00",100,5596.00
+2010/11,10-Nov,Northern,Causeway,Type 1,"2,633.00",639,43,3315.00
+2010/11,10-Nov,Northern,Mid-Ulster,Type 3,460,0,0,460.00
+2010/11,10-Nov,Northern,Whiteabbey,Type 3,677,0,0,677.00
+2010/11,10-Nov,South Eastern,Ards MIU,Type 3,732,0,0,732.00
+2010/11,10-Nov,South Eastern,Bangor MIU,Type 3,907,0,0,907.00
+2010/11,10-Nov,South Eastern,Downe,Type 2,"1,527.00",156,26,1709.00
+2010/11,10-Nov,South Eastern,Lagan Valley,Type 2,"2,334.00",214,26,2574.00
+2010/11,10-Nov,South Eastern,Ulster,Type 1,"4,668.00",969,169,5806.00
+2010/11,10-Nov,Southern,Armagh Community,Type 3,565,0,0,565.00
+2010/11,10-Nov,Southern,Craigavon Area,Type 1,"4,634.00","1,023.00",0,5657.00
+2010/11,10-Nov,Southern,Daisy Hill,Type 1,"2,604.00",42,0,2646.00
+2010/11,10-Nov,Southern,South Tyrone,Type 3,"1,311.00",0,0,1311.00
+2010/11,10-Nov,Western,Altnagelvin Area,Type 1,"3,307.00",816,12,4135.00
+2010/11,10-Nov,Western,South West Acute,Type 1,"1,863.00",73,0,1936.00
+2010/11,10-Nov,Western,Tyrone County,Type 3,987,0,0,987.00
+2010/11,10-Dec,Belfast,Belfast City,Type 1,"2,443.00","1,185.00",83,3711.00
+2010/11,10-Dec,Belfast,Mater,Type 1,"1,867.00","1,340.00",153,3360.00
+2010/11,10-Dec,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,305.00","1,559.00",40,5904.00
+2010/11,10-Dec,Belfast,RBHSC,Type 1,"2,088.00",724,0,2812.00
+2010/11,10-Dec,Northern,Antrim Area,Type 1,"3,553.00","1,824.00",164,5541.00
+2010/11,10-Dec,Northern,Causeway,Type 1,"2,466.00",660,43,3169.00
+2010/11,10-Dec,Northern,Mid-Ulster,Type 3,383,0,0,383.00
+2010/11,10-Dec,Northern,Whiteabbey,Type 3,615,0,0,615.00
+2010/11,10-Dec,South Eastern,Ards MIU,Type 3,638,0,0,638.00
+2010/11,10-Dec,South Eastern,Bangor MIU,Type 3,974,0,0,974.00
+2010/11,10-Dec,South Eastern,Downe,Type 2,"1,384.00",152,16,1552.00
+2010/11,10-Dec,South Eastern,Lagan Valley,Type 2,"2,095.00",353,22,2470.00
+2010/11,10-Dec,South Eastern,Ulster,Type 1,"4,801.00","1,101.00",174,6076.00
+2010/11,10-Dec,Southern,Armagh Community,Type 3,496,0,0,496.00
+2010/11,10-Dec,Southern,Craigavon Area,Type 1,"4,622.00","1,275.00",1,5898.00
+2010/11,10-Dec,Southern,Daisy Hill,Type 1,"2,676.00",133,0,2809.00
+2010/11,10-Dec,Southern,South Tyrone,Type 3,"1,088.00",0,0,1088.00
+2010/11,10-Dec,Western,Altnagelvin Area,Type 1,"3,133.00",987,3,4123.00
+2010/11,10-Dec,Western,South West Acute,Type 1,"1,916.00",149,3,2068.00
+2010/11,10-Dec,Western,Tyrone County,Type 3,918,0,0,918.00
+2010/11,11-Jan,Belfast,Belfast City,Type 1,"2,487.00","1,091.00",80,3658.00
+2010/11,11-Jan,Belfast,Mater,Type 1,"1,996.00","1,083.00",177,3256.00
+2010/11,11-Jan,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,414.00","1,496.00",142,6052.00
+2010/11,11-Jan,Belfast,RBHSC,Type 1,"2,150.00",714,1,2865.00
+2010/11,11-Jan,Northern,Antrim Area,Type 1,"3,360.00","1,952.00",561,5873.00
+2010/11,11-Jan,Northern,Causeway,Type 1,"2,612.00",727,59,3398.00
+2010/11,11-Jan,Northern,Mid-Ulster,Type 3,447,0,0,447.00
+2010/11,11-Jan,Northern,Whiteabbey,Type 3,687,0,0,687.00
+2010/11,11-Jan,South Eastern,Ards MIU,Type 3,681,0,0,681.00
+2010/11,11-Jan,South Eastern,Bangor MIU,Type 3,886,0,0,886.00
+2010/11,11-Jan,South Eastern,Downe,Type 2,"1,461.00",164,18,1643.00
+2010/11,11-Jan,South Eastern,Lagan Valley,Type 2,"2,211.00",451,37,2699.00
+2010/11,11-Jan,South Eastern,Ulster,Type 1,"4,723.00","1,307.00",153,6183.00
+2010/11,11-Jan,Southern,Armagh Community,Type 3,542,0,0,542.00
+2010/11,11-Jan,Southern,Craigavon Area,Type 1,"4,570.00","1,332.00",5,5907.00
+2010/11,11-Jan,Southern,Daisy Hill,Type 1,"2,822.00",122,0,2944.00
+2010/11,11-Jan,Southern,South Tyrone,Type 3,"1,284.00",0,0,1284.00
+2010/11,11-Jan,Western,Altnagelvin Area,Type 1,"3,341.00",887,2,4230.00
+2010/11,11-Jan,Western,South West Acute,Type 1,"2,034.00",149,0,2183.00
+2010/11,11-Jan,Western,Tyrone County,Type 3,"1,057.00",0,0,1057.00
+2010/11,11-Feb,Belfast,Belfast City,Type 1,"2,246.00","1,057.00",115,3418.00
+2010/11,11-Feb,Belfast,Mater,Type 1,"1,806.00","1,108.00",175,3089.00
+2010/11,11-Feb,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,192.00","1,337.00",186,5715.00
+2010/11,11-Feb,Belfast,RBHSC,Type 1,"1,918.00",926,6,2850.00
+2010/11,11-Feb,Northern,Antrim Area,Type 1,"2,858.00","1,868.00",547,5273.00
+2010/11,11-Feb,Northern,Causeway,Type 1,"2,480.00",725,53,3258.00
+2010/11,11-Feb,Northern,Mid-Ulster,Type 3,493,0,0,493.00
+2010/11,11-Feb,Northern,Whiteabbey,Type 3,629,0,0,629.00
+2010/11,11-Feb,South Eastern,Ards MIU,Type 3,647,0,0,647.00
+2010/11,11-Feb,South Eastern,Bangor MIU,Type 3,876,0,0,876.00
+2010/11,11-Feb,South Eastern,Downe,Type 2,"1,303.00",184,32,1519.00
+2010/11,11-Feb,South Eastern,Lagan Valley,Type 2,"1,813.00",508,110,2431.00
+2010/11,11-Feb,South Eastern,Ulster,Type 1,"4,421.00","1,064.00",111,5596.00
+2010/11,11-Feb,Southern,Armagh Community,Type 3,619,0,0,619.00
+2010/11,11-Feb,Southern,Craigavon Area,Type 1,"4,239.00","1,246.00",0,5485.00
+2010/11,11-Feb,Southern,Daisy Hill,Type 1,"2,666.00",104,0,2770.00
+2010/11,11-Feb,Southern,South Tyrone,Type 3,"1,196.00",0,0,1196.00
+2010/11,11-Feb,Western,Altnagelvin Area,Type 1,"3,241.00",865,3,4109.00
+2010/11,11-Feb,Western,South West Acute,Type 1,"1,807.00",181,0,1988.00
+2010/11,11-Feb,Western,Tyrone County,Type 3,960,0,0,960.00
+2010/11,11-Mar,Belfast,Belfast City,Type 1,"2,852.00",947,32,3831.00
+2010/11,11-Mar,Belfast,Mater,Type 1,"2,531.00",816,100,3447.00
+2010/11,11-Mar,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,734.00","1,527.00",252,6513.00
+2010/11,11-Mar,Belfast,RBHSC,Type 1,"2,411.00",679,5,3095.00
+2010/11,11-Mar,Northern,Antrim Area,Type 1,"4,281.00","1,545.00",343,6169.00
+2010/11,11-Mar,Northern,Causeway,Type 1,"3,080.00",598,23,3701.00
+2010/11,11-Mar,Northern,Mid-Ulster,Type 3,608,0,0,608.00
+2010/11,11-Mar,Northern,Whiteabbey,Type 3,855,0,0,855.00
+2010/11,11-Mar,South Eastern,Ards MIU,Type 3,857,0,0,857.00
+2010/11,11-Mar,South Eastern,Bangor MIU,Type 3,"1,114.00",0,0,1114.00
+2010/11,11-Mar,South Eastern,Downe,Type 2,"1,688.00",206,16,1910.00
+2010/11,11-Mar,South Eastern,Lagan Valley,Type 2,"2,353.00",461,61,2875.00
+2010/11,11-Mar,South Eastern,Ulster,Type 1,"5,386.00","1,087.00",14,6487.00
+2010/11,11-Mar,Southern,Armagh Community,Type 3,707,0,0,707.00
+2010/11,11-Mar,Southern,Craigavon Area,Type 1,"5,022.00","1,042.00",0,6064.00
+2010/11,11-Mar,Southern,Daisy Hill,Type 1,"3,036.00",147,0,3183.00
+2010/11,11-Mar,Southern,South Tyrone,Type 3,"1,536.00",0,0,1536.00
+2010/11,11-Mar,Western,Altnagelvin Area,Type 1,"3,629.00",926,3,4558.00
+2010/11,11-Mar,Western,South West Acute,Type 1,"2,249.00",149,0,2398.00
+2010/11,11-Mar,Western,Tyrone County,Type 3,"1,219.00",0,0,1219.00
+2011/12,11-Apr,Belfast,Belfast City,Type 1,"2,734.00",930,18,3682.00
+2011/12,11-Apr,Belfast,Mater,Type 1,"2,680.00",853,96,3629.00
+2011/12,11-Apr,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,214.00","1,464.00",185,5863.00
+2011/12,11-Apr,Belfast,RBHSC,Type 1,"2,300.00",851,2,3153.00
+2011/12,11-Apr,Northern,Antrim Area,Type 1,"4,758.00","1,147.00",209,6114.00
+2011/12,11-Apr,Northern,Causeway,Type 1,"3,378.00",624,16,4018.00
+2011/12,11-Apr,Northern,Mid-Ulster,Type 3,461,0,0,461.00
+2011/12,11-Apr,Northern,Whiteabbey,Type 3,731,0,0,731.00
+2011/12,11-Apr,South Eastern,Ards MIU,Type 3,745,0,0,745.00
+2011/12,11-Apr,South Eastern,Bangor MIU,Type 3,"1,125.00",0,0,1125.00
+2011/12,11-Apr,South Eastern,Downe,Type 2,"1,751.00",100,3,1854.00
+2011/12,11-Apr,South Eastern,Lagan Valley,Type 2,"2,629.00",320,11,2960.00
+2011/12,11-Apr,South Eastern,Ulster,Type 1,"5,618.00","1,072.00",36,6726.00
+2011/12,11-Apr,Southern,Armagh Community,Type 3,749,0,0,749.00
+2011/12,11-Apr,Southern,Craigavon Area,Type 1,"5,360.00",987,0,6347.00
+2011/12,11-Apr,Southern,Daisy Hill,Type 1,"3,323.00",125,0,3448.00
+2011/12,11-Apr,Southern,South Tyrone,Type 3,"1,644.00",0,0,1644.00
+2011/12,11-Apr,Western,Altnagelvin Area,Type 1,"3,859.00",865,1,4725.00
+2011/12,11-Apr,Western,South West Acute,Type 1,"2,335.00",219,0,2554.00
+2011/12,11-Apr,Western,Tyrone County,Type 3,"1,376.00",3,0,1379.00
+2011/12,11-May,Belfast,Belfast City,Type 1,"2,778.00",916,23,3717.00
+2011/12,11-May,Belfast,Mater,Type 1,"2,568.00",868,131,3567.00
+2011/12,11-May,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,570.00","1,421.00",148,6139.00
+2011/12,11-May,Belfast,RBHSC,Type 1,"2,393.00",434,1,2828.00
+2011/12,11-May,Northern,Antrim Area,Type 1,"4,447.00","1,391.00",448,6286.00
+2011/12,11-May,Northern,Causeway,Type 1,"3,150.00",659,25,3834.00
+2011/12,11-May,Northern,Mid-Ulster,Type 3,541,0,0,541.00
+2011/12,11-May,Northern,Whiteabbey,Type 3,778,0,0,778.00
+2011/12,11-May,South Eastern,Ards MIU,Type 3,729,0,0,729.00
+2011/12,11-May,South Eastern,Bangor MIU,Type 3,"1,040.00",0,0,1040.00
+2011/12,11-May,South Eastern,Downe,Type 2,"1,690.00",82,1,1773.00
+2011/12,11-May,South Eastern,Lagan Valley,Type 2,"2,403.00",483,35,2921.00
+2011/12,11-May,South Eastern,Ulster,Type 1,"5,339.00","1,108.00",105,6552.00
+2011/12,11-May,Southern,Armagh Community,Type 3,703,0,0,703.00
+2011/12,11-May,Southern,Craigavon Area,Type 1,"5,051.00","1,321.00",0,6372.00
+2011/12,11-May,Southern,Daisy Hill,Type 1,"3,257.00",163,0,3420.00
+2011/12,11-May,Southern,South Tyrone,Type 3,"1,719.00",1,0,1720.00
+2011/12,11-May,Western,Altnagelvin Area,Type 1,"3,573.00",971,2,4546.00
+2011/12,11-May,Western,South West Acute,Type 1,"2,262.00",178,0,2440.00
+2011/12,11-May,Western,Tyrone County,Type 3,"1,358.00",1,0,1359.00
+2011/12,11-Jun,Belfast,Belfast City,Type 1,"2,636.00",922,6,3564.00
+2011/12,11-Jun,Belfast,Mater,Type 1,"2,614.00",759,58,3431.00
+2011/12,11-Jun,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,739.00","1,362.00",56,6157.00
+2011/12,11-Jun,Belfast,RBHSC,Type 1,"2,170.00",408,1,2579.00
+2011/12,11-Jun,Northern,Antrim Area,Type 1,"4,128.00","1,431.00",539,6098.00
+2011/12,11-Jun,Northern,Causeway,Type 1,"2,963.00",601,101,3665.00
+2011/12,11-Jun,Northern,Mid-Ulster,Type 3,544,0,0,544.00
+2011/12,11-Jun,Northern,Whiteabbey,Type 3,864,1,0,865.00
+2011/12,11-Jun,South Eastern,Ards MIU,Type 3,858,0,0,858.00
+2011/12,11-Jun,South Eastern,Bangor MIU,Type 3,"1,104.00",0,0,1104.00
+2011/12,11-Jun,South Eastern,Downe,Type 2,"1,596.00",94,0,1690.00
+2011/12,11-Jun,South Eastern,Lagan Valley,Type 2,"2,399.00",323,53,2775.00
+2011/12,11-Jun,South Eastern,Ulster,Type 1,"5,147.00","1,133.00",155,6435.00
+2011/12,11-Jun,Southern,Armagh Community,Type 3,675,0,0,675.00
+2011/12,11-Jun,Southern,Craigavon Area,Type 1,"4,955.00","1,114.00",0,6069.00
+2011/12,11-Jun,Southern,Daisy Hill,Type 1,"3,188.00",80,0,3268.00
+2011/12,11-Jun,Southern,South Tyrone,Type 3,"1,690.00",1,0,1691.00
+2011/12,11-Jun,Western,Altnagelvin Area,Type 1,"3,509.00","1,089.00",1,4599.00
+2011/12,11-Jun,Western,South West Acute,Type 1,"2,319.00",186,0,2505.00
+2011/12,11-Jun,Western,Tyrone County,Type 3,"1,352.00",3,0,1355.00
+2011/12,11-Jul,Belfast,Belfast City,Type 1,"2,865.00",618,1,3484.00
+2011/12,11-Jul,Belfast,Mater,Type 1,"2,818.00",665,15,3498.00
+2011/12,11-Jul,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,527.00","1,234.00",25,5786.00
+2011/12,11-Jul,Belfast,RBHSC,Type 1,"2,054.00",158,0,2212.00
+2011/12,11-Jul,Northern,Antrim Area,Type 1,"4,357.00","1,612.00",94,6063.00
+2011/12,11-Jul,Northern,Causeway,Type 1,"3,277.00",722,46,4045.00
+2011/12,11-Jul,Northern,Mid-Ulster,Type 3,486,0,0,486.00
+2011/12,11-Jul,Northern,Whiteabbey,Type 3,684,0,0,684.00
+2011/12,11-Jul,South Eastern,Ards MIU,Type 3,754,0,0,754.00
+2011/12,11-Jul,South Eastern,Bangor MIU,Type 3,"1,014.00",0,0,1014.00
+2011/12,11-Jul,South Eastern,Downe,Type 2,"1,533.00",206,1,1740.00
+2011/12,11-Jul,South Eastern,Lagan Valley,Type 2,"2,409.00",206,1,2616.00
+2011/12,11-Jul,South Eastern,Ulster,Type 1,"4,880.00","1,279.00",162,6321.00
+2011/12,11-Jul,Southern,Armagh Community,Type 3,655,0,0,655.00
+2011/12,11-Jul,Southern,Craigavon Area,Type 1,"4,609.00","1,200.00",0,5809.00
+2011/12,11-Jul,Southern,Daisy Hill,Type 1,"3,211.00",172,0,3383.00
+2011/12,11-Jul,Southern,South Tyrone,Type 3,"1,628.00",0,0,1628.00
+2011/12,11-Jul,Western,Altnagelvin Area,Type 1,"3,432.00","1,200.00",1,4633.00
+2011/12,11-Jul,Western,South West Acute,Type 1,"2,411.00",68,0,2479.00
+2011/12,11-Jul,Western,Tyrone County,Type 3,"1,378.00",1,0,1379.00
+2011/12,11-Aug,Belfast,Belfast City,Type 1,"2,881.00",596,1,3478.00
+2011/12,11-Aug,Belfast,Mater,Type 1,"2,912.00",560,8,3480.00
+2011/12,11-Aug,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,043.00","1,487.00",26,6556.00
+2011/12,11-Aug,Belfast,RBHSC,Type 1,"2,055.00",236,0,2291.00
+2011/12,11-Aug,Northern,Antrim Area,Type 1,"4,453.00","1,498.00",108,6059.00
+2011/12,11-Aug,Northern,Causeway,Type 1,"3,178.00",775,31,3984.00
+2011/12,11-Aug,Northern,Mid-Ulster,Type 3,556,0,0,556.00
+2011/12,11-Aug,Northern,Whiteabbey,Type 3,725,0,0,725.00
+2011/12,11-Aug,South Eastern,Ards MIU,Type 3,920,0,0,920.00
+2011/12,11-Aug,South Eastern,Bangor MIU,Type 3,"1,092.00",0,0,1092.00
+2011/12,11-Aug,South Eastern,Downe,Type 2,"1,609.00",209,12,1830.00
+2011/12,11-Aug,South Eastern,Lagan Valley,Type 2,"1,909.00",87,2,1998.00
+2011/12,11-Aug,South Eastern,Ulster,Type 1,"4,638.00","1,355.00",263,6256.00
+2011/12,11-Aug,Southern,Armagh Community,Type 3,698,0,0,698.00
+2011/12,11-Aug,Southern,Craigavon Area,Type 1,"4,436.00","1,502.00",0,5938.00
+2011/12,11-Aug,Southern,Daisy Hill,Type 1,"3,248.00",171,0,3419.00
+2011/12,11-Aug,Southern,South Tyrone,Type 3,"1,688.00",0,0,1688.00
+2011/12,11-Aug,Western,Altnagelvin Area,Type 1,"3,284.00","1,244.00",2,4530.00
+2011/12,11-Aug,Western,South West Acute,Type 1,"2,363.00",102,0,2465.00
+2011/12,11-Aug,Western,Tyrone County,Type 3,"1,315.00",0,0,1315.00
+2011/12,11-Sep,Belfast,Belfast City,Type 1,"2,693.00",657,27,3377.00
+2011/12,11-Sep,Belfast,Mater,Type 1,"2,390.00","1,142.00",43,3575.00
+2011/12,11-Sep,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,598.00","1,571.00",95,6264.00
+2011/12,11-Sep,Belfast,RBHSC,Type 1,"2,254.00",210,0,2464.00
+2011/12,11-Sep,Northern,Antrim Area,Type 1,"4,343.00","1,532.00",97,5972.00
+2011/12,11-Sep,Northern,Causeway,Type 1,"2,697.00",645,84,3426.00
+2011/12,11-Sep,Northern,Mid-Ulster,Type 3,558,0,0,558.00
+2011/12,11-Sep,Northern,Whiteabbey,Type 3,764,0,0,764.00
+2011/12,11-Sep,South Eastern,Ards MIU,Type 3,821,0,0,821.00
+2011/12,11-Sep,South Eastern,Bangor MIU,Type 3,"1,067.00",0,0,1067.00
+2011/12,11-Sep,South Eastern,Downe,Type 2,"1,574.00",108,0,1682.00
+2011/12,11-Sep,South Eastern,Lagan Valley,Type 2,"1,955.00",111,0,2066.00
+2011/12,11-Sep,South Eastern,Ulster,Type 1,"4,884.00","1,403.00",193,6480.00
+2011/12,11-Sep,Southern,Armagh Community,Type 3,668,0,0,668.00
+2011/12,11-Sep,Southern,Craigavon Area,Type 1,"4,350.00","1,489.00",0,5839.00
+2011/12,11-Sep,Southern,Daisy Hill,Type 1,"2,928.00",62,0,2990.00
+2011/12,11-Sep,Southern,South Tyrone,Type 3,"1,559.00",0,0,1559.00
+2011/12,11-Sep,Western,Altnagelvin Area,Type 1,"3,084.00","1,074.00",0,4158.00
+2011/12,11-Sep,Western,South West Acute,Type 1,"2,005.00",100,0,2105.00
+2011/12,11-Sep,Western,Tyrone County,Type 3,"1,221.00",0,0,1221.00
+2011/12,11-Oct,Belfast,Belfast City,Type 1,"2,474.00",818,29,3321.00
+2011/12,11-Oct,Belfast,Mater,Type 1,"2,180.00","1,183.00",77,3440.00
+2011/12,11-Oct,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,614.00","1,520.00",31,6165.00
+2011/12,11-Oct,Belfast,RBHSC,Type 1,"2,351.00",235,0,2586.00
+2011/12,11-Oct,Northern,Antrim Area,Type 1,"4,094.00","1,579.00",252,5925.00
+2011/12,11-Oct,Northern,Causeway,Type 1,"2,818.00",620,57,3495.00
+2011/12,11-Oct,Northern,Mid-Ulster,Type 3,510,0,0,510.00
+2011/12,11-Oct,Northern,Whiteabbey,Type 3,710,0,0,710.00
+2011/12,11-Oct,South Eastern,Ards MIU,Type 3,754,0,0,754.00
+2011/12,11-Oct,South Eastern,Bangor MIU,Type 3,989,0,0,989.00
+2011/12,11-Oct,South Eastern,Downe,Type 2,"1,507.00",166,8,1681.00
+2011/12,11-Oct,South Eastern,Lagan Valley,Type 2,"1,834.00",121,3,1958.00
+2011/12,11-Oct,South Eastern,Ulster,Type 1,"4,700.00","1,291.00",369,6360.00
+2011/12,11-Oct,Southern,Armagh Community,Type 3,619,0,0,619.00
+2011/12,11-Oct,Southern,Craigavon Area,Type 1,"4,573.00","1,520.00",0,6093.00
+2011/12,11-Oct,Southern,Daisy Hill,Type 1,"2,933.00",138,0,3071.00
+2011/12,11-Oct,Southern,South Tyrone,Type 3,"1,551.00",0,0,1551.00
+2011/12,11-Oct,Western,Altnagelvin Area,Type 1,"3,173.00","1,200.00",7,4380.00
+2011/12,11-Oct,Western,South West Acute,Type 1,"2,052.00",88,0,2140.00
+2011/12,11-Oct,Western,Tyrone County,Type 3,"1,213.00",1,0,1214.00
+2011/12,11-Nov,Belfast,Belfast City,Type 1,22,56,0,78.00
+2011/12,11-Nov,Belfast,Mater,Type 1,"2,589.00",871,34,3494.00
+2011/12,11-Nov,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,503.00","2,008.00",29,7540.00
+2011/12,11-Nov,Belfast,RBHSC,Type 1,"2,244.00",329,1,2574.00
+2011/12,11-Nov,Northern,Antrim Area,Type 1,"4,009.00","1,463.00",164,5636.00
+2011/12,11-Nov,Northern,Causeway,Type 1,"2,590.00",512,106,3208.00
+2011/12,11-Nov,Northern,Mid-Ulster,Type 3,506,0,0,506.00
+2011/12,11-Nov,Northern,Whiteabbey,Type 3,678,1,0,679.00
+2011/12,11-Nov,South Eastern,Ards MIU,Type 3,803,0,0,803.00
+2011/12,11-Nov,South Eastern,Bangor MIU,Type 3,913,0,0,913.00
+2011/12,11-Nov,South Eastern,Downe,Type 2,"1,350.00",190,4,1544.00
+2011/12,11-Nov,South Eastern,Lagan Valley,Type 2,"1,768.00",92,1,1861.00
+2011/12,11-Nov,South Eastern,Ulster,Type 1,"4,767.00","1,359.00",223,6349.00
+2011/12,11-Nov,Southern,Armagh Community,Type 3,566,0,0,566.00
+2011/12,11-Nov,Southern,Craigavon Area,Type 1,"4,216.00","1,194.00",2,5412.00
+2011/12,11-Nov,Southern,Daisy Hill,Type 1,"2,784.00",69,0,2853.00
+2011/12,11-Nov,Southern,South Tyrone,Type 3,"1,418.00",0,0,1418.00
+2011/12,11-Nov,Western,Altnagelvin Area,Type 1,"3,200.00","1,054.00",0,4254.00
+2011/12,11-Nov,Western,South West Acute,Type 1,"2,010.00",122,0,2132.00
+2011/12,11-Nov,Western,Tyrone County,Type 3,"1,092.00",1,0,1093.00
+2011/12,11-Dec,Belfast,Mater,Type 1,"2,518.00","1,033.00",42,3593.00
+2011/12,11-Dec,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,838.00","2,676.00",170,7684.00
+2011/12,11-Dec,Belfast,RBHSC,Type 1,"2,141.00",507,0,2648.00
+2011/12,11-Dec,Northern,Antrim Area,Type 1,"3,756.00","1,471.00",394,5621.00
+2011/12,11-Dec,Northern,Causeway,Type 1,"2,574.00",507,134,3215.00
+2011/12,11-Dec,Northern,Mid-Ulster,Type 3,397,0,0,397.00
+2011/12,11-Dec,Northern,Whiteabbey,Type 3,588,0,0,588.00
+2011/12,11-Dec,South Eastern,Ards MIU,Type 3,622,0,0,622.00
+2011/12,11-Dec,South Eastern,Bangor MIU,Type 3,883,0,0,883.00
+2011/12,11-Dec,South Eastern,Downe,Type 2,"1,277.00",156,6,1439.00
+2011/12,11-Dec,South Eastern,Lagan Valley,Type 2,"1,759.00",119,0,1878.00
+2011/12,11-Dec,South Eastern,Ulster,Type 1,"4,584.00","1,627.00",239,6450.00
+2011/12,11-Dec,Southern,Armagh Community,Type 3,530,0,0,530.00
+2011/12,11-Dec,Southern,Craigavon Area,Type 1,"4,261.00","1,414.00",0,5675.00
+2011/12,11-Dec,Southern,Daisy Hill,Type 1,"2,693.00",184,0,2877.00
+2011/12,11-Dec,Southern,South Tyrone,Type 3,"1,276.00",0,0,1276.00
+2011/12,11-Dec,Western,Altnagelvin Area,Type 1,"3,079.00",997,6,4082.00
+2011/12,11-Dec,Western,South West Acute,Type 1,"1,998.00",93,2,2093.00
+2011/12,11-Dec,Western,Tyrone County,Type 3,"1,100.00",1,0,1101.00
+2011/12,12-Jan,Belfast,Mater,Type 1,"2,567.00","1,096.00",66,3729.00
+2011/12,12-Jan,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,033.00","2,272.00",348,7653.00
+2011/12,12-Jan,Belfast,RBHSC,Type 1,"2,083.00",711,2,2796.00
+2011/12,12-Jan,Northern,Antrim Area,Type 1,"3,496.00","1,599.00",446,5541.00
+2011/12,12-Jan,Northern,Causeway,Type 1,"2,538.00",540,120,3198.00
+2011/12,12-Jan,Northern,Mid-Ulster,Type 3,455,0,0,455.00
+2011/12,12-Jan,Northern,Whiteabbey,Type 3,659,0,0,659.00
+2011/12,12-Jan,South Eastern,Ards MIU,Type 3,721,0,0,721.00
+2011/12,12-Jan,South Eastern,Bangor MIU,Type 3,892,0,0,892.00
+2011/12,12-Jan,South Eastern,Downe,Type 2,"1,314.00",178,15,1507.00
+2011/12,12-Jan,South Eastern,Lagan Valley,Type 2,"1,891.00",174,19,2084.00
+2011/12,12-Jan,South Eastern,Ulster,Type 1,"4,473.00","1,513.00",483,6469.00
+2011/12,12-Jan,Southern,Armagh Community,Type 3,561,0,0,561.00
+2011/12,12-Jan,Southern,Craigavon Area,Type 1,"4,068.00","1,729.00",0,5797.00
+2011/12,12-Jan,Southern,Daisy Hill,Type 1,"2,606.00",198,1,2805.00
+2011/12,12-Jan,Southern,South Tyrone,Type 3,"1,384.00",0,0,1384.00
+2011/12,12-Jan,Western,Altnagelvin Area,Type 1,"3,268.00",900,2,4170.00
+2011/12,12-Jan,Western,South West Acute,Type 1,"1,940.00",130,0,2070.00
+2011/12,12-Jan,Western,Tyrone County,Type 3,"1,158.00",1,0,1159.00
+2011/12,12-Feb,Belfast,Mater,Type 1,"2,060.00","1,301.00",219,3580.00
+2011/12,12-Feb,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"4,771.00","2,305.00",399,7475.00
+2011/12,12-Feb,Belfast,RBHSC,Type 1,"2,065.00",981,3,3049.00
+2011/12,12-Feb,Northern,Antrim Area,Type 1,"3,314.00","2,187.00",181,5682.00
+2011/12,12-Feb,Northern,Causeway,Type 1,"2,549.00",594,149,3292.00
+2011/12,12-Feb,Northern,Mid-Ulster,Type 3,518,0,0,518.00
+2011/12,12-Feb,Northern,Whiteabbey,Type 3,669,0,0,669.00
+2011/12,12-Feb,South Eastern,Ards MIU,Type 3,626,0,0,626.00
+2011/12,12-Feb,South Eastern,Bangor MIU,Type 3,"1,022.00",0,0,1022.00
+2011/12,12-Feb,South Eastern,Downe,Type 2,"1,294.00",239,15,1548.00
+2011/12,12-Feb,South Eastern,Lagan Valley,Type 2,"1,745.00",245,72,2062.00
+2011/12,12-Feb,South Eastern,Ulster,Type 1,"4,303.00","1,552.00",477,6332.00
+2011/12,12-Feb,Southern,Armagh Community,Type 3,664,0,0,664.00
+2011/12,12-Feb,Southern,Craigavon Area,Type 1,"3,826.00","2,064.00",4,5894.00
+2011/12,12-Feb,Southern,Daisy Hill,Type 1,"2,705.00",337,2,3044.00
+2011/12,12-Feb,Southern,South Tyrone,Type 3,"1,470.00",1,0,1471.00
+2011/12,12-Feb,Western,Altnagelvin Area,Type 1,"3,145.00","1,100.00",7,4252.00
+2011/12,12-Feb,Western,South West Acute,Type 1,"2,070.00",168,0,2238.00
+2011/12,12-Feb,Western,Tyrone County,Type 3,"1,173.00",2,0,1175.00
+2011/12,12-Mar,Belfast,Mater,Type 1,"2,520.00","1,226.00",83,3829.00
+2011/12,12-Mar,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,205.00","2,365.00",242,7812.00
+2011/12,12-Mar,Belfast,RBHSC,Type 1,"2,224.00","1,073.00",1,3298.00
+2011/12,12-Mar,Northern,Antrim Area,Type 1,"3,890.00","2,179.00",109,6178.00
+2011/12,12-Mar,Northern,Causeway,Type 1,"2,868.00",681,151,3700.00
+2011/12,12-Mar,Northern,Mid-Ulster,Type 3,601,0,0,601.00
+2011/12,12-Mar,Northern,Whiteabbey,Type 3,761,1,0,762.00
+2011/12,12-Mar,South Eastern,Ards MIU,Type 3,723,0,0,723.00
+2011/12,12-Mar,South Eastern,Bangor MIU,Type 3,"1,099.00",0,0,1099.00
+2011/12,12-Mar,South Eastern,Downe,Type 2,"1,562.00",272,2,1836.00
+2011/12,12-Mar,South Eastern,Lagan Valley,Type 2,"2,027.00",221,16,2264.00
+2011/12,12-Mar,South Eastern,Ulster,Type 1,"5,002.00","1,648.00",377,7027.00
+2011/12,12-Mar,Southern,Armagh Community,Type 3,705,0,0,705.00
+2011/12,12-Mar,Southern,Craigavon Area,Type 1,"4,434.00","1,965.00",1,6400.00
+2011/12,12-Mar,Southern,Daisy Hill,Type 1,"3,000.00",349,0,3349.00
+2011/12,12-Mar,Southern,South Tyrone,Type 3,"1,721.00",0,0,1721.00
+2011/12,12-Mar,Western,Altnagelvin Area,Type 1,"3,483.00","1,228.00",5,4716.00
+2011/12,12-Mar,Western,South West Acute,Type 1,"2,255.00",186,0,2441.00
+2011/12,12-Mar,Western,Tyrone County,Type 3,"1,508.00",0,0,1508.00
+2012/13,12-Apr,Belfast,Mater,Type 1,"2,387.00","1,160.00",63,3610.00
+2012/13,12-Apr,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,256.00","2,196.00",102,7554.00
+2012/13,12-Apr,Belfast,RBHSC,Type 1,"2,107.00",678,0,2785.00
+2012/13,12-Apr,Northern,Antrim Area,Type 1,"3,951.00","1,863.00",78,5892.00
+2012/13,12-Apr,Northern,Causeway,Type 1,"2,736.00",694,115,3545.00
+2012/13,12-Apr,Northern,Mid-Ulster,Type 3,501,0,0,501.00
+2012/13,12-Apr,Northern,Whiteabbey,Type 3,639,0,0,639.00
+2012/13,12-Apr,South Eastern,Ards MIU,Type 3,765,0,0,765.00
+2012/13,12-Apr,South Eastern,Bangor MIU,Type 3,931,0,0,931.00
+2012/13,12-Apr,South Eastern,Downe,Type 2,"1,478.00",281,13,1772.00
+2012/13,12-Apr,South Eastern,Lagan Valley,Type 2,"1,917.00",258,35,2210.00
+2012/13,12-Apr,South Eastern,Ulster,Type 1,"4,981.00","1,361.00",274,6616.00
+2012/13,12-Apr,Southern,Armagh Community,Type 3,696,1,0,697.00
+2012/13,12-Apr,Southern,Craigavon Area,Type 1,"4,511.00","1,227.00",0,5738.00
+2012/13,12-Apr,Southern,Daisy Hill,Type 1,"3,070.00",175,0,3245.00
+2012/13,12-Apr,Southern,South Tyrone,Type 3,"1,618.00",1,0,1619.00
+2012/13,12-Apr,Western,Altnagelvin Area,Type 1,"3,255.00","1,238.00",1,4494.00
+2012/13,12-Apr,Western,South West Acute,Type 1,"2,233.00",136,0,2369.00
+2012/13,12-Apr,Western,Tyrone County,Type 3,"1,356.00",1,0,1357.00
+2012/13,12-May,Belfast,Mater,Type 1,"2,632.00","1,153.00",45,3830.00
+2012/13,12-May,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,883.00","2,132.00",100,8115.00
+2012/13,12-May,Belfast,RBHSC,Type 1,"2,262.00",966,12,3240.00
+2012/13,12-May,Northern,Antrim Area,Type 1,"3,723.00","2,303.00",199,6225.00
+2012/13,12-May,Northern,Causeway,Type 1,"3,073.00",531,41,3645.00
+2012/13,12-May,Northern,Mid-Ulster,Type 3,736,0,0,736.00
+2012/13,12-May,Northern,Whiteabbey,Type 3,856,1,0,857.00
+2012/13,12-May,South Eastern,Ards MIU,Type 3,844,0,0,844.00
+2012/13,12-May,South Eastern,Bangor MIU,Type 3,"1,060.00",0,0,1060.00
+2012/13,12-May,South Eastern,Downe,Type 2,"1,572.00",286,10,1868.00
+2012/13,12-May,South Eastern,Lagan Valley,Type 2,"2,226.00",172,3,2401.00
+2012/13,12-May,South Eastern,Ulster,Type 1,"5,460.00","1,552.00",57,7069.00
+2012/13,12-May,Southern,Armagh Community,Type 3,821,0,0,821.00
+2012/13,12-May,Southern,Craigavon Area,Type 1,"4,670.00","1,707.00",0,6377.00
+2012/13,12-May,Southern,Daisy Hill,Type 1,"3,191.00",296,0,3487.00
+2012/13,12-May,Southern,South Tyrone,Type 3,"1,888.00",0,0,1888.00
+2012/13,12-May,Western,Altnagelvin Area,Type 1,"3,588.00","1,253.00",2,4843.00
+2012/13,12-May,Western,South West Acute,Type 1,"2,419.00",172,0,2591.00
+2012/13,12-May,Western,Tyrone County,Type 3,"1,594.00",4,0,1598.00
+2012/13,12-Jun,Belfast,Mater,Type 1,"2,669.00",979,28,3676.00
+2012/13,12-Jun,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,614.00","2,011.00",15,7640.00
+2012/13,12-Jun,Belfast,RBHSC,Type 1,"2,254.00",464,0,2718.00
+2012/13,12-Jun,Northern,Antrim Area,Type 1,"3,946.00","1,863.00",93,5902.00
+2012/13,12-Jun,Northern,Causeway,Type 1,"2,885.00",659,57,3601.00
+2012/13,12-Jun,Northern,Mid-Ulster,Type 3,558,0,0,558.00
+2012/13,12-Jun,Northern,Whiteabbey,Type 3,657,0,0,657.00
+2012/13,12-Jun,South Eastern,Ards MIU,Type 3,752,0,0,752.00
+2012/13,12-Jun,South Eastern,Bangor MIU,Type 3,847,0,0,847.00
+2012/13,12-Jun,South Eastern,Downe,Type 2,"1,507.00",194,2,1703.00
+2012/13,12-Jun,South Eastern,Lagan Valley,Type 2,"2,123.00",114,0,2237.00
+2012/13,12-Jun,South Eastern,Ulster,Type 1,"5,240.00","1,603.00",58,6901.00
+2012/13,12-Jun,Southern,Armagh Community,Type 3,683,0,0,683.00
+2012/13,12-Jun,Southern,Craigavon Area,Type 1,"4,833.00","1,126.00",0,5959.00
+2012/13,12-Jun,Southern,Daisy Hill,Type 1,"3,074.00",147,0,3221.00
+2012/13,12-Jun,Southern,South Tyrone,Type 3,"1,766.00",1,0,1767.00
+2012/13,12-Jun,Western,Altnagelvin Area,Type 1,"3,236.00","1,316.00",1,4553.00
+2012/13,12-Jun,Western,South West Acute,Type 1,"2,209.00",236,1,2446.00
+2012/13,12-Jun,Western,Tyrone County,Type 3,"1,395.00",3,0,1398.00
+2012/13,12-Jul,Belfast,Mater,Type 1,"2,570.00",945,0,3515.00
+2012/13,12-Jul,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,838.00","1,874.00",3,7715.00
+2012/13,12-Jul,Belfast,RBHSC,Type 1,"2,097.00",262,0,2359.00
+2012/13,12-Jul,Northern,Antrim Area,Type 1,"3,896.00","1,786.00",66,5748.00
+2012/13,12-Jul,Northern,Causeway,Type 1,"3,330.00",673,48,4051.00
+2012/13,12-Jul,Northern,Mid-Ulster,Type 3,603,0,0,603.00
+2012/13,12-Jul,Northern,Whiteabbey,Type 3,660,0,0,660.00
+2012/13,12-Jul,South Eastern,Ards MIU,Type 3,747,0,0,747.00
+2012/13,12-Jul,South Eastern,Bangor MIU,Type 3,838,0,0,838.00
+2012/13,12-Jul,South Eastern,Downe,Type 2,"1,561.00",157,3,1721.00
+2012/13,12-Jul,South Eastern,Lagan Valley,Type 2,"1,970.00",117,2,2089.00
+2012/13,12-Jul,South Eastern,Ulster,Type 1,"5,253.00","1,556.00",11,6820.00
+2012/13,12-Jul,Southern,Armagh Community,Type 3,660,0,0,660.00
+2012/13,12-Jul,Southern,Craigavon Area,Type 1,"4,745.00",965,1,5711.00
+2012/13,12-Jul,Southern,Daisy Hill,Type 1,"3,300.00",165,0,3465.00
+2012/13,12-Jul,Southern,South Tyrone,Type 3,"1,788.00",0,0,1788.00
+2012/13,12-Jul,Western,Altnagelvin Area,Type 1,"3,209.00","1,267.00",2,4478.00
+2012/13,12-Jul,Western,South West Acute,Type 1,"2,277.00",206,0,2483.00
+2012/13,12-Jul,Western,Tyrone County,Type 3,"1,369.00",3,0,1372.00
+2012/13,12-Aug,Belfast,Mater,Type 1,"2,720.00","1,101.00",2,3823.00
+2012/13,12-Aug,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,540.00","2,389.00",3,7932.00
+2012/13,12-Aug,Belfast,RBHSC,Type 1,"2,123.00",251,0,2374.00
+2012/13,12-Aug,Northern,Antrim Area,Type 1,"4,177.00","1,989.00",58,6224.00
+2012/13,12-Aug,Northern,Causeway,Type 1,"3,335.00",792,26,4153.00
+2012/13,12-Aug,Northern,Mid-Ulster,Type 3,598,0,0,598.00
+2012/13,12-Aug,Northern,Whiteabbey,Type 3,801,0,0,801.00
+2012/13,12-Aug,South Eastern,Ards MIU,Type 3,804,0,0,804.00
+2012/13,12-Aug,South Eastern,Bangor MIU,Type 3,950,0,0,950.00
+2012/13,12-Aug,South Eastern,Downe,Type 2,"1,726.00",155,1,1882.00
+2012/13,12-Aug,South Eastern,Lagan Valley,Type 2,"2,115.00",78,0,2193.00
+2012/13,12-Aug,South Eastern,Ulster,Type 1,"5,508.00","1,522.00",7,7037.00
+2012/13,12-Aug,Southern,Armagh Community,Type 3,735,1,0,736.00
+2012/13,12-Aug,Southern,Craigavon Area,Type 1,"5,107.00",879,0,5986.00
+2012/13,12-Aug,Southern,Daisy Hill,Type 1,"3,219.00",190,0,3409.00
+2012/13,12-Aug,Southern,South Tyrone,Type 3,"1,897.00",1,0,1898.00
+2012/13,12-Aug,Western,Altnagelvin Area,Type 1,"3,850.00",765,0,4615.00
+2012/13,12-Aug,Western,South West Acute,Type 1,"2,339.00",121,0,2460.00
+2012/13,12-Aug,Western,Tyrone County,Type 3,"1,408.00",1,0,1409.00
+2012/13,12-Sep,Belfast,Mater,Type 1,"2,433.00","1,085.00",2,3520.00
+2012/13,12-Sep,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,473.00","2,271.00",1,7745.00
+2012/13,12-Sep,Belfast,RBHSC,Type 1,"2,290.00",388,0,2678.00
+2012/13,12-Sep,Northern,Antrim Area,Type 1,"4,075.00","1,811.00",66,5952.00
+2012/13,12-Sep,Northern,Causeway,Type 1,"3,062.00",492,43,3597.00
+2012/13,12-Sep,Northern,Mid-Ulster,Type 3,587,0,0,587.00
+2012/13,12-Sep,Northern,Whiteabbey,Type 3,689,1,0,690.00
+2012/13,12-Sep,South Eastern,Ards MIU,Type 3,783,0,0,783.00
+2012/13,12-Sep,South Eastern,Bangor MIU,Type 3,833,0,0,833.00
+2012/13,12-Sep,South Eastern,Downe,Type 2,"1,667.00",166,0,1833.00
+2012/13,12-Sep,South Eastern,Lagan Valley,Type 2,"2,191.00",96,0,2287.00
+2012/13,12-Sep,South Eastern,Ulster,Type 1,"5,318.00","1,715.00",182,7215.00
+2012/13,12-Sep,Southern,Armagh Community,Type 3,601,0,0,601.00
+2012/13,12-Sep,Southern,Craigavon Area,Type 1,"4,896.00","1,033.00",0,5929.00
+2012/13,12-Sep,Southern,Daisy Hill,Type 1,"3,064.00",226,0,3290.00
+2012/13,12-Sep,Southern,South Tyrone,Type 3,"1,848.00",3,0,1851.00
+2012/13,12-Sep,Western,Altnagelvin Area,Type 1,"3,603.00",818,0,4421.00
+2012/13,12-Sep,Western,South West Acute,Type 1,"2,174.00",128,0,2302.00
+2012/13,12-Sep,Western,Tyrone County,Type 3,"1,378.00",1,0,1379.00
+2012/13,12-Oct,Belfast,Mater,Type 1,"2,604.00","1,070.00",1,3675.00
+2012/13,12-Oct,Belfast,Royal Victoria & Royal Victoria (ENT & RAES),Type 1,"5,608.00","2,464.00",1,8073.00
+2012/13,12-Oct,Belfast,RBHSC,Type 1,"2,204.00",352,0,2556.00
+2012/13,12-Oct,Northern,Antrim Area,Type 1,"4,098.00","1,886.00",122,6106.00
+2012/13,12-Oct,Northern,Causeway,Type 1,"2,941.00",600,32,3573.00
+2012/13,12-Oct,Northern,Mid-Ulster,Type 3,684,0,0,684.00
+2012/13,12-Oct,Northern,Whiteabbey,Type 3,807,1,0,808.00
+2012/13,12-Oct,South Eastern,Ards MIU,Type 3,855,0,0,855.00
+2012/13,12-Oct,South Eastern,Bangor MIU,Type 3,876,0,0,876.00
+2012/13,12-Oct,South Eastern,Downe,Type 2,"1,573.00",181,8,1762.00
+2012/13,12-Oct,South Eastern,Lagan Valley,Type 2,"2,224.00",78,0,2302.00
+2012/13,12-Oct,South Eastern,Ulster,Type 1,"5,240.00","1,640.00",135,7015.00
+2012/13,12-Oct,Southern,Armagh Community,Type 3,649,0,0,649.00
+2012/13,12-Oct,Southern,Craigavon Area,Type 1,"4,749.00","1,331.00",0,6080.00
+2012/13,12-Oct,Southern,Daisy Hill,Type 1,"3,120.00",155,0,3275.00
+2012/13,12-Oct,Southern,South Tyrone,Type 3,"1,829.00",0,0,1829.00
+2012/13,12-Oct,Western,Altnagelvin Area,Type 1,"3,509.00",961,0,4470.00
+2012/13,12-Oct,Western,South West Acute,Type 1,"2,049.00",170,0,2219.00
+2012/13,12-Oct,Western,Tyrone County,Type 3,"1,298.00",3,0,1301.00
+2012/13,12-Nov,Belfast,Mater,Type 1,"2,275.00","1,157.00",1,3433.00
+2012/13,12-Nov,Belfast,Royal Victoria,Type 1,"3,870.00","2,549.00",5,6424.00
+2012/13,12-Nov,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,192.00",0,0,1192.00
+2012/13,12-Nov,Belfast,RBHSC,Type 1,"2,435.00",548,0,2983.00
+2012/13,12-Nov,Northern,Antrim Area,Type 1,"3,692.00","1,901.00",183,5776.00
+2012/13,12-Nov,Northern,Causeway,Type 1,"2,603.00",686,38,3327.00
+2012/13,12-Nov,Northern,Mid-Ulster,Type 3,608,0,0,608.00
+2012/13,12-Nov,Northern,Whiteabbey,Type 3,757,0,0,757.00
+2012/13,12-Nov,South Eastern,Ards MIU,Type 3,779,0,0,779.00
+2012/13,12-Nov,South Eastern,Bangor MIU,Type 3,796,0,0,796.00
+2012/13,12-Nov,South Eastern,Downe,Type 2,"1,360.00",160,12,1532.00
+2012/13,12-Nov,South Eastern,Lagan Valley,Type 2,"1,822.00",204,23,2049.00
+2012/13,12-Nov,South Eastern,Ulster,Type 1,"4,953.00","1,809.00",133,6895.00
+2012/13,12-Nov,Southern,Armagh Community,Type 3,581,0,0,581.00
+2012/13,12-Nov,Southern,Craigavon Area,Type 1,"4,535.00","1,460.00",1,5996.00
+2012/13,12-Nov,Southern,Daisy Hill,Type 1,"2,904.00",216,0,3120.00
+2012/13,12-Nov,Southern,South Tyrone,Type 3,"1,478.00",2,0,1480.00
+2012/13,12-Nov,Western,Altnagelvin Area,Type 1,"3,483.00",809,1,4293.00
+2012/13,12-Nov,Western,South West Acute,Type 1,"1,998.00",148,0,2146.00
+2012/13,12-Nov,Western,Tyrone County,Type 3,"1,041.00",3,0,1044.00
+2012/13,12-Dec,Belfast,Mater,Type 1,"2,231.00","1,151.00",1,3383.00
+2012/13,12-Dec,Belfast,Royal Victoria,Type 1,"3,778.00","2,508.00",0,6286.00
+2012/13,12-Dec,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,049.00",0,0,1049.00
+2012/13,12-Dec,Belfast,RBHSC,Type 1,"2,435.00",708,0,3143.00
+2012/13,12-Dec,Northern,Antrim Area,Type 1,"3,533.00","2,006.00",191,5730.00
+2012/13,12-Dec,Northern,Causeway,Type 1,"2,389.00",910,61,3360.00
+2012/13,12-Dec,Northern,Mid-Ulster,Type 3,432,0,0,432.00
+2012/13,12-Dec,Northern,Whiteabbey,Type 3,504,0,0,504.00
+2012/13,12-Dec,South Eastern,Ards MIU,Type 3,611,0,0,611.00
+2012/13,12-Dec,South Eastern,Bangor MIU,Type 3,605,0,0,605.00
+2012/13,12-Dec,South Eastern,Downe,Type 2,"1,397.00",170,18,1585.00
+2012/13,12-Dec,South Eastern,Lagan Valley,Type 2,"1,855.00",205,20,2080.00
+2012/13,12-Dec,South Eastern,Ulster,Type 1,"4,809.00","1,897.00",286,6992.00
+2012/13,12-Dec,Southern,Armagh Community,Type 3,411,0,0,411.00
+2012/13,12-Dec,Southern,Craigavon Area,Type 1,"4,373.00","1,760.00",0,6133.00
+2012/13,12-Dec,Southern,Daisy Hill,Type 1,"2,975.00",300,0,3275.00
+2012/13,12-Dec,Southern,South Tyrone,Type 3,"1,313.00",1,0,1314.00
+2012/13,12-Dec,Western,Altnagelvin Area,Type 1,"3,311.00","1,036.00",2,4349.00
+2012/13,12-Dec,Western,South West Acute,Type 1,"2,092.00",206,0,2298.00
+2012/13,12-Dec,Western,Tyrone County,Type 3,"1,066.00",0,0,1066.00
+2012/13,13-Jan,Belfast,Mater,Type 1,"2,442.00","1,193.00",0,3635.00
+2012/13,13-Jan,Belfast,Royal Victoria,Type 1,"3,775.00","2,892.00",0,6667.00
+2012/13,13-Jan,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,186.00",0,0,1186.00
+2012/13,13-Jan,Belfast,RBHSC,Type 1,"2,153.00",411,0,2564.00
+2012/13,13-Jan,Northern,Antrim Area,Type 1,"3,606.00","1,905.00",258,5769.00
+2012/13,13-Jan,Northern,Causeway,Type 1,"2,452.00",860,95,3407.00
+2012/13,13-Jan,Northern,Mid-Ulster,Type 3,609,0,0,609.00
+2012/13,13-Jan,Northern,Whiteabbey,Type 3,621,0,0,621.00
+2012/13,13-Jan,South Eastern,Ards MIU,Type 3,664,0,0,664.00
+2012/13,13-Jan,South Eastern,Bangor MIU,Type 3,712,0,0,712.00
+2012/13,13-Jan,South Eastern,Downe,Type 2,"1,396.00",251,42,1689.00
+2012/13,13-Jan,South Eastern,Lagan Valley,Type 2,"1,805.00",290,49,2144.00
+2012/13,13-Jan,South Eastern,Ulster,Type 1,"4,802.00","1,626.00",223,6651.00
+2012/13,13-Jan,Southern,Armagh Community,Type 3,503,0,0,503.00
+2012/13,13-Jan,Southern,Craigavon Area,Type 1,"4,672.00","1,317.00",0,5989.00
+2012/13,13-Jan,Southern,Daisy Hill,Type 1,"2,894.00",326,0,3220.00
+2012/13,13-Jan,Southern,South Tyrone,Type 3,"1,409.00",1,0,1410.00
+2012/13,13-Jan,Western,Altnagelvin Area,Type 1,"3,314.00","1,132.00",11,4457.00
+2012/13,13-Jan,Western,South West Acute,Type 1,"2,057.00",249,0,2306.00
+2012/13,13-Jan,Western,Tyrone County,Type 3,"1,109.00",1,0,1110.00
+2012/13,13-Feb,Belfast,Mater,Type 1,"2,186.00","1,242.00",0,3428.00
+2012/13,13-Feb,Belfast,Royal Victoria,Type 1,"3,510.00","2,571.00",6,6087.00
+2012/13,13-Feb,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,182.00",0,0,1182.00
+2012/13,13-Feb,Belfast,RBHSC,Type 1,"2,284.00",389,0,2673.00
+2012/13,13-Feb,Northern,Antrim Area,Type 1,"3,406.00","1,975.00",187,5568.00
+2012/13,13-Feb,Northern,Causeway,Type 1,"2,411.00",641,42,3094.00
+2012/13,13-Feb,Northern,Mid-Ulster,Type 3,583,0,0,583.00
+2012/13,13-Feb,Northern,Whiteabbey,Type 3,712,0,0,712.00
+2012/13,13-Feb,South Eastern,Ards MIU,Type 3,720,0,0,720.00
+2012/13,13-Feb,South Eastern,Bangor MIU,Type 3,821,0,0,821.00
+2012/13,13-Feb,South Eastern,Downe,Type 2,"1,362.00",282,31,1675.00
+2012/13,13-Feb,South Eastern,Lagan Valley,Type 2,"1,654.00",303,71,2028.00
+2012/13,13-Feb,South Eastern,Ulster,Type 1,"4,353.00","1,690.00",295,6338.00
+2012/13,13-Feb,Southern,Armagh Community,Type 3,455,0,0,455.00
+2012/13,13-Feb,Southern,Craigavon Area,Type 1,"3,918.00","1,657.00",1,5576.00
+2012/13,13-Feb,Southern,Daisy Hill,Type 1,"2,719.00",341,1,3061.00
+2012/13,13-Feb,Southern,South Tyrone,Type 3,"1,423.00",0,0,1423.00
+2012/13,13-Feb,Western,Altnagelvin Area,Type 1,"2,995.00","1,178.00",22,4195.00
+2012/13,13-Feb,Western,South West Acute,Type 1,"1,846.00",368,2,2216.00
+2012/13,13-Feb,Western,Tyrone County,Type 3,"1,179.00",1,0,1180.00
+2012/13,13-Mar,Belfast,Mater,Type 1,"2,181.00","1,374.00",4,3559.00
+2012/13,13-Mar,Belfast,Royal Victoria,Type 1,"3,376.00","3,209.00",31,6616.00
+2012/13,13-Mar,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,155.00",0,0,1155.00
+2012/13,13-Mar,Belfast,RBHSC,Type 1,"2,470.00",433,0,2903.00
+2012/13,13-Mar,Northern,Antrim Area,Type 1,"3,619.00","2,038.00",310,5967.00
+2012/13,13-Mar,Northern,Causeway,Type 1,"2,440.00",857,121,3418.00
+2012/13,13-Mar,Northern,Mid-Ulster,Type 3,616,0,0,616.00
+2012/13,13-Mar,Northern,Whiteabbey,Type 3,600,0,0,600.00
+2012/13,13-Mar,South Eastern,Ards MIU,Type 3,747,0,0,747.00
+2012/13,13-Mar,South Eastern,Bangor MIU,Type 3,885,0,0,885.00
+2012/13,13-Mar,South Eastern,Downe,Type 2,"1,399.00",259,17,1675.00
+2012/13,13-Mar,South Eastern,Lagan Valley,Type 2,"1,878.00",360,39,2277.00
+2012/13,13-Mar,South Eastern,Ulster,Type 1,"4,375.00","2,115.00",397,6887.00
+2012/13,13-Mar,Southern,Armagh Community,Type 3,522,1,0,523.00
+2012/13,13-Mar,Southern,Craigavon Area,Type 1,"3,892.00","2,349.00",31,6272.00
+2012/13,13-Mar,Southern,Daisy Hill,Type 1,"2,643.00",656,6,3305.00
+2012/13,13-Mar,Southern,South Tyrone,Type 3,"1,635.00",0,0,1635.00
+2012/13,13-Mar,Western,Altnagelvin Area,Type 1,"3,104.00","1,493.00",61,4658.00
+2012/13,13-Mar,Western,South West Acute,Type 1,"2,185.00",366,0,2551.00
+2012/13,13-Mar,Western,Tyrone County,Type 3,"1,259.00",1,0,1260.00
+2013/14,13-Apr,Belfast,Mater,Type 1,"2,531.00","1,194.00",3,3728.00
+2013/14,13-Apr,Belfast,Royal Victoria,Type 1,"3,428.00","3,100.00",48,6576.00
+2013/14,13-Apr,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,186.00",0,0,1186.00
+2013/14,13-Apr,Belfast,RBHSC,Type 1,"2,649.00",370,0,3019.00
+2013/14,13-Apr,Northern,Antrim Area,Type 1,"3,699.00","1,862.00",333,5894.00
+2013/14,13-Apr,Northern,Causeway,Type 1,"2,540.00",948,124,3612.00
+2013/14,13-Apr,Northern,Mid-Ulster,Type 3,699,0,0,699.00
+2013/14,13-Apr,Northern,Whiteabbey,Type 3,622,1,0,623.00
+2013/14,13-Apr,South Eastern,Ards MIU,Type 3,817,0,0,817.00
+2013/14,13-Apr,South Eastern,Bangor MIU,Type 3,"1,059.00",0,0,1059.00
+2013/14,13-Apr,South Eastern,Downe,Type 2,"1,439.00",320,27,1786.00
+2013/14,13-Apr,South Eastern,Lagan Valley,Type 2,"2,010.00",347,35,2392.00
+2013/14,13-Apr,South Eastern,Ulster,Type 1,"4,362.00","2,469.00",282,7113.00
+2013/14,13-Apr,Southern,Armagh Community,Type 3,622,0,0,622.00
+2013/14,13-Apr,Southern,Craigavon Area,Type 1,"3,776.00","2,294.00",56,6126.00
+2013/14,13-Apr,Southern,Daisy Hill,Type 1,"2,703.00",767,19,3489.00
+2013/14,13-Apr,Southern,South Tyrone,Type 3,"1,842.00",1,0,1843.00
+2013/14,13-Apr,Western,Altnagelvin Area,Type 1,"3,217.00","1,455.00",71,4743.00
+2013/14,13-Apr,Western,South West Acute,Type 1,"2,221.00",392,0,2613.00
+2013/14,13-Apr,Western,Tyrone County,Type 3,"1,316.00",0,0,1316.00
+2013/14,13-May,Belfast,Mater,Type 1,"2,786.00","1,019.00",4,3809.00
+2013/14,13-May,Belfast,Royal Victoria,Type 1,"4,242.00","2,332.00",36,6610.00
+2013/14,13-May,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,246.00",0,0,1246.00
+2013/14,13-May,Belfast,RBHSC,Type 1,"2,667.00",330,0,2997.00
+2013/14,13-May,Northern,Antrim Area,Type 1,"4,355.00","1,375.00",57,5787.00
+2013/14,13-May,Northern,Causeway,Type 1,"2,820.00",751,20,3591.00
+2013/14,13-May,Northern,Mid-Ulster,Type 3,752,0,0,752.00
+2013/14,13-May,Northern,Whiteabbey,Type 3,679,1,0,680.00
+2013/14,13-May,South Eastern,Ards MIU,Type 3,878,0,0,878.00
+2013/14,13-May,South Eastern,Bangor MIU,Type 3,"1,051.00",0,0,1051.00
+2013/14,13-May,South Eastern,Downe,Type 2,"1,657.00",258,8,1923.00
+2013/14,13-May,South Eastern,Lagan Valley,Type 2,"2,059.00",268,21,2348.00
+2013/14,13-May,South Eastern,Ulster,Type 1,"5,058.00","1,803.00",77,6938.00
+2013/14,13-May,Southern,Armagh Community,Type 3,630,0,0,630.00
+2013/14,13-May,Southern,Craigavon Area,Type 1,"4,801.00","1,445.00",1,6247.00
+2013/14,13-May,Southern,Daisy Hill,Type 1,"3,071.00",480,0,3551.00
+2013/14,13-May,Southern,South Tyrone,Type 3,"1,981.00",0,0,1981.00
+2013/14,13-May,Western,Altnagelvin Area,Type 1,"3,540.00","1,288.00",68,4896.00
+2013/14,13-May,Western,South West Acute,Type 1,"2,250.00",305,2,2557.00
+2013/14,13-May,Western,Tyrone County,Type 3,"1,472.00",3,0,1475.00
+2013/14,13-Jun,Belfast,Mater,Type 1,"2,949.00",711,0,3660.00
+2013/14,13-Jun,Belfast,Royal Victoria,Type 1,"4,309.00","2,166.00",1,6476.00
+2013/14,13-Jun,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,039.00",0,0,1039.00
+2013/14,13-Jun,Belfast,RBHSC,Type 1,"2,538.00",323,0,2861.00
+2013/14,13-Jun,Northern,Antrim Area,Type 1,"4,581.00","1,308.00",0,5889.00
+2013/14,13-Jun,Northern,Causeway,Type 1,"2,923.00",609,11,3543.00
+2013/14,13-Jun,Northern,Mid-Ulster,Type 3,707,0,0,707.00
+2013/14,13-Jun,Northern,Whiteabbey,Type 3,691,0,0,691.00
+2013/14,13-Jun,South Eastern,Ards MIU,Type 3,860,0,0,860.00
+2013/14,13-Jun,South Eastern,Bangor MIU,Type 3,"1,141.00",0,0,1141.00
+2013/14,13-Jun,South Eastern,Downe,Type 2,"1,674.00",143,9,1826.00
+2013/14,13-Jun,South Eastern,Lagan Valley,Type 2,"1,953.00",222,1,2176.00
+2013/14,13-Jun,South Eastern,Ulster,Type 1,"4,740.00","1,840.00",196,6776.00
+2013/14,13-Jun,Southern,Armagh Community,Type 3,583,0,0,583.00
+2013/14,13-Jun,Southern,Craigavon Area,Type 1,"4,663.00","1,407.00",1,6071.00
+2013/14,13-Jun,Southern,Daisy Hill,Type 1,"3,037.00",325,5,3367.00
+2013/14,13-Jun,Southern,South Tyrone,Type 3,"1,973.00",0,0,1973.00
+2013/14,13-Jun,Western,Altnagelvin Area,Type 1,"3,531.00","1,255.00",20,4806.00
+2013/14,13-Jun,Western,South West Acute,Type 1,"2,172.00",231,0,2403.00
+2013/14,13-Jun,Western,Tyrone County,Type 3,"1,464.00",1,0,1465.00
+2013/14,13-Jul,Belfast,Mater,Type 1,"3,072.00",686,0,3758.00
+2013/14,13-Jul,Belfast,Royal Victoria,Type 1,"4,242.00","2,540.00",0,6782.00
+2013/14,13-Jul,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,176.00",0,0,1176.00
+2013/14,13-Jul,Belfast,RBHSC,Type 1,"2,373.00",149,0,2522.00
+2013/14,13-Jul,Northern,Antrim Area,Type 1,"4,443.00","2,013.00",18,6474.00
+2013/14,13-Jul,Northern,Causeway,Type 1,"3,358.00",804,0,4162.00
+2013/14,13-Jul,Northern,Mid-Ulster,Type 3,780,0,0,780.00
+2013/14,13-Jul,Northern,Whiteabbey,Type 3,793,2,0,795.00
+2013/14,13-Jul,South Eastern,Ards MIU,Type 3,921,0,0,921.00
+2013/14,13-Jul,South Eastern,Bangor MIU,Type 3,"1,165.00",0,0,1165.00
+2013/14,13-Jul,South Eastern,Downe,Type 2,"1,743.00",235,1,1979.00
+2013/14,13-Jul,South Eastern,Lagan Valley,Type 2,"2,212.00",131,0,2343.00
+2013/14,13-Jul,South Eastern,Ulster,Type 1,"5,041.00","1,997.00",164,7202.00
+2013/14,13-Jul,Southern,Armagh Community,Type 3,656,0,0,656.00
+2013/14,13-Jul,Southern,Craigavon Area,Type 1,"4,893.00","1,459.00",0,6352.00
+2013/14,13-Jul,Southern,Daisy Hill,Type 1,"3,334.00",340,0,3674.00
+2013/14,13-Jul,Southern,South Tyrone,Type 3,"1,957.00",1,0,1958.00
+2013/14,13-Jul,Western,Altnagelvin Area,Type 1,"3,842.00","1,480.00",7,5329.00
+2013/14,13-Jul,Western,South West Acute,Type 1,"2,419.00",366,1,2786.00
+2013/14,13-Jul,Western,Tyrone County,Type 3,"1,577.00",2,0,1579.00
+2013/14,13-Aug,Belfast,Mater,Type 1,"3,044.00",806,1,3851.00
+2013/14,13-Aug,Belfast,Royal Victoria,Type 1,"4,450.00","2,430.00",11,6891.00
+2013/14,13-Aug,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,124.00",0,0,1124.00
+2013/14,13-Aug,Belfast,RBHSC,Type 1,"2,226.00",187,0,2413.00
+2013/14,13-Aug,Northern,Antrim Area,Type 1,"4,627.00","1,362.00",0,5989.00
+2013/14,13-Aug,Northern,Causeway,Type 1,"2,986.00",846,1,3833.00
+2013/14,13-Aug,Northern,Mid-Ulster,Type 3,630,0,0,630.00
+2013/14,13-Aug,Northern,Whiteabbey,Type 3,687,0,0,687.00
+2013/14,13-Aug,South Eastern,Ards MIU,Type 3,910,0,0,910.00
+2013/14,13-Aug,South Eastern,Bangor MIU,Type 3,"1,147.00",0,0,1147.00
+2013/14,13-Aug,South Eastern,Downe,Type 2,"1,696.00",338,9,2043.00
+2013/14,13-Aug,South Eastern,Lagan Valley,Type 2,"2,101.00",213,0,2314.00
+2013/14,13-Aug,South Eastern,Ulster,Type 1,"4,878.00","1,960.00",103,6941.00
+2013/14,13-Aug,Southern,Armagh Community,Type 3,556,0,0,556.00
+2013/14,13-Aug,Southern,Craigavon Area,Type 1,"4,523.00","1,508.00",0,6031.00
+2013/14,13-Aug,Southern,Daisy Hill,Type 1,"3,182.00",387,0,3569.00
+2013/14,13-Aug,Southern,South Tyrone,Type 3,"1,846.00",0,0,1846.00
+2013/14,13-Aug,Western,Altnagelvin Area,Type 1,"3,368.00","1,655.00",25,5048.00
+2013/14,13-Aug,Western,South West Acute,Type 1,"2,309.00",285,0,2594.00
+2013/14,13-Aug,Western,Tyrone County,Type 3,"1,437.00",1,0,1438.00
+2013/14,13-Sep,Belfast,Mater,Type 1,"2,935.00",771,0,3706.00
+2013/14,13-Sep,Belfast,Royal Victoria,Type 1,"4,408.00","2,252.00",2,6662.00
+2013/14,13-Sep,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,111.00",0,0,1111.00
+2013/14,13-Sep,Belfast,RBHSC,Type 1,"2,343.00",242,0,2585.00
+2013/14,13-Sep,Northern,Antrim Area,Type 1,"4,535.00","1,456.00",3,5994.00
+2013/14,13-Sep,Northern,Causeway,Type 1,"2,757.00",618,0,3375.00
+2013/14,13-Sep,Northern,Mid-Ulster,Type 3,622,0,0,622.00
+2013/14,13-Sep,Northern,Whiteabbey,Type 3,709,2,0,711.00
+2013/14,13-Sep,South Eastern,Ards MIU,Type 3,864,0,0,864.00
+2013/14,13-Sep,South Eastern,Bangor MIU,Type 3,"1,080.00",0,0,1080.00
+2013/14,13-Sep,South Eastern,Downe,Type 2,"1,627.00",219,4,1850.00
+2013/14,13-Sep,South Eastern,Lagan Valley,Type 2,"2,199.00",171,0,2370.00
+2013/14,13-Sep,South Eastern,Ulster,Type 1,"5,068.00","1,811.00",52,6931.00
+2013/14,13-Sep,Southern,Armagh Community,Type 3,611,0,0,611.00
+2013/14,13-Sep,Southern,Craigavon Area,Type 1,"4,230.00","1,781.00",1,6012.00
+2013/14,13-Sep,Southern,Daisy Hill,Type 1,"3,038.00",421,0,3459.00
+2013/14,13-Sep,Southern,South Tyrone,Type 3,"1,874.00",0,0,1874.00
+2013/14,13-Sep,Western,Altnagelvin Area,Type 1,"3,075.00","1,508.00",14,4597.00
+2013/14,13-Sep,Western,South West Acute,Type 1,"2,223.00",114,0,2337.00
+2013/14,13-Sep,Western,Tyrone County,Type 3,"1,367.00",0,0,1367.00
+2013/14,13-Oct,Belfast,Mater,Type 1,"2,740.00","1,084.00",7,3831.00
+2013/14,13-Oct,Belfast,Royal Victoria,Type 1,"4,344.00","2,623.00",21,6988.00
+2013/14,13-Oct,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,274.00",0,0,1274.00
+2013/14,13-Oct,Belfast,RBHSC,Type 1,"2,579.00",143,0,2722.00
+2013/14,13-Oct,Northern,Antrim Area,Type 1,"4,828.00","1,318.00",0,6146.00
+2013/14,13-Oct,Northern,Causeway,Type 1,"2,739.00",661,0,3400.00
+2013/14,13-Oct,Northern,Mid-Ulster,Type 3,713,0,0,713.00
+2013/14,13-Oct,Northern,Whiteabbey,Type 3,809,0,0,809.00
+2013/14,13-Oct,South Eastern,Ards MIU,Type 3,851,0,0,851.00
+2013/14,13-Oct,South Eastern,Bangor MIU,Type 3,"1,040.00",0,0,1040.00
+2013/14,13-Oct,South Eastern,Downe,Type 2,"1,582.00",214,1,1797.00
+2013/14,13-Oct,South Eastern,Lagan Valley,Type 2,"2,150.00",286,0,2436.00
+2013/14,13-Oct,South Eastern,Ulster,Type 1,"5,230.00","1,739.00",47,7016.00
+2013/14,13-Oct,Southern,Armagh Community,Type 3,654,0,0,654.00
+2013/14,13-Oct,Southern,Craigavon Area,Type 1,"4,629.00","1,537.00",0,6166.00
+2013/14,13-Oct,Southern,Daisy Hill,Type 1,"2,997.00",326,0,3323.00
+2013/14,13-Oct,Southern,South Tyrone,Type 3,"1,794.00",0,0,1794.00
+2013/14,13-Oct,Western,Altnagelvin Area,Type 1,"3,435.00","1,157.00",1,4593.00
+2013/14,13-Oct,Western,South West Acute,Type 1,"2,311.00",106,0,2417.00
+2013/14,13-Oct,Western,Tyrone County,Type 3,"1,326.00",0,0,1326.00
+2013/14,13-Nov,Belfast,Mater,Type 1,"2,659.00",880,2,3541.00
+2013/14,13-Nov,Belfast,Royal Victoria,Type 1,"3,887.00","2,545.00",53,6485.00
+2013/14,13-Nov,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,220.00",0,0,1220.00
+2013/14,13-Nov,Belfast,RBHSC,Type 1,"2,480.00",221,0,2701.00
+2013/14,13-Nov,Northern,Antrim Area,Type 1,"4,287.00","1,473.00",0,5760.00
+2013/14,13-Nov,Northern,Causeway,Type 1,"2,622.00",544,0,3166.00
+2013/14,13-Nov,Northern,Mid-Ulster,Type 3,569,0,0,569.00
+2013/14,13-Nov,Northern,Whiteabbey,Type 3,755,1,0,756.00
+2013/14,13-Nov,South Eastern,Ards MIU,Type 3,759,0,0,759.00
+2013/14,13-Nov,South Eastern,Bangor MIU,Type 3,899,0,0,899.00
+2013/14,13-Nov,South Eastern,Downe,Type 2,"1,362.00",237,2,1601.00
+2013/14,13-Nov,South Eastern,Lagan Valley,Type 2,"1,949.00",272,11,2232.00
+2013/14,13-Nov,South Eastern,Ulster,Type 1,"5,139.00","1,452.00",8,6599.00
+2013/14,13-Nov,Southern,Armagh Community,Type 3,476,0,0,476.00
+2013/14,13-Nov,Southern,Craigavon Area,Type 1,"4,198.00","1,655.00",1,5854.00
+2013/14,13-Nov,Southern,Daisy Hill,Type 1,"2,834.00",269,0,3103.00
+2013/14,13-Nov,Southern,South Tyrone,Type 3,"1,610.00",0,0,1610.00
+2013/14,13-Nov,Western,Altnagelvin Area,Type 1,"3,100.00","1,226.00",5,4331.00
+2013/14,13-Nov,Western,South West Acute,Type 1,"2,080.00",72,0,2152.00
+2013/14,13-Nov,Western,Tyrone County,Type 3,"1,223.00",2,0,1225.00
+2013/14,13-Dec,Belfast,Mater,Type 1,"2,300.00","1,206.00",18,3524.00
+2013/14,13-Dec,Belfast,Royal Victoria,Type 1,"3,524.00","2,764.00",79,6367.00
+2013/14,13-Dec,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,193.00",0,0,1193.00
+2013/14,13-Dec,Belfast,RBHSC,Type 1,"2,638.00",340,0,2978.00
+2013/14,13-Dec,Northern,Antrim Area,Type 1,"4,076.00","1,715.00",30,5821.00
+2013/14,13-Dec,Northern,Causeway,Type 1,"2,349.00",774,0,3123.00
+2013/14,13-Dec,Northern,Mid-Ulster,Type 3,569,0,0,569.00
+2013/14,13-Dec,Northern,Whiteabbey,Type 3,651,0,0,651.00
+2013/14,13-Dec,South Eastern,Ards MIU,Type 3,641,0,0,641.00
+2013/14,13-Dec,South Eastern,Bangor MIU,Type 3,676,0,0,676.00
+2013/14,13-Dec,South Eastern,Downe,Type 2,"1,335.00",202,2,1539.00
+2013/14,13-Dec,South Eastern,Lagan Valley,Type 2,"1,838.00",256,0,2094.00
+2013/14,13-Dec,South Eastern,Ulster,Type 1,"4,735.00","1,944.00",21,6700.00
+2013/14,13-Dec,Southern,Armagh Community,Type 3,453,0,0,453.00
+2013/14,13-Dec,Southern,Craigavon Area,Type 1,"4,331.00","1,844.00",1,6176.00
+2013/14,13-Dec,Southern,Daisy Hill,Type 1,"2,935.00",372,0,3307.00
+2013/14,13-Dec,Southern,South Tyrone,Type 3,"1,426.00",0,0,1426.00
+2013/14,13-Dec,Western,Altnagelvin Area,Type 1,"3,056.00","1,253.00",14,4323.00
+2013/14,13-Dec,Western,South West Acute,Type 1,"2,097.00",233,0,2330.00
+2013/14,13-Dec,Western,Tyrone County,Type 3,"1,166.00",0,0,1166.00
+2013/14,14-Jan,Belfast,Mater,Type 1,"2,345.00","1,373.00",7,3725.00
+2013/14,14-Jan,Belfast,Royal Victoria,Type 1,"3,762.00","2,853.00",30,6645.00
+2013/14,14-Jan,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,186.00",0,0,1186.00
+2013/14,14-Jan,Belfast,RBHSC,Type 1,"2,428.00",208,0,2636.00
+2013/14,14-Jan,Northern,Antrim Area,Type 1,"3,905.00","2,094.00",94,6093.00
+2013/14,14-Jan,Northern,Causeway,Type 1,"2,372.00",828,0,3200.00
+2013/14,14-Jan,Northern,Mid-Ulster,Type 3,650,0,0,650.00
+2013/14,14-Jan,Northern,Whiteabbey,Type 3,707,0,0,707.00
+2013/14,14-Jan,South Eastern,Ards MIU,Type 3,760,0,0,760.00
+2013/14,14-Jan,South Eastern,Bangor MIU,Type 3,783,0,0,783.00
+2013/14,14-Jan,South Eastern,Downe,Type 2,"1,148.00",150,0,1298.00
+2013/14,14-Jan,South Eastern,Lagan Valley,Type 2,"1,419.00",262,0,1681.00
+2013/14,14-Jan,South Eastern,Ulster,Type 1,"4,691.00","2,064.00",19,6774.00
+2013/14,14-Jan,Southern,Armagh Community,Type 3,509,0,0,509.00
+2013/14,14-Jan,Southern,Craigavon Area,Type 1,"4,390.00","1,466.00",0,5856.00
+2013/14,14-Jan,Southern,Daisy Hill,Type 1,"2,976.00",437,0,3413.00
+2013/14,14-Jan,Southern,South Tyrone,Type 3,"1,450.00",0,0,1450.00
+2013/14,14-Jan,Western,Altnagelvin Area,Type 1,"3,104.00","1,359.00",6,4469.00
+2013/14,14-Jan,Western,South West Acute,Type 1,"2,137.00",222,0,2359.00
+2013/14,14-Jan,Western,Tyrone County,Type 3,"1,107.00",1,0,1108.00
+2013/14,14-Feb,Belfast,Mater,Type 1,"2,131.00","1,272.00",7,3410.00
+2013/14,14-Feb,Belfast,Royal Victoria,Type 1,"3,732.00","2,408.00",50,6190.00
+2013/14,14-Feb,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,092.00",0,0,1092.00
+2013/14,14-Feb,Belfast,RBHSC,Type 1,"2,242.00",307,0,2549.00
+2013/14,14-Feb,Northern,Antrim Area,Type 1,"3,565.00","1,888.00",161,5614.00
+2013/14,14-Feb,Northern,Causeway,Type 1,"2,306.00",816,0,3122.00
+2013/14,14-Feb,Northern,Mid-Ulster,Type 3,603,0,0,603.00
+2013/14,14-Feb,Northern,Whiteabbey,Type 3,719,0,0,719.00
+2013/14,14-Feb,South Eastern,Ards MIU,Type 3,733,0,0,733.00
+2013/14,14-Feb,South Eastern,Bangor MIU,Type 3,703,0,0,703.00
+2013/14,14-Feb,South Eastern,Downe,Type 2,"1,004.00",137,0,1141.00
+2013/14,14-Feb,South Eastern,Lagan Valley,Type 2,"1,386.00",241,1,1628.00
+2013/14,14-Feb,South Eastern,Ulster,Type 1,"4,199.00","2,083.00",38,6320.00
+2013/14,14-Feb,Southern,Armagh Community,Type 3,459,0,0,459.00
+2013/14,14-Feb,Southern,Craigavon Area,Type 1,"4,244.00","1,305.00",0,5549.00
+2013/14,14-Feb,Southern,Daisy Hill,Type 1,"2,615.00",612,0,3227.00
+2013/14,14-Feb,Southern,South Tyrone,Type 3,"1,484.00",0,0,1484.00
+2013/14,14-Feb,Western,Altnagelvin Area,Type 1,"2,643.00","1,245.00",0,3888.00
+2013/14,14-Feb,Western,South West Acute,Type 1,"1,822.00",348,11,2181.00
+2013/14,14-Feb,Western,Tyrone County,Type 3,"1,097.00",2,0,1099.00
+2013/14,14-Mar,Belfast,Mater,Type 1,"2,541.00","1,301.00",12,3854.00
+2013/14,14-Mar,Belfast,Royal Victoria,Type 1,"4,107.00","2,774.00",125,7006.00
+2013/14,14-Mar,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,138.00",0,0,1138.00
+2013/14,14-Mar,Belfast,RBHSC,Type 1,"2,604.00",566,0,3170.00
+2013/14,14-Mar,Northern,Antrim Area,Type 1,"4,058.00","2,343.00",175,6576.00
+2013/14,14-Mar,Northern,Causeway,Type 1,"2,899.00",772,0,3671.00
+2013/14,14-Mar,Northern,Mid-Ulster,Type 3,684,0,0,684.00
+2013/14,14-Mar,Northern,Whiteabbey,Type 3,814,0,0,814.00
+2013/14,14-Mar,South Eastern,Ards MIU,Type 3,858,0,0,858.00
+2013/14,14-Mar,South Eastern,Bangor MIU,Type 3,926,0,0,926.00
+2013/14,14-Mar,South Eastern,Downe,Type 2,"1,319.00",148,0,1467.00
+2013/14,14-Mar,South Eastern,Lagan Valley,Type 2,"1,499.00",273,0,1772.00
+2013/14,14-Mar,South Eastern,Ulster,Type 1,"5,117.00","2,180.00",85,7382.00
+2013/14,14-Mar,Southern,Armagh Community,Type 3,580,0,0,580.00
+2013/14,14-Mar,Southern,Craigavon Area,Type 1,"4,500.00","2,029.00",7,6536.00
+2013/14,14-Mar,Southern,Daisy Hill,Type 1,"2,979.00",733,4,3716.00
+2013/14,14-Mar,Southern,South Tyrone,Type 3,"1,850.00",0,0,1850.00
+2013/14,14-Mar,Western,Altnagelvin Area,Type 1,"3,083.00","1,437.00",0,4520.00
+2013/14,14-Mar,Western,South West Acute,Type 1,"2,237.00",216,0,2453.00
+2013/14,14-Mar,Western,Tyrone County,Type 3,"1,357.00",1,0,1358.00
+2014/15,14-Apr,Belfast,Mater,Type 1,"2,595.00","1,058.00",11,3664.00
+2014/15,14-Apr,Belfast,Royal Victoria,Type 1,"4,234.00","2,429.00",78,6741.00
+2014/15,14-Apr,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,278.00",0,0,1278.00
+2014/15,14-Apr,Belfast,RBHSC,Type 1,"2,550.00",364,0,2914.00
+2014/15,14-Apr,Northern,Antrim Area,Type 1,"3,912.00","2,420.00",122,6454.00
+2014/15,14-Apr,Northern,Causeway,Type 1,"2,917.00",778,0,3695.00
+2014/15,14-Apr,Northern,Mid-Ulster,Type 3,711,0,0,711.00
+2014/15,14-Apr,Northern,Whiteabbey,Type 3,772,0,0,772.00
+2014/15,14-Apr,South Eastern,Ards MIU,Type 3,845,0,0,845.00
+2014/15,14-Apr,South Eastern,Bangor MIU,Type 3,851,0,0,851.00
+2014/15,14-Apr,South Eastern,Downe,Type 2,"1,414.00",123,0,1537.00
+2014/15,14-Apr,South Eastern,Lagan Valley,Type 2,"1,547.00",312,1,1860.00
+2014/15,14-Apr,South Eastern,Ulster,Type 1,"5,194.00","1,782.00",38,7014.00
+2014/15,14-Apr,Southern,Armagh Community,Type 3,660,0,0,660.00
+2014/15,14-Apr,Southern,Craigavon Area,Type 1,"4,588.00","1,965.00",0,6553.00
+2014/15,14-Apr,Southern,Daisy Hill,Type 1,"2,934.00",972,1,3907.00
+2014/15,14-Apr,Southern,South Tyrone,Type 3,"2,000.00",0,0,2000.00
+2014/15,14-Apr,Western,Altnagelvin Area,Type 1,"3,375.00","1,253.00",0,4628.00
+2014/15,14-Apr,Western,South West Acute,Type 1,"2,376.00",273,0,2649.00
+2014/15,14-Apr,Western,Tyrone County,Type 3,"1,402.00",0,0,1402.00
+2014/15,14-May,Belfast,Mater,Type 1,"2,821.00",954,9,3784.00
+2014/15,14-May,Belfast,Royal Victoria,Type 1,"4,193.00","2,881.00",74,7148.00
+2014/15,14-May,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,322.00",0,0,1322.00
+2014/15,14-May,Belfast,RBHSC,Type 1,"2,561.00",399,0,2960.00
+2014/15,14-May,Northern,Antrim Area,Type 1,"3,948.00","2,559.00",118,6625.00
+2014/15,14-May,Northern,Causeway,Type 1,"2,944.00",906,0,3850.00
+2014/15,14-May,Northern,Mid-Ulster,Type 3,764,0,0,764.00
+2014/15,14-May,Northern,Whiteabbey,Type 3,771,0,0,771.00
+2014/15,14-May,South Eastern,Ards MIU,Type 3,850,0,0,850.00
+2014/15,14-May,South Eastern,Bangor MIU,Type 3,873,0,0,873.00
+2014/15,14-May,South Eastern,Downe,Type 2,"1,388.00",142,1,1531.00
+2014/15,14-May,South Eastern,Lagan Valley,Type 2,"1,585.00",284,0,1869.00
+2014/15,14-May,South Eastern,Ulster,Type 1,"5,218.00","1,988.00",1,7207.00
+2014/15,14-May,Southern,Armagh Community,Type 3,634,0,0,634.00
+2014/15,14-May,Southern,Craigavon Area,Type 1,"4,986.00","1,517.00",0,6503.00
+2014/15,14-May,Southern,Daisy Hill,Type 1,"3,318.00",522,0,3840.00
+2014/15,14-May,Southern,South Tyrone,Type 3,"1,944.00",1,0,1945.00
+2014/15,14-May,Western,Altnagelvin Area,Type 1,"3,329.00","1,442.00",0,4771.00
+2014/15,14-May,Western,South West Acute,Type 1,"2,390.00",273,0,2663.00
+2014/15,14-May,Western,Tyrone County,Type 3,"1,456.00",1,0,1457.00
+2014/15,14-Jun,Belfast,Mater,Type 1,"3,068.00",829,34,3931.00
+2014/15,14-Jun,Belfast,Royal Victoria,Type 1,"4,067.00","2,857.00",189,7113.00
+2014/15,14-Jun,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,312.00",0,0,1312.00
+2014/15,14-Jun,Belfast,RBHSC,Type 1,"2,608.00",337,0,2945.00
+2014/15,14-Jun,Northern,Antrim Area,Type 1,"4,297.00","2,183.00",63,6543.00
+2014/15,14-Jun,Northern,Causeway,Type 1,"2,877.00",790,0,3667.00
+2014/15,14-Jun,Northern,Mid-Ulster,Type 3,843,0,0,843.00
+2014/15,14-Jun,Northern,Whiteabbey,Type 3,969,3,0,972.00
+2014/15,14-Jun,South Eastern,Ards MIU,Type 3,966,0,0,966.00
+2014/15,14-Jun,South Eastern,Bangor MIU,Type 3,957,1,0,958.00
+2014/15,14-Jun,South Eastern,Downe,Type 2,"1,368.00",142,0,1510.00
+2014/15,14-Jun,South Eastern,Lagan Valley,Type 2,"1,618.00",290,0,1908.00
+2014/15,14-Jun,South Eastern,Ulster,Type 1,"5,446.00","1,713.00",6,7165.00
+2014/15,14-Jun,Southern,Armagh Community,Type 3,652,0,0,652.00
+2014/15,14-Jun,Southern,Craigavon Area,Type 1,"4,838.00","1,826.00",1,6665.00
+2014/15,14-Jun,Southern,Daisy Hill,Type 1,"3,298.00",673,0,3971.00
+2014/15,14-Jun,Southern,South Tyrone,Type 3,"2,251.00",0,0,2251.00
+2014/15,14-Jun,Western,Altnagelvin Area,Type 1,"3,834.00",857,0,4691.00
+2014/15,14-Jun,Western,South West Acute,Type 1,"2,365.00",221,0,2586.00
+2014/15,14-Jun,Western,Tyrone County,Type 3,"1,531.00",2,0,1533.00
+2014/15,14-Jul,Belfast,Mater,Type 1,"3,268.00",756,3,4027.00
+2014/15,14-Jul,Belfast,Royal Victoria,Type 1,"4,714.00","2,417.00",37,7168.00
+2014/15,14-Jul,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,375.00",0,0,1375.00
+2014/15,14-Jul,Belfast,RBHSC,Type 1,"2,335.00",181,0,2516.00
+2014/15,14-Jul,Northern,Antrim Area,Type 1,"4,395.00","2,028.00",0,6423.00
+2014/15,14-Jul,Northern,Causeway,Type 1,"3,081.00","1,107.00",0,4188.00
+2014/15,14-Jul,Northern,Mid-Ulster,Type 3,794,0,0,794.00
+2014/15,14-Jul,Northern,Whiteabbey,Type 3,815,0,0,815.00
+2014/15,14-Jul,South Eastern,Ards MIU,Type 3,962,0,0,962.00
+2014/15,14-Jul,South Eastern,Bangor MIU,Type 3,940,0,0,940.00
+2014/15,14-Jul,South Eastern,Downe,Type 2,"1,481.00",131,0,1612.00
+2014/15,14-Jul,South Eastern,Lagan Valley,Type 2,"1,585.00",247,0,1832.00
+2014/15,14-Jul,South Eastern,Ulster,Type 1,"5,949.00","1,473.00",1,7423.00
+2014/15,14-Jul,Southern,Armagh Community,Type 3,684,0,0,684.00
+2014/15,14-Jul,Southern,Craigavon Area,Type 1,"5,348.00","1,196.00",0,6544.00
+2014/15,14-Jul,Southern,Daisy Hill,Type 1,"3,459.00",576,0,4035.00
+2014/15,14-Jul,Southern,South Tyrone,Type 3,"2,046.00",0,0,2046.00
+2014/15,14-Jul,Western,Altnagelvin Area,Type 1,"3,948.00",915,0,4863.00
+2014/15,14-Jul,Western,South West Acute,Type 1,"2,546.00",122,0,2668.00
+2014/15,14-Jul,Western,Tyrone County,Type 3,"1,450.00",1,0,1451.00
+2014/15,14-Aug,Belfast,Mater,Type 1,"2,702.00","1,083.00",32,3817.00
+2014/15,14-Aug,Belfast,Royal Victoria,Type 1,"4,125.00","2,790.00",103,7018.00
+2014/15,14-Aug,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,229.00",0,0,1229.00
+2014/15,14-Aug,Belfast,RBHSC,Type 1,"2,141.00",80,0,2221.00
+2014/15,14-Aug,Northern,Antrim Area,Type 1,"3,934.00","2,091.00",2,6027.00
+2014/15,14-Aug,Northern,Causeway,Type 1,"2,576.00","1,257.00",0,3833.00
+2014/15,14-Aug,Northern,Mid-Ulster,Type 3,701,0,0,701.00
+2014/15,14-Aug,Northern,Whiteabbey,Type 3,831,1,0,832.00
+2014/15,14-Aug,South Eastern,Ards MIU,Type 3,884,0,0,884.00
+2014/15,14-Aug,South Eastern,Bangor MIU,Type 3,795,0,0,795.00
+2014/15,14-Aug,South Eastern,Downe,Type 2,"1,380.00",127,0,1507.00
+2014/15,14-Aug,South Eastern,Lagan Valley,Type 2,"1,506.00",212,0,1718.00
+2014/15,14-Aug,South Eastern,Ulster,Type 1,"5,336.00","1,875.00",1,7212.00
+2014/15,14-Aug,Southern,Armagh Community,Type 3,583,0,0,583.00
+2014/15,14-Aug,Southern,Craigavon Area,Type 1,"5,004.00","1,074.00",0,6078.00
+2014/15,14-Aug,Southern,Daisy Hill,Type 1,"3,209.00",587,0,3796.00
+2014/15,14-Aug,Southern,South Tyrone,Type 3,"2,053.00",0,0,2053.00
+2014/15,14-Aug,Western,Altnagelvin Area,Type 1,"3,430.00","1,076.00",0,4506.00
+2014/15,14-Aug,Western,South West Acute,Type 1,"2,444.00",185,0,2629.00
+2014/15,14-Aug,Western,Tyrone County,Type 3,"1,453.00",2,0,1455.00
+2014/15,14-Sep,Belfast,Mater,Type 1,"2,619.00","1,164.00",72,3855.00
+2014/15,14-Sep,Belfast,Royal Victoria,Type 1,"4,089.00","2,839.00",135,7063.00
+2014/15,14-Sep,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,333.00",0,0,1333.00
+2014/15,14-Sep,Belfast,RBHSC,Type 1,"2,626.00",128,0,2754.00
+2014/15,14-Sep,Northern,Antrim Area,Type 1,"4,527.00","1,778.00",21,6326.00
+2014/15,14-Sep,Northern,Causeway,Type 1,"2,572.00","1,024.00",0,3596.00
+2014/15,14-Sep,Northern,Mid-Ulster,Type 3,768,0,0,768.00
+2014/15,14-Sep,Northern,Whiteabbey,Type 3,"1,020.00",0,0,1020.00
+2014/15,14-Sep,South Eastern,Ards MIU,Type 3,958,0,0,958.00
+2014/15,14-Sep,South Eastern,Bangor MIU,Type 3,961,0,0,961.00
+2014/15,14-Sep,South Eastern,Downe,Type 2,"1,419.00",216,0,1635.00
+2014/15,14-Sep,South Eastern,Lagan Valley,Type 2,"1,732.00",220,0,1952.00
+2014/15,14-Sep,South Eastern,Ulster,Type 1,"5,490.00","1,938.00",28,7456.00
+2014/15,14-Sep,Southern,Armagh Community,Type 3,681,0,0,681.00
+2014/15,14-Sep,Southern,Craigavon Area,Type 1,"5,168.00","1,262.00",0,6430.00
+2014/15,14-Sep,Southern,Daisy Hill,Type 1,"3,316.00",550,0,3866.00
+2014/15,14-Sep,Southern,South Tyrone,Type 3,"2,075.00",0,0,2075.00
+2014/15,14-Sep,Western,Altnagelvin Area,Type 1,"3,664.00","1,099.00",0,4763.00
+2014/15,14-Sep,Western,South West Acute,Type 1,"2,294.00",82,0,2376.00
+2014/15,14-Sep,Western,Tyrone County,Type 3,"1,384.00",3,0,1387.00
+2014/15,14-Oct,Belfast,Mater,Type 1,"2,661.00","1,128.00",23,3812.00
+2014/15,14-Oct,Belfast,Royal Victoria,Type 1,"4,427.00","2,612.00",85,7124.00
+2014/15,14-Oct,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,389.00",0,0,1389.00
+2014/15,14-Oct,Belfast,RBHSC,Type 1,"2,498.00",144,0,2642.00
+2014/15,14-Oct,Northern,Antrim Area,Type 1,"4,196.00","1,923.00",7,6126.00
+2014/15,14-Oct,Northern,Causeway,Type 1,"2,514.00","1,000.00",0,3514.00
+2014/15,14-Oct,Northern,Mid-Ulster,Type 3,781,0,0,781.00
+2014/15,14-Oct,Northern,Whiteabbey,Type 3,889,1,0,890.00
+2014/15,14-Oct,South Eastern,Ards MIU,Type 3,864,0,0,864.00
+2014/15,14-Oct,South Eastern,Bangor MIU,Type 3,881,0,0,881.00
+2014/15,14-Oct,South Eastern,Downe,Type 2,"1,403.00",153,0,1556.00
+2014/15,14-Oct,South Eastern,Lagan Valley,Type 2,"1,721.00",147,0,1868.00
+2014/15,14-Oct,South Eastern,Ulster,Type 1,"5,235.00","2,026.00",22,7283.00
+2014/15,14-Oct,Southern,Armagh Community,Type 3,647,0,0,647.00
+2014/15,14-Oct,Southern,Craigavon Area,Type 1,"5,268.00","1,080.00",1,6349.00
+2014/15,14-Oct,Southern,Daisy Hill,Type 1,"3,111.00",608,0,3719.00
+2014/15,14-Oct,Southern,South Tyrone,Type 3,"1,899.00",1,0,1900.00
+2014/15,14-Oct,Western,Altnagelvin Area,Type 1,"3,286.00","1,267.00",0,4553.00
+2014/15,14-Oct,Western,South West Acute,Type 1,"2,227.00",139,0,2366.00
+2014/15,14-Oct,Western,Tyrone County,Type 3,"1,352.00",1,0,1353.00
+2014/15,14-Nov,Belfast,Mater,Type 1,"2,452.00","1,029.00",30,3511.00
+2014/15,14-Nov,Belfast,Royal Victoria,Type 1,"4,153.00","2,429.00",79,6661.00
+2014/15,14-Nov,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,306.00",0,0,1306.00
+2014/15,14-Nov,Belfast,RBHSC,Type 1,"2,665.00",184,0,2849.00
+2014/15,14-Nov,Northern,Antrim Area,Type 1,"3,956.00","1,918.00",13,5887.00
+2014/15,14-Nov,Northern,Causeway,Type 1,"2,488.00",696,0,3184.00
+2014/15,14-Nov,Northern,Mid-Ulster,Type 3,620,0,0,620.00
+2014/15,14-Nov,Northern,Whiteabbey,Type 3,669,0,0,669.00
+2014/15,14-Nov,South Eastern,Ards MIU,Type 3,766,0,0,766.00
+2014/15,14-Nov,South Eastern,Bangor MIU,Type 3,604,0,0,604.00
+2014/15,14-Nov,South Eastern,Downe,Type 2,"1,217.00",90,0,1307.00
+2014/15,14-Nov,South Eastern,Lagan Valley,Type 2,"1,386.00",142,0,1528.00
+2014/15,14-Nov,South Eastern,Ulster,Type 1,"5,270.00","1,729.00",3,7002.00
+2014/15,14-Nov,Southern,Armagh Community,Type 3,222,0,0,222.00
+2014/15,14-Nov,Southern,Craigavon Area,Type 1,"5,403.00",881,0,6284.00
+2014/15,14-Nov,Southern,Daisy Hill,Type 1,"3,109.00",399,0,3508.00
+2014/15,14-Nov,Southern,South Tyrone,Type 3,"1,783.00",0,0,1783.00
+2014/15,14-Nov,Western,Altnagelvin Area,Type 1,"3,276.00","1,069.00",0,4345.00
+2014/15,14-Nov,Western,South West Acute,Type 1,"2,141.00",128,0,2269.00
+2014/15,14-Nov,Western,Tyrone County,Type 3,"1,159.00",3,0,1162.00
+2014/15,14-Dec,Belfast,Mater,Type 1,"2,604.00",996,2,3602.00
+2014/15,14-Dec,Belfast,Royal Victoria,Type 1,"3,882.00","2,802.00",42,6726.00
+2014/15,14-Dec,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,257.00",0,0,1257.00
+2014/15,14-Dec,Belfast,RBHSC,Type 1,"2,717.00",443,0,3160.00
+2014/15,14-Dec,Northern,Antrim Area,Type 1,"3,875.00","2,437.00",1,6313.00
+2014/15,14-Dec,Northern,Causeway,Type 1,"2,419.00",821,0,3240.00
+2014/15,14-Dec,Northern,Mid-Ulster,Type 3,530,1,0,531.00
+2014/15,14-Dec,South Eastern,Ards MIU,Type 3,734,0,0,734.00
+2014/15,14-Dec,South Eastern,Bangor MIU,Type 3,654,0,0,654.00
+2014/15,14-Dec,South Eastern,Downe,Type 2,"1,269.00",116,0,1385.00
+2014/15,14-Dec,South Eastern,Lagan Valley,Type 2,"1,498.00",141,0,1639.00
+2014/15,14-Dec,South Eastern,Ulster,Type 1,"5,124.00","2,249.00",45,7418.00
+2014/15,14-Dec,Southern,Craigavon Area,Type 1,"5,462.00","1,182.00",1,6645.00
+2014/15,14-Dec,Southern,Daisy Hill,Type 1,"3,174.00",515,0,3689.00
+2014/15,14-Dec,Southern,South Tyrone,Type 3,"1,659.00",1,0,1660.00
+2014/15,14-Dec,Western,Altnagelvin Area,Type 1,"3,302.00","1,106.00",0,4408.00
+2014/15,14-Dec,Western,South West Acute,Type 1,"2,100.00",308,0,2408.00
+2014/15,14-Dec,Western,Tyrone County,Type 3,"1,187.00",0,0,1187.00
+2014/15,15-Jan,Belfast,Mater,Type 1,"2,500.00","1,188.00",17,3705.00
+2014/15,15-Jan,Belfast,Royal Victoria,Type 1,"3,728.00","2,711.00",67,6506.00
+2014/15,15-Jan,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,254.00",0,0,1254.00
+2014/15,15-Jan,Belfast,RBHSC,Type 1,"2,564.00",227,0,2791.00
+2014/15,15-Jan,Northern,Antrim Area,Type 1,"3,812.00","2,215.00",42,6069.00
+2014/15,15-Jan,Northern,Causeway,Type 1,"2,116.00","1,035.00",0,3151.00
+2014/15,15-Jan,Northern,Mid-Ulster,Type 3,576,0,0,576.00
+2014/15,15-Jan,South Eastern,Ards MIU,Type 3,762,0,0,762.00
+2014/15,15-Jan,South Eastern,Bangor MIU,Type 3,696,0,0,696.00
+2014/15,15-Jan,South Eastern,Downe,Type 2,"1,262.00",135,0,1397.00
+2014/15,15-Jan,South Eastern,Lagan Valley,Type 2,"1,385.00",246,0,1631.00
+2014/15,15-Jan,South Eastern,Ulster,Type 1,"4,697.00","2,035.00",237,6969.00
+2014/15,15-Jan,Southern,Craigavon Area,Type 1,"5,032.00","1,330.00",9,6371.00
+2014/15,15-Jan,Southern,Daisy Hill,Type 1,"2,984.00",609,0,3593.00
+2014/15,15-Jan,Southern,South Tyrone,Type 3,"1,735.00",0,0,1735.00
+2014/15,15-Jan,Western,Altnagelvin Area,Type 1,"3,021.00","1,258.00",6,4285.00
+2014/15,15-Jan,Western,South West Acute,Type 1,"1,872.00",463,1,2336.00
+2014/15,15-Jan,Western,Tyrone County,Type 3,"1,082.00",0,0,1082.00
+2014/15,15-Feb,Belfast,Mater,Type 1,"2,379.00","1,298.00",80,3757.00
+2014/15,15-Feb,Belfast,Royal Victoria,Type 1,"3,366.00","2,797.00",242,6405.00
+2014/15,15-Feb,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,250.00",0,0,1250.00
+2014/15,15-Feb,Belfast,RBHSC,Type 1,"2,565.00",272,0,2837.00
+2014/15,15-Feb,Northern,Antrim Area,Type 1,"3,282.00","2,604.00",80,5966.00
+2014/15,15-Feb,Northern,Causeway,Type 1,"2,174.00","1,036.00",0,3210.00
+2014/15,15-Feb,Northern,Mid-Ulster,Type 3,599,0,0,599.00
+2014/15,15-Feb,South Eastern,Ards MIU,Type 3,706,0,0,706.00
+2014/15,15-Feb,South Eastern,Bangor MIU,Type 3,705,0,0,705.00
+2014/15,15-Feb,South Eastern,Downe,Type 2,"1,170.00",166,16,1352.00
+2014/15,15-Feb,South Eastern,Lagan Valley,Type 2,"1,438.00",249,3,1690.00
+2014/15,15-Feb,South Eastern,Ulster,Type 1,"4,318.00","1,959.00",210,6487.00
+2014/15,15-Feb,Southern,Craigavon Area,Type 1,"4,408.00","1,695.00",0,6103.00
+2014/15,15-Feb,Southern,Daisy Hill,Type 1,"2,658.00",842,0,3500.00
+2014/15,15-Feb,Southern,South Tyrone,Type 3,"1,917.00",0,0,1917.00
+2014/15,15-Feb,Western,Altnagelvin Area,Type 1,"2,788.00","1,449.00",3,4240.00
+2014/15,15-Feb,Western,South West Acute,Type 1,"1,775.00",455,8,2238.00
+2014/15,15-Feb,Western,Tyrone County,Type 3,"1,178.00",0,0,1178.00
+2014/15,15-Mar,Belfast,Mater,Type 1,"2,596.00","1,471.00",91,4158.00
+2014/15,15-Mar,Belfast,Royal Victoria,Type 1,"4,097.00","2,912.00",221,7230.00
+2014/15,15-Mar,Belfast,Royal Victoria (ENT & RAES),Type 2,"1,446.00",0,0,1446.00
+2014/15,15-Mar,Belfast,RBHSC,Type 1,"2,941.00",349,0,3290.00
+2014/15,15-Mar,Northern,Antrim Area,Type 1,"3,721.00","2,594.00",194,6509.00
+2014/15,15-Mar,Northern,Causeway,Type 1,"2,442.00","1,125.00",0,3567.00
+2014/15,15-Mar,Northern,Mid-Ulster,Type 3,719,0,0,719.00
+2014/15,15-Mar,South Eastern,Ards MIU,Type 3,892,0,0,892.00
+2014/15,15-Mar,South Eastern,Bangor MIU,Type 3,716,0,0,716.00
+2014/15,15-Mar,South Eastern,Downe,Type 2,"1,347.00",164,2,1513.00
+2014/15,15-Mar,South Eastern,Lagan Valley,Type 2,"1,684.00",224,1,1909.00
+2014/15,15-Mar,South Eastern,Ulster,Type 1,"5,249.00","2,046.00",97,7392.00
+2014/15,15-Mar,Southern,Craigavon Area,Type 1,"5,251.00","1,775.00",1,7027.00
+2014/15,15-Mar,Southern,Daisy Hill,Type 1,"3,183.00",837,0,4020.00
+2014/15,15-Mar,Southern,South Tyrone,Type 3,"2,257.00",0,0,2257.00
+2014/15,15-Mar,Western,Altnagelvin Area,Type 1,"3,228.00","1,541.00",5,4774.00
+2014/15,15-Mar,Western,South West Acute,Type 1,"2,116.00",505,1,2622.00
+2014/15,15-Mar,Western,Tyrone County,Type 3,"1,447.00",0,0,1447.00
+2015/16,15-Apr,Belfast,Mater,Type 1,"2,520.00","1,289.00",87,3896.00
+2015/16,15-Apr,Belfast,Royal Victoria,Type 1,"4,087.00","2,624.00",136,6847.00
+2015/16,15-Apr,Belfast,RBHSC,Type 1,"2,969.00",162,0,3131.00
+2015/16,15-Apr,Belfast,Royal Victoria (RAES),Type 2,"1,137.00",0,0,1137.00
+2015/16,15-Apr,Northern,Antrim Area,Type 1,"3,632.00","2,645.00",78,6355.00
+2015/16,15-Apr,Northern,Causeway,Type 1,"2,606.00","1,267.00",0,3873.00
+2015/16,15-Apr,Northern,Mid-Ulster,Type 3,791,0,0,791.00
+2015/16,15-Apr,South Eastern,Ards MIU,Type 3,886,0,0,886.00
+2015/16,15-Apr,South Eastern,Bangor MIU,Type 3,787,0,0,787.00
+2015/16,15-Apr,South Eastern,Downe,Type 2,"1,487.00",122,2,1611.00
+2015/16,15-Apr,South Eastern,Lagan Valley,Type 2,"1,641.00",204,0,1845.00
+2015/16,15-Apr,South Eastern,Ulster,Type 1,"5,082.00","2,223.00",147,7452.00
+2015/16,15-Apr,Southern,Craigavon Area,Type 1,"4,850.00","1,683.00",0,6533.00
+2015/16,15-Apr,Southern,Daisy Hill,Type 1,"3,236.00",930,1,4167.00
+2015/16,15-Apr,Southern,South Tyrone,Type 3,"2,341.00",2,0,2343.00
+2015/16,15-Apr,Western,Altnagelvin Area,Type 1,"3,226.00","1,598.00",4,4828.00
+2015/16,15-Apr,Western,South West Acute,Type 1,"2,223.00",359,1,2583.00
+2015/16,15-Apr,Western,Tyrone County,Type 3,"1,505.00",4,0,1509.00
+2015/16,15-May,Belfast,Mater,Type 1,"2,513.00","1,334.00",98,3945.00
+2015/16,15-May,Belfast,Royal Victoria,Type 1,"4,654.00","2,462.00",114,7230.00
+2015/16,15-May,Belfast,RBHSC,Type 1,"2,860.00",234,0,3094.00
+2015/16,15-May,Belfast,Royal Victoria (RAES),Type 2,"1,137.00",0,0,1137.00
+2015/16,15-May,Northern,Antrim Area,Type 1,"3,975.00","2,583.00",75,6633.00
+2015/16,15-May,Northern,Causeway,Type 1,"2,485.00","1,296.00",0,3781.00
+2015/16,15-May,Northern,Mid-Ulster,Type 3,722,0,0,722.00
+2015/16,15-May,South Eastern,Ards MIU,Type 3,873,0,0,873.00
+2015/16,15-May,South Eastern,Bangor MIU,Type 3,734,0,0,734.00
+2015/16,15-May,South Eastern,Downe,Type 2,"1,451.00",128,0,1579.00
+2015/16,15-May,South Eastern,Lagan Valley,Type 2,"1,678.00",149,0,1827.00
+2015/16,15-May,South Eastern,Ulster,Type 1,"5,542.00","1,945.00",100,7587.00
+2015/16,15-May,Southern,Craigavon Area,Type 1,"5,376.00","1,418.00",0,6794.00
+2015/16,15-May,Southern,Daisy Hill,Type 1,"3,393.00",879,0,4272.00
+2015/16,15-May,Southern,South Tyrone,Type 3,"2,256.00",1,0,2257.00
+2015/16,15-May,Western,Altnagelvin Area,Type 1,"3,306.00","1,733.00",2,5041.00
+2015/16,15-May,Western,South West Acute,Type 1,"2,144.00",347,0,2491.00
+2015/16,15-May,Western,Tyrone County,Type 3,"1,454.00",0,0,1454.00
+2015/16,15-Jun,Belfast,Mater,Type 1,"3,045.00",872,21,3938.00
+2015/16,15-Jun,Belfast,Royal Victoria,Type 1,"4,971.00","2,261.00",74,7306.00
+2015/16,15-Jun,Belfast,RBHSC,Type 1,"2,866.00",166,0,3032.00
+2015/16,15-Jun,Belfast,Royal Victoria (RAES),Type 2,"1,259.00",0,0,1259.00
+2015/16,15-Jun,Northern,Antrim Area,Type 1,"4,132.00","2,453.00",5,6590.00
+2015/16,15-Jun,Northern,Causeway,Type 1,"2,623.00","1,222.00",0,3845.00
+2015/16,15-Jun,Northern,Mid-Ulster,Type 3,941,0,0,941.00
+2015/16,15-Jun,South Eastern,Ards MIU,Type 3,992,0,0,992.00
+2015/16,15-Jun,South Eastern,Bangor MIU,Type 3,938,0,0,938.00
+2015/16,15-Jun,South Eastern,Downe,Type 2,"1,527.00",116,3,1646.00
+2015/16,15-Jun,South Eastern,Lagan Valley,Type 2,"1,694.00",222,0,1916.00
+2015/16,15-Jun,South Eastern,Ulster,Type 1,"5,440.00","1,964.00",133,7537.00
+2015/16,15-Jun,Southern,Craigavon Area,Type 1,"5,194.00","1,898.00",0,7092.00
+2015/16,15-Jun,Southern,Daisy Hill,Type 1,"3,499.00",750,0,4249.00
+2015/16,15-Jun,Southern,South Tyrone,Type 3,"2,624.00",1,0,2625.00
+2015/16,15-Jun,Western,Altnagelvin Area,Type 1,"3,522.00","1,359.00",0,4881.00
+2015/16,15-Jun,Western,South West Acute,Type 1,"2,339.00",261,0,2600.00
+2015/16,15-Jun,Western,Tyrone County,Type 3,"1,583.00",4,0,1587.00
+2015/16,15-Jul,Belfast,Mater,Type 1,"2,878.00",964,3,3845.00
+2015/16,15-Jul,Belfast,Royal Victoria,Type 1,"5,452.00","1,801.00",18,7271.00
+2015/16,15-Jul,Belfast,RBHSC,Type 1,"2,409.00",102,0,2511.00
+2015/16,15-Jul,Belfast,Royal Victoria (RAES),Type 2,"1,267.00",0,0,1267.00
+2015/16,15-Jul,Northern,Antrim Area,Type 1,"3,947.00","2,493.00",0,6440.00
+2015/16,15-Jul,Northern,Causeway,Type 1,"2,861.00",936,0,3797.00
+2015/16,15-Jul,Northern,Mid-Ulster,Type 3,779,0,0,779.00
+2015/16,15-Jul,South Eastern,Ards MIU,Type 3,894,1,0,895.00
+2015/16,15-Jul,South Eastern,Bangor MIU,Type 3,717,0,0,717.00
+2015/16,15-Jul,South Eastern,Downe,Type 2,"1,555.00",116,2,1673.00
+2015/16,15-Jul,South Eastern,Lagan Valley,Type 2,"1,682.00",200,0,1882.00
+2015/16,15-Jul,South Eastern,Ulster,Type 1,"5,634.00","1,627.00",21,7282.00
+2015/16,15-Jul,Southern,Craigavon Area,Type 1,"5,289.00","1,304.00",0,6593.00
+2015/16,15-Jul,Southern,Daisy Hill,Type 1,"3,740.00",482,0,4222.00
+2015/16,15-Jul,Southern,South Tyrone,Type 3,"2,203.00",0,0,2203.00
+2015/16,15-Jul,Western,Altnagelvin Area,Type 1,"3,827.00","1,085.00",0,4912.00
+2015/16,15-Jul,Western,South West Acute,Type 1,"2,399.00",310,0,2709.00
+2015/16,15-Jul,Western,Tyrone County,Type 3,"1,462.00",1,0,1463.00
+2015/16,15-Aug,Belfast,Mater,Type 1,"2,955.00","1,162.00",17,4134.00
+2015/16,15-Aug,Belfast,Royal Victoria,Type 1,"5,350.00","2,333.00",17,7700.00
+2015/16,15-Aug,Belfast,RBHSC,Type 1,"2,410.00",209,0,2619.00
+2015/16,15-Aug,Belfast,Royal Victoria (RAES),Type 2,"1,186.00",0,0,1186.00
+2015/16,15-Aug,Northern,Antrim Area,Type 1,"3,917.00","2,516.00",10,6443.00
+2015/16,15-Aug,Northern,Causeway,Type 1,"2,514.00","1,383.00",0,3897.00
+2015/16,15-Aug,Northern,Mid-Ulster,Type 3,682,0,0,682.00
+2015/16,15-Aug,South Eastern,Ards MIU,Type 3,904,0,0,904.00
+2015/16,15-Aug,South Eastern,Bangor MIU,Type 3,696,0,0,696.00
+2015/16,15-Aug,South Eastern,Downe,Type 2,"1,557.00",98,1,1656.00
+2015/16,15-Aug,South Eastern,Lagan Valley,Type 2,"1,575.00",226,0,1801.00
+2015/16,15-Aug,South Eastern,Ulster,Type 1,"5,289.00","2,226.00",123,7638.00
+2015/16,15-Aug,Southern,Craigavon Area,Type 1,"4,950.00","1,733.00",0,6683.00
+2015/16,15-Aug,Southern,Daisy Hill,Type 1,"3,708.00",588,0,4296.00
+2015/16,15-Aug,Southern,South Tyrone,Type 3,"2,287.00",0,0,2287.00
+2015/16,15-Aug,Western,Altnagelvin Area,Type 1,"3,451.00","1,313.00",1,4765.00
+2015/16,15-Aug,Western,South West Acute,Type 1,"2,319.00",288,1,2608.00
+2015/16,15-Aug,Western,Tyrone County,Type 3,"1,511.00",2,0,1513.00
+2015/16,15-Sep,Belfast,Mater,Type 1,"3,123.00","1,014.00",10,4147.00
+2015/16,15-Sep,Belfast,Royal Victoria,Type 1,"5,165.00","2,356.00",6,7527.00
+2015/16,15-Sep,Belfast,RBHSC,Type 1,"2,747.00",301,0,3048.00
+2015/16,15-Sep,Belfast,Royal Victoria (RAES),Type 2,"1,241.00",0,0,1241.00
+2015/16,15-Sep,Northern,Antrim Area,Type 1,"4,263.00","2,316.00",1,6580.00
+2015/16,15-Sep,Northern,Causeway,Type 1,"2,528.00","1,034.00",0,3562.00
+2015/16,15-Sep,Northern,Mid-Ulster,Type 3,892,0,0,892.00
+2015/16,15-Sep,South Eastern,Ards MIU,Type 3,946,0,0,946.00
+2015/16,15-Sep,South Eastern,Bangor MIU,Type 3,817,0,0,817.00
+2015/16,15-Sep,South Eastern,Downe,Type 2,"1,531.00",105,0,1636.00
+2015/16,15-Sep,South Eastern,Lagan Valley,Type 2,"1,660.00",285,0,1945.00
+2015/16,15-Sep,South Eastern,Ulster,Type 1,"5,579.00","1,926.00",28,7533.00
+2015/16,15-Sep,Southern,Craigavon Area,Type 1,"4,869.00","1,847.00",0,6716.00
+2015/16,15-Sep,Southern,Daisy Hill,Type 1,"3,492.00",552,0,4044.00
+2015/16,15-Sep,Southern,South Tyrone,Type 3,"2,440.00",1,0,2441.00
+2015/16,15-Sep,Western,Altnagelvin Area,Type 1,"3,536.00","1,422.00",18,4976.00
+2015/16,15-Sep,Western,South West Acute,Type 1,"2,112.00",361,1,2474.00
+2015/16,15-Sep,Western,Tyrone County,Type 3,"1,452.00",3,0,1455.00
+2015/16,15-Oct,Belfast,Mater,Type 1,"2,933.00","1,184.00",20,4137.00
+2015/16,15-Oct,Belfast,Royal Victoria,Type 1,"5,394.00","2,451.00",2,7847.00
+2015/16,15-Oct,Belfast,RBHSC,Type 1,"2,902.00",386,0,3288.00
+2015/16,15-Oct,Belfast,Royal Victoria (RAES),Type 2,"1,281.00",0,0,1281.00
+2015/16,15-Oct,Northern,Antrim Area,Type 1,"4,346.00","2,253.00",85,6684.00
+2015/16,15-Oct,Northern,Causeway,Type 1,"2,550.00","1,373.00",0,3923.00
+2015/16,15-Oct,Northern,Mid-Ulster,Type 3,832,0,0,832.00
+2015/16,15-Oct,South Eastern,Ards MIU,Type 3,929,0,0,929.00
+2015/16,15-Oct,South Eastern,Bangor MIU,Type 3,764,0,0,764.00
+2015/16,15-Oct,South Eastern,Downe,Type 2,"1,510.00",134,0,1644.00
+2015/16,15-Oct,South Eastern,Lagan Valley,Type 2,"1,668.00",244,0,1912.00
+2015/16,15-Oct,South Eastern,Ulster,Type 1,"5,692.00","1,927.00",106,7725.00
+2015/16,15-Oct,Southern,Craigavon Area,Type 1,"4,754.00","2,073.00",8,6835.00
+2015/16,15-Oct,Southern,Daisy Hill,Type 1,"3,591.00",541,0,4132.00
+2015/16,15-Oct,Southern,South Tyrone,Type 3,"2,221.00",1,0,2222.00
+2015/16,15-Oct,Western,Altnagelvin Area,Type 1,"3,725.00","1,398.00",5,5128.00
+2015/16,15-Oct,Western,South West Acute,Type 1,"2,173.00",426,0,2599.00
+2015/16,15-Oct,Western,Tyrone County,Type 3,"1,463.00",2,0,1465.00
+2015/16,15-Nov,Belfast,Mater,Type 1,"2,775.00",628,6,3409.00
+2015/16,15-Nov,Belfast,Royal Victoria,Type 1,"5,058.00","2,462.00",3,7523.00
+2015/16,15-Nov,Belfast,RBHSC,Type 1,"2,919.00",719,0,3638.00
+2015/16,15-Nov,Belfast,Royal Victoria (RAES),Type 2,"1,198.00",0,0,1198.00
+2015/16,15-Nov,Northern,Antrim Area,Type 1,"3,920.00","2,376.00",173,6469.00
+2015/16,15-Nov,Northern,Causeway,Type 1,"2,316.00","1,156.00",6,3478.00
+2015/16,15-Nov,Northern,Mid-Ulster,Type 3,723,0,0,723.00
+2015/16,15-Nov,South Eastern,Ards MIU,Type 3,808,0,0,808.00
+2015/16,15-Nov,South Eastern,Bangor MIU,Type 3,699,0,0,699.00
+2015/16,15-Nov,South Eastern,Downe,Type 2,"1,341.00",144,3,1488.00
+2015/16,15-Nov,South Eastern,Lagan Valley,Type 2,"1,677.00",177,0,1854.00
+2015/16,15-Nov,South Eastern,Ulster,Type 1,"5,311.00","2,262.00",93,7666.00
+2015/16,15-Nov,Southern,Craigavon Area,Type 1,"4,487.00","2,084.00",2,6573.00
+2015/16,15-Nov,Southern,Daisy Hill,Type 1,"3,310.00",625,0,3935.00
+2015/16,15-Nov,Southern,South Tyrone,Type 3,"2,043.00",0,0,2043.00
+2015/16,15-Nov,Western,Altnagelvin Area,Type 1,"3,503.00","1,472.00",3,4978.00
+2015/16,15-Nov,Western,South West Acute,Type 1,"2,096.00",486,2,2584.00
+2015/16,15-Nov,Western,Tyrone County,Type 3,"1,271.00",2,0,1273.00
+2015/16,15-Dec,Belfast,Mater,Type 1,"2,887.00",637,3,3527.00
+2015/16,15-Dec,Belfast,Royal Victoria,Type 1,"4,593.00","2,653.00",15,7261.00
+2015/16,15-Dec,Belfast,RBHSC,Type 1,"2,624.00",540,0,3164.00
+2015/16,15-Dec,Belfast,Royal Victoria (RAES),Type 2,"1,179.00",0,0,1179.00
+2015/16,15-Dec,Northern,Antrim Area,Type 1,"4,012.00","2,241.00",82,6335.00
+2015/16,15-Dec,Northern,Causeway,Type 1,"2,147.00","1,283.00",7,3437.00
+2015/16,15-Dec,Northern,Mid-Ulster,Type 3,618,0,0,618.00
+2015/16,15-Dec,South Eastern,Ards MIU,Type 3,787,0,0,787.00
+2015/16,15-Dec,South Eastern,Bangor MIU,Type 3,625,0,0,625.00
+2015/16,15-Dec,South Eastern,Downe,Type 2,"1,332.00",124,13,1469.00
+2015/16,15-Dec,South Eastern,Lagan Valley,Type 2,"1,559.00",181,0,1740.00
+2015/16,15-Dec,South Eastern,Ulster,Type 1,"5,123.00","1,928.00",162,7213.00
+2015/16,15-Dec,Southern,Craigavon Area,Type 1,"4,638.00","2,063.00",2,6703.00
+2015/16,15-Dec,Southern,Daisy Hill,Type 1,"3,405.00",569,0,3974.00
+2015/16,15-Dec,Southern,South Tyrone,Type 3,"1,769.00",0,0,1769.00
+2015/16,15-Dec,Western,Altnagelvin Area,Type 1,"3,631.00","1,393.00",4,5028.00
+2015/16,15-Dec,Western,South West Acute,Type 1,"1,881.00",789,5,2675.00
+2015/16,15-Dec,Western,Tyrone County,Type 3,"1,228.00",0,0,1228.00
+2015/16,16-Jan,Belfast,Mater,Type 1,"2,816.00",838,40,3694.00
+2015/16,16-Jan,Belfast,Royal Victoria,Type 1,"4,549.00","2,729.00",88,7366.00
+2015/16,16-Jan,Belfast,RBHSC,Type 1,"2,810.00",204,0,3014.00
+2015/16,16-Jan,Belfast,Royal Victoria (RAES),Type 2,"1,218.00",0,0,1218.00
+2015/16,16-Jan,Northern,Antrim Area,Type 1,"4,333.00","1,960.00",112,6405.00
+2015/16,16-Jan,Northern,Causeway,Type 1,"2,227.00","1,129.00",12,3368.00
+2015/16,16-Jan,Northern,Mid-Ulster,Type 3,581,0,0,581.00
+2015/16,16-Jan,South Eastern,Ards MIU,Type 3,779,0,0,779.00
+2015/16,16-Jan,South Eastern,Bangor MIU,Type 3,614,0,0,614.00
+2015/16,16-Jan,South Eastern,Downe,Type 2,"1,281.00",132,15,1428.00
+2015/16,16-Jan,South Eastern,Lagan Valley,Type 2,"1,454.00",228,0,1682.00
+2015/16,16-Jan,South Eastern,Ulster,Type 1,"4,976.00","2,050.00",197,7223.00
+2015/16,16-Jan,Southern,Craigavon Area,Type 1,"4,434.00","2,172.00",43,6649.00
+2015/16,16-Jan,Southern,Daisy Hill,Type 1,"3,223.00",878,5,4106.00
+2015/16,16-Jan,Southern,South Tyrone,Type 3,"1,857.00",0,0,1857.00
+2015/16,16-Jan,Western,Altnagelvin Area,Type 1,"3,390.00","1,588.00",8,4986.00
+2015/16,16-Jan,Western,South West Acute,Type 1,"1,893.00",670,24,2587.00
+2015/16,16-Jan,Western,Tyrone County,Type 3,"1,190.00",2,0,1192.00
+2015/16,16-Feb,Belfast,Mater,Type 1,"2,989.00",667,13,3669.00
+2015/16,16-Feb,Belfast,Royal Victoria,Type 1,"4,326.00","2,828.00",55,7209.00
+2015/16,16-Feb,Belfast,RBHSC,Type 1,"2,734.00",479,0,3213.00
+2015/16,16-Feb,Belfast,Royal Victoria (RAES),Type 2,"1,274.00",0,0,1274.00
+2015/16,16-Feb,Northern,Antrim Area,Type 1,"4,165.00","2,069.00",140,6374.00
+2015/16,16-Feb,Northern,Causeway,Type 1,"2,078.00","1,300.00",4,3382.00
+2015/16,16-Feb,Northern,Mid-Ulster,Type 3,781,0,0,781.00
+2015/16,16-Feb,South Eastern,Ards MIU,Type 3,910,0,0,910.00
+2015/16,16-Feb,South Eastern,Bangor MIU,Type 3,750,0,0,750.00
+2015/16,16-Feb,South Eastern,Downe,Type 2,"1,481.00",133,2,1616.00
+2015/16,16-Feb,South Eastern,Lagan Valley,Type 2,"1,631.00",182,0,1813.00
+2015/16,16-Feb,South Eastern,Ulster,Type 1,"4,964.00","2,136.00",219,7319.00
+2015/16,16-Feb,Southern,Craigavon Area,Type 1,"4,575.00","2,033.00",12,6620.00
+2015/16,16-Feb,Southern,Daisy Hill,Type 1,"3,183.00",868,10,4061.00
+2015/16,16-Feb,Southern,South Tyrone,Type 3,"1,970.00",0,0,1970.00
+2015/16,16-Feb,Western,Altnagelvin Area,Type 1,"3,342.00","1,688.00",35,5065.00
+2015/16,16-Feb,Western,South West Acute,Type 1,"1,944.00",700,7,2651.00
+2015/16,16-Feb,Western,Tyrone County,Type 3,"1,242.00",3,0,1245.00
+2015/16,16-Mar,Belfast,Mater,Type 1,"3,346.00",856,22,4224.00
+2015/16,16-Mar,Belfast,Royal Victoria,Type 1,"4,585.00","3,219.00",49,7853.00
+2015/16,16-Mar,Belfast,RBHSC,Type 1,"3,011.00",565,0,3576.00
+2015/16,16-Mar,Belfast,Royal Victoria (RAES),Type 2,"1,322.00",0,0,1322.00
+2015/16,16-Mar,Northern,Antrim Area,Type 1,"4,361.00","2,460.00",297,7118.00
+2015/16,16-Mar,Northern,Causeway,Type 1,"2,572.00","1,381.00",0,3953.00
+2015/16,16-Mar,Northern,Mid-Ulster,Type 3,847,1,0,848.00
+2015/16,16-Mar,South Eastern,Ards MIU,Type 3,951,0,0,951.00
+2015/16,16-Mar,South Eastern,Bangor MIU,Type 3,812,0,0,812.00
+2015/16,16-Mar,South Eastern,Downe,Type 2,"1,692.00",185,5,1882.00
+2015/16,16-Mar,South Eastern,Lagan Valley,Type 2,"1,821.00",232,0,2053.00
+2015/16,16-Mar,South Eastern,Ulster,Type 1,"5,463.00","2,277.00",231,7971.00
+2015/16,16-Mar,Southern,Craigavon Area,Type 1,"4,894.00","2,303.00",8,7205.00
+2015/16,16-Mar,Southern,Daisy Hill,Type 1,"3,639.00",977,2,4618.00
+2015/16,16-Mar,Southern,South Tyrone,Type 3,"2,304.00",1,0,2305.00
+2015/16,16-Mar,Western,Altnagelvin Area,Type 1,"3,643.00","1,861.00",34,5538.00
+2015/16,16-Mar,Western,South West Acute,Type 1,"2,256.00",719,17,2992.00
+2015/16,16-Mar,Western,Tyrone County,Type 3,"1,369.00",2,0,1371.00
+2016/17,16-Apr,Belfast,Mater,Type 1,"2,935.00","1,070.00",44,4049.00
+2016/17,16-Apr,Belfast,Royal Victoria,Type 1,"4,473.00","3,077.00",92,7642.00
+2016/17,16-Apr,Belfast,RBHSC,Type 1,"2,882.00",362,0,3244.00
+2016/17,16-Apr,Belfast,Royal Victoria (RAES),Type 2,"1,311.00",0,0,1311.00
+2016/17,16-Apr,Northern,Antrim Area,Type 1,"4,458.00","2,381.00",57,6896.00
+2016/17,16-Apr,Northern,Causeway,Type 1,"2,328.00","1,455.00",17,3800.00
+2016/17,16-Apr,Northern,Mid-Ulster,Type 3,838,0,0,838.00
+2016/17,16-Apr,South Eastern,Ards MIU,Type 3,925,0,0,925.00
+2016/17,16-Apr,South Eastern,Bangor MIU,Type 3,881,0,0,881.00
+2016/17,16-Apr,South Eastern,Downe,Type 2,"1,605.00",177,12,1794.00
+2016/17,16-Apr,South Eastern,Lagan Valley,Type 2,"1,793.00",150,1,1944.00
+2016/17,16-Apr,South Eastern,Ulster,Type 1,"5,425.00","2,025.00",158,7608.00
+2016/17,16-Apr,Southern,Craigavon Area,Type 1,"4,702.00","2,078.00",77,6857.00
+2016/17,16-Apr,Southern,Daisy Hill,Type 1,"3,395.00",963,5,4363.00
+2016/17,16-Apr,Southern,South Tyrone,Type 3,"2,488.00",0,0,2488.00
+2016/17,16-Apr,Western,Altnagelvin Area,Type 1,"3,592.00","1,689.00",31,5312.00
+2016/17,16-Apr,Western,South West Acute,Type 1,"2,118.00",627,18,2763.00
+2016/17,16-Apr,Western,Tyrone County,Type 3,"1,416.00",7,0,1423.00
+2016/17,16-May,Belfast,Mater,Type 1,"3,098.00","1,137.00",39,4274.00
+2016/17,16-May,Belfast,Royal Victoria,Type 1,"4,623.00","3,136.00",52,7811.00
+2016/17,16-May,Belfast,RBHSC,Type 1,"3,166.00",434,0,3600.00
+2016/17,16-May,Belfast,Royal Victoria (RAES),Type 2,"1,409.00",0,0,1409.00
+2016/17,16-May,Northern,Antrim Area,Type 1,"4,733.00","2,507.00",79,7319.00
+2016/17,16-May,Northern,Causeway,Type 1,"2,573.00","1,382.00",8,3963.00
+2016/17,16-May,Northern,Mid-Ulster,Type 3,896,0,0,896.00
+2016/17,16-May,South Eastern,Ards MIU,Type 3,990,0,0,990.00
+2016/17,16-May,South Eastern,Bangor MIU,Type 3,914,0,0,914.00
+2016/17,16-May,South Eastern,Downe,Type 2,"1,782.00",139,8,1929.00
+2016/17,16-May,South Eastern,Lagan Valley,Type 2,"1,928.00",195,0,2123.00
+2016/17,16-May,South Eastern,Ulster,Type 1,"6,044.00","1,879.00",66,7989.00
+2016/17,16-May,Southern,Craigavon Area,Type 1,"4,917.00","2,329.00",59,7305.00
+2016/17,16-May,Southern,Daisy Hill,Type 1,"3,711.00","1,208.00",4,4923.00
+2016/17,16-May,Southern,South Tyrone,Type 3,"2,706.00",0,0,2706.00
+2016/17,16-May,Western,Altnagelvin Area,Type 1,"3,989.00","1,526.00",6,5521.00
+2016/17,16-May,Western,South West Acute,Type 1,"2,200.00",789,21,3010.00
+2016/17,16-May,Western,Tyrone County,Type 3,"1,623.00",1,0,1624.00
+2016/17,16-Jun,Belfast,Mater,Type 1,"3,179.00",885,11,4075.00
+2016/17,16-Jun,Belfast,Royal Victoria,Type 1,"4,629.00","2,797.00",61,7487.00
+2016/17,16-Jun,Belfast,RBHSC,Type 1,"2,915.00",354,0,3269.00
+2016/17,16-Jun,Belfast,Royal Victoria (RAES),Type 2,"1,329.00",0,0,1329.00
+2016/17,16-Jun,Northern,Antrim Area,Type 1,"4,539.00","2,281.00",84,6904.00
+2016/17,16-Jun,Northern,Causeway,Type 1,"2,325.00","1,561.00",12,3898.00
+2016/17,16-Jun,Northern,Mid-Ulster,Type 3,955,0,0,955.00
+2016/17,16-Jun,South Eastern,Ards MIU,Type 3,"1,068.00",0,0,1068.00
+2016/17,16-Jun,South Eastern,Bangor MIU,Type 3,933,0,0,933.00
+2016/17,16-Jun,South Eastern,Downe,Type 2,"1,663.00",126,12,1801.00
+2016/17,16-Jun,South Eastern,Lagan Valley,Type 2,"1,856.00",246,0,2102.00
+2016/17,16-Jun,South Eastern,Ulster,Type 1,"5,854.00","1,975.00",63,7892.00
+2016/17,16-Jun,Southern,Craigavon Area,Type 1,"4,702.00","2,335.00",19,7056.00
+2016/17,16-Jun,Southern,Daisy Hill,Type 1,"3,544.00","1,085.00",5,4634.00
+2016/17,16-Jun,Southern,South Tyrone,Type 3,"2,762.00",0,0,2762.00
+2016/17,16-Jun,Western,Altnagelvin Area,Type 1,"4,191.00","1,347.00",2,5540.00
+2016/17,16-Jun,Western,South West Acute,Type 1,"1,975.00",883,11,2869.00
+2016/17,16-Jun,Western,Tyrone County,Type 3,"1,554.00",12,0,1566.00
+2016/17,16-Jul,Belfast,Mater,Type 1,"3,031.00","1,108.00",9,4148.00
+2016/17,16-Jul,Belfast,Royal Victoria,Type 1,"5,328.00","2,496.00",4,7828.00
+2016/17,16-Jul,Belfast,RBHSC,Type 1,"2,399.00",292,0,2691.00
+2016/17,16-Jul,Belfast,Royal Victoria (RAES),Type 2,"1,294.00",0,0,1294.00
+2016/17,16-Jul,Northern,Antrim Area,Type 1,"4,106.00","2,418.00",175,6699.00
+2016/17,16-Jul,Northern,Causeway,Type 1,"2,309.00","1,743.00",9,4061.00
+2016/17,16-Jul,Northern,Mid-Ulster,Type 3,742,0,0,742.00
+2016/17,16-Jul,South Eastern,Ards MIU,Type 3,884,0,0,884.00
+2016/17,16-Jul,South Eastern,Bangor MIU,Type 3,680,0,0,680.00
+2016/17,16-Jul,South Eastern,Downe,Type 2,"1,540.00",155,18,1713.00
+2016/17,16-Jul,South Eastern,Lagan Valley,Type 2,"1,608.00",227,0,1835.00
+2016/17,16-Jul,South Eastern,Ulster,Type 1,"5,754.00","1,925.00",68,7747.00
+2016/17,16-Jul,Southern,Craigavon Area,Type 1,"4,962.00","1,630.00",3,6595.00
+2016/17,16-Jul,Southern,Daisy Hill,Type 1,"3,475.00",977,0,4452.00
+2016/17,16-Jul,Southern,South Tyrone,Type 3,"2,375.00",0,0,2375.00
+2016/17,16-Jul,Western,Altnagelvin Area,Type 1,"4,057.00","1,415.00",1,5473.00
+2016/17,16-Jul,Western,South West Acute,Type 1,"2,378.00",554,1,2933.00
+2016/17,16-Jul,Western,Tyrone County,Type 3,"1,464.00",4,0,1468.00
+2016/17,16-Aug,Belfast,Mater,Type 1,"3,179.00",956,10,4145.00
+2016/17,16-Aug,Belfast,Royal Victoria,Type 1,"5,511.00","2,397.00",18,7926.00
+2016/17,16-Aug,Belfast,RBHSC,Type 1,"2,570.00",172,0,2742.00
+2016/17,16-Aug,Belfast,Royal Victoria (RAES),Type 2,"1,475.00",0,0,1475.00
+2016/17,16-Aug,Northern,Antrim Area,Type 1,"4,502.00","2,270.00",22,6794.00
+2016/17,16-Aug,Northern,Causeway,Type 1,"2,217.00","1,760.00",2,3979.00
+2016/17,16-Aug,Northern,Mid-Ulster,Type 3,846,0,0,846.00
+2016/17,16-Aug,South Eastern,Ards MIU,Type 3,"1,072.00",0,0,1072.00
+2016/17,16-Aug,South Eastern,Bangor MIU,Type 3,924,0,0,924.00
+2016/17,16-Aug,South Eastern,Downe,Type 2,"1,646.00",171,3,1820.00
+2016/17,16-Aug,South Eastern,Lagan Valley,Type 2,"1,695.00",251,1,1947.00
+2016/17,16-Aug,South Eastern,Ulster,Type 1,"5,715.00","2,222.00",79,8016.00
+2016/17,16-Aug,Southern,Craigavon Area,Type 1,"4,900.00","2,069.00",0,6969.00
+2016/17,16-Aug,Southern,Daisy Hill,Type 1,"3,748.00",887,0,4635.00
+2016/17,16-Aug,Southern,South Tyrone,Type 3,"2,635.00",0,0,2635.00
+2016/17,16-Aug,Western,Altnagelvin Area,Type 1,"3,704.00","1,639.00",8,5351.00
+2016/17,16-Aug,Western,South West Acute,Type 1,"2,105.00",828,7,2940.00
+2016/17,16-Aug,Western,Tyrone County,Type 3,"1,519.00",1,0,1520.00
+2016/17,16-Sep,Belfast,Mater,Type 1,"2,832.00","1,164.00",27,4023.00
+2016/17,16-Sep,Belfast,Royal Victoria,Type 1,"5,494.00","2,388.00",51,7933.00
+2016/17,16-Sep,Belfast,RBHSC,Type 1,"2,771.00",394,0,3165.00
+2016/17,16-Sep,Belfast,Royal Victoria (RAES),Type 2,"1,418.00",0,0,1418.00
+2016/17,16-Sep,Northern,Antrim Area,Type 1,"4,589.00","2,336.00",40,6965.00
+2016/17,16-Sep,Northern,Causeway,Type 1,"2,267.00","1,335.00",6,3608.00
+2016/17,16-Sep,Northern,Mid-Ulster,Type 3,829,0,0,829.00
+2016/17,16-Sep,South Eastern,Ards MIU,Type 3,"1,086.00",0,0,1086.00
+2016/17,16-Sep,South Eastern,Bangor MIU,Type 3,890,0,0,890.00
+2016/17,16-Sep,South Eastern,Downe,Type 2,"1,637.00",181,2,1820.00
+2016/17,16-Sep,South Eastern,Lagan Valley,Type 2,"1,963.00",169,0,2132.00
+2016/17,16-Sep,South Eastern,Ulster,Type 1,"5,822.00","1,973.00",22,7817.00
+2016/17,16-Sep,Southern,Craigavon Area,Type 1,"4,711.00","2,263.00",0,6974.00
+2016/17,16-Sep,Southern,Daisy Hill,Type 1,"3,435.00",870,0,4305.00
+2016/17,16-Sep,Southern,South Tyrone,Type 3,"2,675.00",0,0,2675.00
+2016/17,16-Sep,Western,Altnagelvin Area,Type 1,"3,735.00","1,531.00",6,5272.00
+2016/17,16-Sep,Western,South West Acute,Type 1,"2,052.00",598,0,2650.00
+2016/17,16-Sep,Western,Tyrone County,Type 3,"1,450.00",1,0,1451.00
+2016/17,16-Oct,Belfast,Mater,Type 1,"2,850.00","1,067.00",27,3944.00
+2016/17,16-Oct,Belfast,Royal Victoria,Type 1,"5,518.00","2,694.00",68,8280.00
+2016/17,16-Oct,Belfast,RBHSC,Type 1,"2,986.00",557,0,3543.00
+2016/17,16-Oct,Belfast,Royal Victoria (RAES),Type 2,"1,270.00",137,0,1407.00
+2016/17,16-Oct,Northern,Antrim Area,Type 1,"4,522.00","2,469.00",118,7109.00
+2016/17,16-Oct,Northern,Causeway,Type 1,"2,457.00","1,147.00",0,3604.00
+2016/17,16-Oct,Northern,Mid-Ulster,Type 3,802,0,0,802.00
+2016/17,16-Oct,South Eastern,Ards MIU,Type 3,957,0,0,957.00
+2016/17,16-Oct,South Eastern,Bangor MIU,Type 3,906,0,0,906.00
+2016/17,16-Oct,South Eastern,Downe,Type 2,"1,507.00",146,8,1661.00
+2016/17,16-Oct,South Eastern,Lagan Valley,Type 2,"1,801.00",227,0,2028.00
+2016/17,16-Oct,South Eastern,Ulster,Type 1,"5,905.00","2,094.00",44,8043.00
+2016/17,16-Oct,Southern,Craigavon Area,Type 1,"4,761.00","2,514.00",13,7288.00
+2016/17,16-Oct,Southern,Daisy Hill,Type 1,"3,480.00","1,176.00",0,4656.00
+2016/17,16-Oct,Southern,South Tyrone,Type 3,"2,504.00",0,0,2504.00
+2016/17,16-Oct,Western,Altnagelvin Area,Type 1,"3,533.00","1,811.00",21,5365.00
+2016/17,16-Oct,Western,South West Acute,Type 1,"2,067.00",755,9,2831.00
+2016/17,16-Oct,Western,Tyrone County,Type 3,"1,383.00",3,0,1386.00
+2016/17,16-Nov,Belfast,Mater,Type 1,"2,851.00",846,29,3726.00
+2016/17,16-Nov,Belfast,Royal Victoria,Type 1,"5,106.00","2,337.00",81,7524.00
+2016/17,16-Nov,Belfast,RBHSC,Type 1,"2,984.00",577,0,3561.00
+2016/17,16-Nov,Belfast,Royal Victoria (RAES),Type 2,"1,206.00",162,0,1368.00
+2016/17,16-Nov,Northern,Antrim Area,Type 1,"4,199.00","2,249.00",163,6611.00
+2016/17,16-Nov,Northern,Causeway,Type 1,"2,238.00","1,126.00",0,3364.00
+2016/17,16-Nov,Northern,Mid-Ulster,Type 3,723,3,0,726.00
+2016/17,16-Nov,South Eastern,Ards MIU,Type 3,868,0,0,868.00
+2016/17,16-Nov,South Eastern,Bangor MIU,Type 3,805,0,0,805.00
+2016/17,16-Nov,South Eastern,Downe,Type 2,"1,490.00",173,19,1682.00
+2016/17,16-Nov,South Eastern,Lagan Valley,Type 2,"1,728.00",215,0,1943.00
+2016/17,16-Nov,South Eastern,Ulster,Type 1,"5,441.00","1,997.00",114,7552.00
+2016/17,16-Nov,Southern,Craigavon Area,Type 1,"4,394.00","2,449.00",12,6855.00
+2016/17,16-Nov,Southern,Daisy Hill,Type 1,"3,081.00","1,151.00",6,4238.00
+2016/17,16-Nov,Southern,South Tyrone,Type 3,"2,150.00",0,0,2150.00
+2016/17,16-Nov,Western,Altnagelvin Area,Type 1,"3,323.00","1,575.00",11,4909.00
+2016/17,16-Nov,Western,South West Acute,Type 1,"1,945.00",767,25,2737.00
+2016/17,16-Nov,Western,Tyrone County,Type 3,"1,219.00",1,0,1220.00
+2016/17,16-Dec,Belfast,Mater,Type 1,"2,613.00","1,108.00",80,3801.00
+2016/17,16-Dec,Belfast,Royal Victoria,Type 1,"4,905.00","2,567.00",79,7551.00
+2016/17,16-Dec,Belfast,RBHSC,Type 1,"2,642.00",693,0,3335.00
+2016/17,16-Dec,Belfast,Royal Victoria (RAES),Type 2,"1,141.00",160,0,1301.00
+2016/17,16-Dec,Northern,Antrim Area,Type 1,"4,281.00","2,210.00",270,6761.00
+2016/17,16-Dec,Northern,Causeway,Type 1,"2,122.00","1,331.00",4,3457.00
+2016/17,16-Dec,Northern,Mid-Ulster,Type 3,597,0,0,597.00
+2016/17,16-Dec,South Eastern,Ards MIU,Type 3,825,0,0,825.00
+2016/17,16-Dec,South Eastern,Bangor MIU,Type 3,639,0,0,639.00
+2016/17,16-Dec,South Eastern,Downe,Type 2,"1,389.00",211,31,1631.00
+2016/17,16-Dec,South Eastern,Lagan Valley,Type 2,"1,521.00",337,0,1858.00
+2016/17,16-Dec,South Eastern,Ulster,Type 1,"5,129.00","2,435.00",177,7741.00
+2016/17,16-Dec,Southern,Craigavon Area,Type 1,"4,441.00","2,419.00",123,6983.00
+2016/17,16-Dec,Southern,Daisy Hill,Type 1,"3,017.00","1,527.00",20,4564.00
+2016/17,16-Dec,Southern,South Tyrone,Type 3,"2,086.00",0,0,2086.00
+2016/17,16-Dec,Western,Altnagelvin Area,Type 1,"2,991.00","1,891.00",80,4962.00
+2016/17,16-Dec,Western,South West Acute,Type 1,"1,862.00",925,22,2809.00
+2016/17,16-Dec,Western,Tyrone County,Type 3,"1,186.00",5,0,1191.00
+2016/17,17-Jan,Belfast,Mater,Type 1,"2,577.00","1,172.00",145,3894.00
+2016/17,17-Jan,Belfast,Royal Victoria,Type 1,"4,876.00","2,339.00",316,7531.00
+2016/17,17-Jan,Belfast,RBHSC,Type 1,"2,480.00",451,0,2931.00
+2016/17,17-Jan,Belfast,Royal Victoria (RAES),Type 2,"1,167.00",194,0,1361.00
+2016/17,17-Jan,Northern,Antrim Area,Type 1,"4,949.00","1,412.00",339,6700.00
+2016/17,17-Jan,Northern,Causeway,Type 1,"2,154.00","1,142.00",162,3458.00
+2016/17,17-Jan,Northern,Mid-Ulster,Type 3,705,0,0,705.00
+2016/17,17-Jan,South Eastern,Ards MIU,Type 3,961,0,0,961.00
+2016/17,17-Jan,South Eastern,Bangor MIU,Type 3,763,0,0,763.00
+2016/17,17-Jan,South Eastern,Downe,Type 2,"1,515.00",163,27,1705.00
+2016/17,17-Jan,South Eastern,Lagan Valley,Type 2,"1,603.00",281,14,1898.00
+2016/17,17-Jan,South Eastern,Ulster,Type 1,"5,208.00","2,016.00",351,7575.00
+2016/17,17-Jan,Southern,Craigavon Area,Type 1,"4,166.00","2,436.00",181,6783.00
+2016/17,17-Jan,Southern,Daisy Hill,Type 1,"2,937.00","1,201.00",104,4242.00
+2016/17,17-Jan,Southern,South Tyrone,Type 3,"2,116.00",0,0,2116.00
+2016/17,17-Jan,Western,Altnagelvin Area,Type 1,"2,918.00","1,718.00",101,4737.00
+2016/17,17-Jan,Western,South West Acute,Type 1,"1,800.00",794,74,2668.00
+2016/17,17-Jan,Western,Tyrone County,Type 3,"1,209.00",0,0,1209.00
+2016/17,17-Feb,Belfast,Mater,Type 1,"2,584.00",916,102,3602.00
+2016/17,17-Feb,Belfast,Royal Victoria,Type 1,"4,357.00","2,425.00",210,6992.00
+2016/17,17-Feb,Belfast,RBHSC,Type 1,"2,454.00",437,0,2891.00
+2016/17,17-Feb,Belfast,Royal Victoria (RAES),Type 2,"1,140.00",222,0,1362.00
+2016/17,17-Feb,Northern,Antrim Area,Type 1,"4,969.00","1,201.00",87,6257.00
+2016/17,17-Feb,Northern,Causeway,Type 1,"2,021.00","1,110.00",71,3202.00
+2016/17,17-Feb,Northern,Mid-Ulster,Type 3,734,0,0,734.00
+2016/17,17-Feb,South Eastern,Ards MIU,Type 3,834,0,0,834.00
+2016/17,17-Feb,South Eastern,Bangor MIU,Type 3,692,0,0,692.00
+2016/17,17-Feb,South Eastern,Downe,Type 2,"1,406.00",154,23,1583.00
+2016/17,17-Feb,South Eastern,Lagan Valley,Type 2,"1,573.00",242,1,1816.00
+2016/17,17-Feb,South Eastern,Ulster,Type 1,"4,975.00","1,830.00",74,6879.00
+2016/17,17-Feb,Southern,Craigavon Area,Type 1,"4,029.00","2,147.00",54,6230.00
+2016/17,17-Feb,Southern,Daisy Hill,Type 1,"2,751.00","1,054.00",76,3881.00
+2016/17,17-Feb,Southern,South Tyrone,Type 3,"2,266.00",0,0,2266.00
+2016/17,17-Feb,Western,Altnagelvin Area,Type 1,"3,071.00","1,542.00",13,4626.00
+2016/17,17-Feb,Western,South West Acute,Type 1,"1,869.00",487,4,2360.00
+2016/17,17-Feb,Western,Tyrone County,Type 3,"1,163.00",0,0,1163.00
+2016/17,17-Mar,Belfast,Mater,Type 1,"2,961.00","1,062.00",67,4090.00
+2016/17,17-Mar,Belfast,Royal Victoria,Type 1,"5,014.00","3,032.00",92,8138.00
+2016/17,17-Mar,Belfast,RBHSC,Type 1,"2,963.00",644,0,3607.00
+2016/17,17-Mar,Belfast,Royal Victoria (RAES),Type 2,"1,317.00",212,0,1529.00
+2016/17,17-Mar,Northern,Antrim Area,Type 1,"5,247.00","2,021.00",153,7421.00
+2016/17,17-Mar,Northern,Causeway,Type 1,"2,804.00","1,091.00",15,3910.00
+2016/17,17-Mar,Northern,Mid-Ulster,Type 3,995,0,0,995.00
+2016/17,17-Mar,South Eastern,Ards MIU,Type 3,"1,070.00",0,0,1070.00
+2016/17,17-Mar,South Eastern,Bangor MIU,Type 3,955,0,0,955.00
+2016/17,17-Mar,South Eastern,Downe,Type 2,"1,780.00",165,19,1964.00
+2016/17,17-Mar,South Eastern,Lagan Valley,Type 2,"1,879.00",290,0,2169.00
+2016/17,17-Mar,South Eastern,Ulster,Type 1,"5,536.00","2,509.00",63,8108.00
+2016/17,17-Mar,Southern,Craigavon Area,Type 1,"4,812.00","2,530.00",80,7422.00
+2016/17,17-Mar,Southern,Daisy Hill,Type 1,"3,376.00","1,139.00",69,4584.00
+2016/17,17-Mar,Southern,South Tyrone,Type 3,"2,675.00",0,0,2675.00
+2016/17,17-Mar,Western,Altnagelvin Area,Type 1,"3,831.00","1,636.00",24,5491.00
+2016/17,17-Mar,Western,South West Acute,Type 1,"2,412.00",341,3,2756.00
+2016/17,17-Mar,Western,Tyrone County,Type 3,"1,537.00",0,0,1537.00
+2017/18,17-Apr,Belfast,Mater,Type 1,"2,604.00","1,261.00",49,3914.00
+2017/18,17-Apr,Belfast,Royal Victoria,Type 1,"5,105.00","2,657.00",13,7775.00
+2017/18,17-Apr,Belfast,RBHSC,Type 1,"2,862.00",511,0,3373.00
+2017/18,17-Apr,Belfast,Royal Victoria (RAES),Type 2,"1,252.00",138,0,1390.00
+2017/18,17-Apr,Northern,Antrim Area,Type 1,"4,934.00","2,154.00",163,7251.00
+2017/18,17-Apr,Northern,Causeway,Type 1,"2,858.00","1,125.00",23,4006.00
+2017/18,17-Apr,Northern,Mid-Ulster,Type 3,712,0,0,712.00
+2017/18,17-Apr,South Eastern,Ards MIU,Type 3,882,0,0,882.00
+2017/18,17-Apr,South Eastern,Bangor MIU,Type 3,748,0,0,748.00
+2017/18,17-Apr,South Eastern,Downe,Type 2,"1,746.00",127,1,1874.00
+2017/18,17-Apr,South Eastern,Lagan Valley,Type 2,"1,609.00",185,0,1794.00
+2017/18,17-Apr,South Eastern,Ulster,Type 1,"5,240.00","2,342.00",203,7785.00
+2017/18,17-Apr,Southern,Craigavon Area,Type 1,"4,416.00","2,629.00",203,7248.00
+2017/18,17-Apr,Southern,Daisy Hill,Type 1,"3,484.00",956,19,4459.00
+2017/18,17-Apr,Southern,South Tyrone,Type 3,"2,619.00",0,0,2619.00
+2017/18,17-Apr,Western,Altnagelvin Area,Type 1,"3,719.00","1,581.00",25,5325.00
+2017/18,17-Apr,Western,South West Acute,Type 1,"2,548.00",310,3,2861.00
+2017/18,17-Apr,Western,Tyrone County,Type 3,"1,416.00",1,0,1417.00
+2017/18,17-May,Belfast,Mater,Type 1,"2,906.00","1,254.00",84,4244.00
+2017/18,17-May,Belfast,Royal Victoria,Type 1,"5,677.00","2,704.00",68,8449.00
+2017/18,17-May,Belfast,RBHSC,Type 1,"3,175.00",571,0,3746.00
+2017/18,17-May,Belfast,Royal Victoria (RAES),Type 2,"1,297.00",191,0,1488.00
+2017/18,17-May,Northern,Antrim Area,Type 1,"6,220.00","1,647.00",38,7905.00
+2017/18,17-May,Northern,Causeway,Type 1,"2,797.00","1,252.00",0,4049.00
+2017/18,17-May,Northern,Mid-Ulster,Type 3,"1,009.00",0,0,1009.00
+2017/18,17-May,South Eastern,Ards MIU,Type 3,"1,196.00",0,0,1196.00
+2017/18,17-May,South Eastern,Bangor MIU,Type 3,999,1,0,1000.00
+2017/18,17-May,South Eastern,Downe,Type 2,"1,937.00",139,3,2079.00
+2017/18,17-May,South Eastern,Lagan Valley,Type 2,"2,007.00",229,2,2238.00
+2017/18,17-May,South Eastern,Ulster,Type 1,"5,642.00","2,647.00",177,8466.00
+2017/18,17-May,Southern,Craigavon Area,Type 1,"4,934.00","2,686.00",132,7752.00
+2017/18,17-May,Southern,Daisy Hill,Type 1,"3,795.00","1,222.00",25,5042.00
+2017/18,17-May,Southern,South Tyrone,Type 3,"3,058.00",0,0,3058.00
+2017/18,17-May,Western,Altnagelvin Area,Type 1,"4,769.00","1,142.00",24,5935.00
+2017/18,17-May,Western,South West Acute,Type 1,"2,687.00",469,2,3158.00
+2017/18,17-May,Western,Tyrone County,Type 3,"1,605.00",2,0,1607.00
+2017/18,17-Jun,Belfast,Mater,Type 1,"2,920.00","1,098.00",26,4044.00
+2017/18,17-Jun,Belfast,Royal Victoria,Type 1,"6,565.00","1,320.00",5,7890.00
+2017/18,17-Jun,Belfast,RBHSC,Type 1,"2,983.00",219,0,3202.00
+2017/18,17-Jun,Belfast,Royal Victoria (RAES),Type 2,"1,351.00",173,0,1524.00
+2017/18,17-Jun,Northern,Antrim Area,Type 1,"5,502.00","1,786.00",25,7313.00
+2017/18,17-Jun,Northern,Causeway,Type 1,"2,535.00","1,267.00",3,3805.00
+2017/18,17-Jun,Northern,Mid-Ulster,Type 3,"1,025.00",0,0,1025.00
+2017/18,17-Jun,South Eastern,Ards MIU,Type 3,"1,140.00",0,0,1140.00
+2017/18,17-Jun,South Eastern,Bangor MIU,Type 3,913,0,0,913.00
+2017/18,17-Jun,South Eastern,Downe,Type 2,"1,776.00",122,16,1914.00
+2017/18,17-Jun,South Eastern,Lagan Valley,Type 2,"1,906.00",240,0,2146.00
+2017/18,17-Jun,South Eastern,Ulster,Type 1,"5,805.00","2,176.00",104,8085.00
+2017/18,17-Jun,Southern,Craigavon Area,Type 1,"5,853.00","1,400.00",59,7312.00
+2017/18,17-Jun,Southern,Daisy Hill,Type 1,"3,581.00","1,015.00",45,4641.00
+2017/18,17-Jun,Southern,South Tyrone,Type 3,"2,810.00",0,0,2810.00
+2017/18,17-Jun,Western,Altnagelvin Area,Type 1,"4,279.00","1,214.00",9,5502.00
+2017/18,17-Jun,Western,South West Acute,Type 1,"2,463.00",377,4,2844.00
+2017/18,17-Jun,Western,Tyrone County,Type 3,"1,509.00",0,0,1509.00
+2017/18,17-Jul,Belfast,Mater,Type 1,"2,947.00","1,005.00",9,3961.00
+2017/18,17-Jul,Belfast,Royal Victoria,Type 1,"6,630.00","1,525.00",5,8160.00
+2017/18,17-Jul,Belfast,RBHSC,Type 1,"2,531.00",125,0,2656.00
+2017/18,17-Jul,Belfast,Royal Victoria (RAES),Type 2,"1,266.00",157,0,1423.00
+2017/18,17-Jul,Northern,Antrim Area,Type 1,"5,226.00","1,801.00",79,7106.00
+2017/18,17-Jul,Northern,Causeway,Type 1,"2,728.00","1,466.00",10,4204.00
+2017/18,17-Jul,Northern,Mid-Ulster,Type 3,803,0,0,803.00
+2017/18,17-Jul,South Eastern,Ards MIU,Type 3,"1,025.00",0,0,1025.00
+2017/18,17-Jul,South Eastern,Bangor MIU,Type 3,792,0,0,792.00
+2017/18,17-Jul,South Eastern,Downe,Type 2,"1,709.00",129,2,1840.00
+2017/18,17-Jul,South Eastern,Lagan Valley,Type 2,"1,739.00",148,0,1887.00
+2017/18,17-Jul,South Eastern,Ulster,Type 1,"6,067.00","1,891.00",108,8066.00
+2017/18,17-Jul,Southern,Craigavon Area,Type 1,"6,332.00",800,12,7144.00
+2017/18,17-Jul,Southern,Daisy Hill,Type 1,"3,563.00","1,124.00",27,4714.00
+2017/18,17-Jul,Southern,South Tyrone,Type 3,"2,590.00",0,0,2590.00
+2017/18,17-Jul,Western,Altnagelvin Area,Type 1,"4,016.00","1,662.00",28,5706.00
+2017/18,17-Jul,Western,South West Acute,Type 1,"2,303.00",725,13,3041.00
+2017/18,17-Jul,Western,Tyrone County,Type 3,"1,384.00",1,0,1385.00
+2017/18,17-Aug,Belfast,Mater,Type 1,"3,383.00",747,14,4144.00
+2017/18,17-Aug,Belfast,Royal Victoria,Type 1,"6,387.00","1,993.00",8,8388.00
+2017/18,17-Aug,Belfast,RBHSC,Type 1,"2,357.00",222,0,2579.00
+2017/18,17-Aug,Belfast,Royal Victoria (RAES),Type 2,"1,210.00",292,0,1502.00
+2017/18,17-Aug,Northern,Antrim Area,Type 1,"4,816.00","2,177.00",158,7151.00
+2017/18,17-Aug,Northern,Causeway,Type 1,"2,604.00","1,261.00",0,3865.00
+2017/18,17-Aug,Northern,Mid-Ulster,Type 3,837,0,0,837.00
+2017/18,17-Aug,South Eastern,Ards MIU,Type 3,"1,068.00",0,0,1068.00
+2017/18,17-Aug,South Eastern,Bangor MIU,Type 3,831,0,0,831.00
+2017/18,17-Aug,South Eastern,Downe,Type 2,"1,827.00",122,1,1950.00
+2017/18,17-Aug,South Eastern,Lagan Valley,Type 2,"1,901.00",189,0,2090.00
+2017/18,17-Aug,South Eastern,Ulster,Type 1,"5,613.00","2,329.00",185,8127.00
+2017/18,17-Aug,Southern,Craigavon Area,Type 1,"5,650.00","1,344.00",51,7045.00
+2017/18,17-Aug,Southern,Daisy Hill,Type 1,"3,652.00",903,5,4560.00
+2017/18,17-Aug,Southern,South Tyrone,Type 3,"2,658.00",0,0,2658.00
+2017/18,17-Aug,Western,Altnagelvin Area,Type 1,"3,809.00","1,533.00",15,5357.00
+2017/18,17-Aug,Western,South West Acute,Type 1,"2,266.00",762,11,3039.00
+2017/18,17-Aug,Western,Tyrone County,Type 3,"1,266.00",5,0,1271.00
+2017/18,17-Sep,Belfast,Mater,Type 1,"2,972.00","1,054.00",40,4066.00
+2017/18,17-Sep,Belfast,Royal Victoria,Type 1,"5,598.00","2,641.00",64,8303.00
+2017/18,17-Sep,Belfast,RBHSC,Type 1,"2,611.00",479,0,3090.00
+2017/18,17-Sep,Belfast,Royal Victoria (RAES),Type 2,"1,335.00",146,0,1481.00
+2017/18,17-Sep,Northern,Antrim Area,Type 1,"3,984.00","2,551.00",325,6860.00
+2017/18,17-Sep,Northern,Causeway,Type 1,"2,380.00","1,199.00",30,3609.00
+2017/18,17-Sep,Northern,Mid-Ulster,Type 3,816,0,0,816.00
+2017/18,17-Sep,South Eastern,Ards MIU,Type 3,"1,000.00",0,0,1000.00
+2017/18,17-Sep,South Eastern,Bangor MIU,Type 3,847,0,0,847.00
+2017/18,17-Sep,South Eastern,Downe,Type 2,"1,748.00",117,1,1866.00
+2017/18,17-Sep,South Eastern,Lagan Valley,Type 2,"1,808.00",227,0,2035.00
+2017/18,17-Sep,South Eastern,Ulster,Type 1,"5,361.00","2,315.00",249,7925.00
+2017/18,17-Sep,Southern,Craigavon Area,Type 1,"4,911.00","2,043.00",73,7027.00
+2017/18,17-Sep,Southern,Daisy Hill,Type 1,"3,513.00",972,42,4527.00
+2017/18,17-Sep,Southern,South Tyrone,Type 3,"2,699.00",0,0,2699.00
+2017/18,17-Sep,Western,Altnagelvin Area,Type 1,"3,692.00","1,642.00",84,5418.00
+2017/18,17-Sep,Western,South West Acute,Type 1,"2,216.00",581,11,2808.00
+2017/18,17-Sep,Western,Tyrone County,Type 3,"1,245.00",0,0,1245.00
+2017/18,17-Oct,Belfast,Mater,Type 1,"3,084.00",974,71,4129.00
+2017/18,17-Oct,Belfast,Royal Victoria,Type 1,"5,670.00","2,679.00",82,8431.00
+2017/18,17-Oct,Belfast,RBHSC,Type 1,"2,936.00",704,0,3640.00
+2017/18,17-Oct,Belfast,Royal Victoria (RAES),Type 2,"1,216.00",287,0,1503.00
+2017/18,17-Oct,Northern,Antrim Area,Type 1,"4,385.00","2,527.00",268,7180.00
+2017/18,17-Oct,Northern,Causeway,Type 1,"2,501.00","1,192.00",26,3719.00
+2017/18,17-Oct,Northern,Mid-Ulster,Type 3,831,0,0,831.00
+2017/18,17-Oct,South Eastern,Ards MIU,Type 3,"1,075.00",0,0,1075.00
+2017/18,17-Oct,South Eastern,Bangor MIU,Type 3,915,0,0,915.00
+2017/18,17-Oct,South Eastern,Downe,Type 2,"1,763.00",138,3,1904.00
+2017/18,17-Oct,South Eastern,Lagan Valley,Type 2,"1,867.00",213,0,2080.00
+2017/18,17-Oct,South Eastern,Ulster,Type 1,"5,453.00","2,478.00",300,8231.00
+2017/18,17-Oct,Southern,Craigavon Area,Type 1,"4,989.00","2,203.00",120,7312.00
+2017/18,17-Oct,Southern,Daisy Hill,Type 1,"3,513.00","1,071.00",94,4678.00
+2017/18,17-Oct,Southern,South Tyrone,Type 3,"2,623.00",0,0,2623.00
+2017/18,17-Oct,Western,Altnagelvin Area,Type 1,"3,584.00","1,625.00",39,5248.00
+2017/18,17-Oct,Western,South West Acute,Type 1,"2,208.00",619,7,2834.00
+2017/18,17-Oct,Western,Tyrone County,Type 3,"1,256.00",2,0,1258.00
+2017/18,17-Nov,Belfast,Mater,Type 1,"2,994.00",793,50,3837.00
+2017/18,17-Nov,Belfast,Royal Victoria,Type 1,"5,567.00","2,218.00",81,7866.00
+2017/18,17-Nov,Belfast,RBHSC,Type 1,"2,877.00",940,0,3817.00
+2017/18,17-Nov,Belfast,Royal Victoria (RAES),Type 2,"1,210.00",186,0,1396.00
+2017/18,17-Nov,Northern,Antrim Area,Type 1,"4,200.00","2,626.00",257,7083.00
+2017/18,17-Nov,Northern,Causeway,Type 1,"2,330.00","1,047.00",44,3421.00
+2017/18,17-Nov,Northern,Mid-Ulster,Type 3,827,0,0,827.00
+2017/18,17-Nov,South Eastern,Ards MIU,Type 3,987,0,0,987.00
+2017/18,17-Nov,South Eastern,Bangor MIU,Type 3,807,0,0,807.00
+2017/18,17-Nov,South Eastern,Downe,Type 2,"1,601.00",150,17,1768.00
+2017/18,17-Nov,South Eastern,Lagan Valley,Type 2,"1,808.00",246,1,2055.00
+2017/18,17-Nov,South Eastern,Ulster,Type 1,"5,161.00","2,457.00",403,8021.00
+2017/18,17-Nov,Southern,Craigavon Area,Type 1,"4,681.00","2,450.00",175,7306.00
+2017/18,17-Nov,Southern,Daisy Hill,Type 1,"3,194.00","1,149.00",137,4480.00
+2017/18,17-Nov,Southern,South Tyrone,Type 3,"2,349.00",0,0,2349.00
+2017/18,17-Nov,Western,Altnagelvin Area,Type 1,"3,860.00","1,361.00",17,5238.00
+2017/18,17-Nov,Western,South West Acute,Type 1,"2,276.00",422,8,2706.00
+2017/18,17-Nov,Western,Tyrone County,Type 3,"1,196.00",1,0,1197.00
+2017/18,17-Dec,Belfast,Mater,Type 1,"2,989.00","1,013.00",129,4131.00
+2017/18,17-Dec,Belfast,Royal Victoria,Type 1,"4,755.00","3,086.00",173,8014.00
+2017/18,17-Dec,Belfast,RBHSC,Type 1,"2,705.00",842,0,3547.00
+2017/18,17-Dec,Belfast,Royal Victoria (RAES),Type 2,"1,116.00",143,0,1259.00
+2017/18,17-Dec,Northern,Antrim Area,Type 1,"3,939.00","2,593.00",649,7181.00
+2017/18,17-Dec,Northern,Causeway,Type 1,"2,205.00","1,260.00",190,3655.00
+2017/18,17-Dec,Northern,Mid-Ulster,Type 3,617,0,0,617.00
+2017/18,17-Dec,South Eastern,Ards MIU,Type 3,752,0,0,752.00
+2017/18,17-Dec,South Eastern,Bangor MIU,Type 3,610,0,0,610.00
+2017/18,17-Dec,South Eastern,Downe,Type 2,"1,567.00",222,40,1829.00
+2017/18,17-Dec,South Eastern,Lagan Valley,Type 2,"1,518.00",345,24,1887.00
+2017/18,17-Dec,South Eastern,Ulster,Type 1,"4,653.00","2,575.00",642,7870.00
+2017/18,17-Dec,Southern,Craigavon Area,Type 1,"4,188.00","2,812.00",343,7343.00
+2017/18,17-Dec,Southern,Daisy Hill,Type 1,"3,235.00","1,204.00",79,4518.00
+2017/18,17-Dec,Southern,South Tyrone,Type 3,"2,116.00",1,0,2117.00
+2017/18,17-Dec,Western,Altnagelvin Area,Type 1,"3,773.00","1,727.00",76,5576.00
+2017/18,17-Dec,Western,South West Acute,Type 1,"2,111.00",856,24,2991.00
+2017/18,17-Dec,Western,Tyrone County,Type 3,"1,227.00",3,0,1230.00
+2017/18,18-Jan,Belfast,Mater,Type 1,"2,700.00",925,275,3900.00
+2017/18,18-Jan,Belfast,Royal Victoria,Type 1,"4,567.00","2,933.00",542,8042.00
+2017/18,18-Jan,Belfast,RBHSC,Type 1,"2,482.00",652,0,3134.00
+2017/18,18-Jan,Belfast,Royal Victoria (RAES),Type 2,"1,254.00",144,0,1398.00
+2017/18,18-Jan,Northern,Antrim Area,Type 1,"3,579.00","2,163.00",745,6487.00
+2017/18,18-Jan,Northern,Causeway,Type 1,"2,094.00","1,082.00",358,3534.00
+2017/18,18-Jan,Northern,Mid-Ulster,Type 3,768,0,0,768.00
+2017/18,18-Jan,South Eastern,Ards MIU,Type 3,912,0,0,912.00
+2017/18,18-Jan,South Eastern,Bangor MIU,Type 3,820,0,0,820.00
+2017/18,18-Jan,South Eastern,Downe,Type 2,"1,631.00",208,28,1867.00
+2017/18,18-Jan,South Eastern,Lagan Valley,Type 2,"1,635.00",363,40,2038.00
+2017/18,18-Jan,South Eastern,Ulster,Type 1,"4,346.00","2,319.00",732,7397.00
+2017/18,18-Jan,Southern,Craigavon Area,Type 1,"3,570.00","2,961.00",499,7030.00
+2017/18,18-Jan,Southern,Daisy Hill,Type 1,"2,873.00","1,107.00",347,4327.00
+2017/18,18-Jan,Southern,South Tyrone,Type 3,"2,352.00",0,0,2352.00
+2017/18,18-Jan,Western,Altnagelvin Area,Type 1,"3,284.00","1,702.00",240,5226.00
+2017/18,18-Jan,Western,South West Acute,Type 1,"1,721.00",977,126,2824.00
+2017/18,18-Jan,Western,Tyrone County,Type 3,"1,229.00",1,0,1230.00
+2017/18,18-Feb,Belfast,Mater,Type 1,"2,477.00","1,112.00",154,3743.00
+2017/18,18-Feb,Belfast,Royal Victoria,Type 1,"4,044.00","2,908.00",320,7272.00
+2017/18,18-Feb,Belfast,RBHSC,Type 1,"2,136.00",997,0,3133.00
+2017/18,18-Feb,Belfast,Royal Victoria (RAES),Type 2,"1,111.00",218,0,1329.00
+2017/18,18-Feb,Northern,Antrim Area,Type 1,"3,643.00","2,207.00",473,6323.00
+2017/18,18-Feb,Northern,Causeway,Type 1,"2,314.00",947,61,3322.00
+2017/18,18-Feb,Northern,Mid-Ulster,Type 3,845,0,0,845.00
+2017/18,18-Feb,South Eastern,Ards MIU,Type 3,897,0,0,897.00
+2017/18,18-Feb,South Eastern,Bangor MIU,Type 3,757,0,0,757.00
+2017/18,18-Feb,South Eastern,Downe,Type 2,"1,482.00",165,34,1681.00
+2017/18,18-Feb,South Eastern,Lagan Valley,Type 2,"1,500.00",400,26,1926.00
+2017/18,18-Feb,South Eastern,Ulster,Type 1,"4,068.00","2,113.00",724,6905.00
+2017/18,18-Feb,Southern,Craigavon Area,Type 1,"3,619.00","2,665.00",365,6649.00
+2017/18,18-Feb,Southern,Daisy Hill,Type 1,"2,910.00","1,152.00",120,4182.00
+2017/18,18-Feb,Southern,South Tyrone,Type 3,"2,426.00",2,0,2428.00
+2017/18,18-Feb,Western,Altnagelvin Area,Type 1,"3,183.00","1,572.00",157,4912.00
+2017/18,18-Feb,Western,South West Acute,Type 1,"1,605.00",978,33,2616.00
+2017/18,18-Feb,Western,Tyrone County,Type 3,"1,176.00",4,0,1180.00
+2017/18,18-Mar,Belfast,Mater,Type 1,"2,603.00","1,352.00",255,4210.00
+2017/18,18-Mar,Belfast,Royal Victoria,Type 1,"4,124.00","3,609.00",527,8260.00
+2017/18,18-Mar,Belfast,RBHSC,Type 1,"2,461.00","1,031.00",0,3492.00
+2017/18,18-Mar,Belfast,Royal Victoria (RAES),Type 2,"1,216.00",210,0,1426.00
+2017/18,18-Mar,Northern,Antrim Area,Type 1,"4,369.00","2,624.00",365,7358.00
+2017/18,18-Mar,Northern,Causeway,Type 1,"2,616.00","1,141.00",198,3955.00
+2017/18,18-Mar,Northern,Mid-Ulster,Type 3,869,0,0,869.00
+2017/18,18-Mar,South Eastern,Ards MIU,Type 3,"1,001.00",0,0,1001.00
+2017/18,18-Mar,South Eastern,Bangor MIU,Type 3,803,0,0,803.00
+2017/18,18-Mar,South Eastern,Downe,Type 2,"1,743.00",198,65,2006.00
+2017/18,18-Mar,South Eastern,Lagan Valley,Type 2,"1,708.00",480,57,2245.00
+2017/18,18-Mar,South Eastern,Ulster,Type 1,"4,557.00","2,823.00",726,8106.00
+2017/18,18-Mar,Southern,Craigavon Area,Type 1,"3,967.00","2,902.00",538,7407.00
+2017/18,18-Mar,Southern,Daisy Hill,Type 1,"3,139.00","1,450.00",146,4735.00
+2017/18,18-Mar,Southern,South Tyrone,Type 3,"2,597.00",1,0,2598.00
+2017/18,18-Mar,Western,Altnagelvin Area,Type 1,"3,820.00","1,838.00",140,5798.00
+2017/18,18-Mar,Western,South West Acute,Type 1,"1,809.00","1,151.00",149,3109.00
+2017/18,18-Mar,Western,Tyrone County,Type 3,"1,427.00",34,0,1461.00
+2018/19,18-Apr,Belfast,Mater,Type 1,"2,727.00","1,127.00",120,3974.00
+2018/19,18-Apr,Belfast,Royal Victoria,Type 1,"4,429.00","3,120.00",174,7723.00
+2018/19,18-Apr,Belfast,RBHSC,Type 1,"2,564.00",636,0,3200.00
+2018/19,18-Apr,Belfast,Royal Victoria (RAES),Type 2,"1,164.00",203,2,1369.00
+2018/19,18-Apr,Northern,Antrim Area,Type 1,"4,449.00","2,130.00",269,6848.00
+2018/19,18-Apr,Northern,Causeway,Type 1,"2,881.00",953,63,3897.00
+2018/19,18-Apr,Northern,Mid-Ulster,Type 3,875,0,0,875.00
+2018/19,18-Apr,South Eastern,Ards MIU,Type 3,"1,006.00",0,0,1006.00
+2018/19,18-Apr,South Eastern,Bangor MIU,Type 3,900,0,0,900.00
+2018/19,18-Apr,South Eastern,Downe,Type 2,"1,701.00",126,6,1833.00
+2018/19,18-Apr,South Eastern,Lagan Valley,Type 2,"1,681.00",341,20,2042.00
+2018/19,18-Apr,South Eastern,Ulster,Type 1,"4,799.00","2,464.00",436,7699.00
+2018/19,18-Apr,Southern,Craigavon Area,Type 1,"4,456.00","2,551.00",166,7173.00
+2018/19,18-Apr,Southern,Daisy Hill,Type 1,"3,501.00","1,205.00",71,4777.00
+2018/19,18-Apr,Southern,South Tyrone,Type 3,"2,936.00",0,0,2936.00
+2018/19,18-Apr,Western,Altnagelvin Area,Type 1,"3,754.00","1,634.00",45,5433.00
+2018/19,18-Apr,Western,South West Acute,Type 1,"2,006.00",882,38,2926.00
+2018/19,18-Apr,Western,Tyrone County,Type 3,"1,531.00",26,0,1557.00
+2018/19,18-May,Belfast,Mater,Type 1,"2,975.00","1,192.00",92,4259.00
+2018/19,18-May,Belfast,Royal Victoria,Type 1,"4,788.00","3,184.00",155,8127.00
+2018/19,18-May,Belfast,RBHSC,Type 1,"2,868.00",785,0,3653.00
+2018/19,18-May,Belfast,Royal Victoria (RAES),Type 2,"1,145.00",294,3,1442.00
+2018/19,18-May,Northern,Antrim Area,Type 1,"5,241.00","2,272.00",137,7650.00
+2018/19,18-May,Northern,Causeway,Type 1,"3,072.00","1,224.00",36,4332.00
+2018/19,18-May,Northern,Mid-Ulster,Type 3,991,0,0,991.00
+2018/19,18-May,South Eastern,Ards MIU,Type 3,"1,098.00",0,0,1098.00
+2018/19,18-May,South Eastern,Bangor MIU,Type 3,970,0,0,970.00
+2018/19,18-May,South Eastern,Downe,Type 2,"1,955.00",145,14,2114.00
+2018/19,18-May,South Eastern,Lagan Valley,Type 2,"2,016.00",292,0,2308.00
+2018/19,18-May,South Eastern,Ulster,Type 1,"5,298.00","2,625.00",450,8373.00
+2018/19,18-May,Southern,Craigavon Area,Type 1,"4,817.00","2,687.00",208,7712.00
+2018/19,18-May,Southern,Daisy Hill,Type 1,"3,718.00","1,372.00",32,5122.00
+2018/19,18-May,Southern,South Tyrone,Type 3,"3,329.00",1,0,3330.00
+2018/19,18-May,Western,Altnagelvin Area,Type 1,"4,648.00","1,313.00",12,5973.00
+2018/19,18-May,Western,South West Acute,Type 1,"2,320.00",860,17,3197.00
+2018/19,18-May,Western,Tyrone County,Type 3,"1,817.00",26,0,1843.00
+2018/19,18-Jun,Belfast,Mater,Type 1,"2,968.00","1,002.00",59,4029.00
+2018/19,18-Jun,Belfast,Royal Victoria,Type 1,"4,708.00","2,997.00",107,7812.00
+2018/19,18-Jun,Belfast,RBHSC,Type 1,"2,704.00",504,0,3208.00
+2018/19,18-Jun,Belfast,Royal Victoria (RAES),Type 2,997,460,0,1457.00
+2018/19,18-Jun,Northern,Antrim Area,Type 1,"4,761.00","2,353.00",165,7279.00
+2018/19,18-Jun,Northern,Causeway,Type 1,"2,915.00",967,127,4009.00
+2018/19,18-Jun,Northern,Mid-Ulster,Type 3,943,1,0,944.00
+2018/19,18-Jun,South Eastern,Ards MIU,Type 3,"1,131.00",0,0,1131.00
+2018/19,18-Jun,South Eastern,Bangor MIU,Type 3,"1,011.00",0,0,1011.00
+2018/19,18-Jun,South Eastern,Downe,Type 2,"1,889.00",124,1,2014.00
+2018/19,18-Jun,South Eastern,Lagan Valley,Type 2,"1,915.00",327,0,2242.00
+2018/19,18-Jun,South Eastern,Ulster,Type 1,"5,104.00","2,524.00",550,8178.00
+2018/19,18-Jun,Southern,Craigavon Area,Type 1,"4,459.00","2,738.00",268,7465.00
+2018/19,18-Jun,Southern,Daisy Hill,Type 1,"3,736.00","1,340.00",18,5094.00
+2018/19,18-Jun,Southern,South Tyrone,Type 3,"3,389.00",0,0,3389.00
+2018/19,18-Jun,Western,Altnagelvin Area,Type 1,"4,394.00","1,287.00",36,5717.00
+2018/19,18-Jun,Western,South West Acute,Type 1,"2,130.00",967,27,3124.00
+2018/19,18-Jun,Western,Tyrone County,Type 3,"1,667.00",30,0,1697.00
